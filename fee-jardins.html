@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Fée des Deux Jardins — Attention Divisée</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:      #1a0a2e;
+  --bg2:     #2d1454;
+  --card:    #3d1f6e;
+  --card2:   #4a2880;
+  --gold:    #f0c040;
+  --gold2:   #c8971a;
+  --pink:    #ff7eb3;
+  --mint:    #7effd4;
+  --violet:  #c084fc;
+  --rose:    #fda4af;
+  --text:    #f8f0ff;
+  --muted:   #9d7fc0;
+  --green:   #4ade80;
+  --red:     #f87171;
+  --r:       16px;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{
+  background:var(--bg);
+  font-family:'Lora',serif;
+  color:var(--text);
+  min-height:100vh;
+  display:flex;flex-direction:column;align-items:center;
+  padding:14px;overflow-x:hidden;
+}
+
+/* Enchanted sky */
+body::before{
+  content:'';position:fixed;inset:0;
+  background:
+    radial-gradient(ellipse 80% 60% at 50% 0%, rgba(160,80,255,.18) 0%, transparent 70%),
+    radial-gradient(1px 1px at 8%  15%, rgba(255,255,200,.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 23% 40%, rgba(255,180,255,.5) 0%, transparent 100%),
+    radial-gradient(2px 2px at 38% 12%, rgba(200,255,255,.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 55% 55%, rgba(255,255,200,.4) 0%, transparent 100%),
+    radial-gradient(1px 1px at 72% 28%, rgba(255,180,255,.6) 0%, transparent 100%),
+    radial-gradient(2px 2px at 88% 45%, rgba(200,255,255,.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 95% 18%, rgba(255,255,200,.7) 0%, transparent 100%);
+  pointer-events:none;z-index:0;
+}
+
+.wrapper{position:relative;z-index:1;width:100%;max-width:660px;display:flex;flex-direction:column;align-items:center;gap:14px;}
+
+/* ── SCREENS ── */
+.screen{display:none;flex-direction:column;align-items:center;gap:14px;width:100%;}
+.screen.active{display:flex;}
+
+/* ── TITLES ── */
+.game-title{
+  font-family:'Cinzel',serif;font-weight:700;
+  font-size:clamp(1.5rem,5vw,2.4rem);text-align:center;
+  color:var(--gold);letter-spacing:2px;
+  text-shadow:0 0 24px rgba(240,192,64,.5),0 2px 4px rgba(0,0,0,.6);
+}
+.sub-title{font-family:'Cinzel',serif;font-weight:600;font-size:1rem;color:var(--violet);text-align:center;letter-spacing:1px;}
+.subtitle{font-size:.88rem;color:var(--muted);text-align:center;font-style:italic;}
+
+/* ── CARD ── */
+.card{
+  background:linear-gradient(145deg,var(--card2),var(--card));
+  border:1px solid rgba(240,192,64,.2);border-radius:var(--r);
+  padding:18px 22px;width:100%;
+  box-shadow:0 8px 32px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.06);
+}
+
+/* ── LEVEL CARDS ── */
+.lvl-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;width:100%;}
+@media(max-width:400px){.lvl-grid{grid-template-columns:repeat(2,1fr);}}
+.lvl-card{
+  background:var(--bg2);border:2px solid rgba(240,192,64,.15);border-radius:12px;
+  padding:12px 6px;cursor:pointer;text-align:center;transition:all .2s;
+}
+.lvl-card:hover{border-color:var(--gold);transform:translateY(-2px);}
+.lvl-card.selected{border-color:var(--gold);background:rgba(240,192,64,.08);}
+.lvl-icon{font-size:1.6rem;display:block;margin-bottom:4px;}
+.lvl-name{font-family:'Cinzel',serif;font-size:.65rem;color:var(--gold);letter-spacing:.5px;}
+.lvl-desc{font-size:.6rem;color:var(--muted);margin-top:3px;line-height:1.3;}
+
+/* ── HUD ── */
+.hud{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;width:100%;}
+.hud-box{background:rgba(0,0,0,.3);border:1px solid rgba(240,192,64,.15);border-radius:10px;padding:7px 5px;text-align:center;}
+.hud-val{font-family:'Cinzel',serif;font-size:1.2rem;line-height:1;}
+.hud-lbl{font-size:.56rem;color:var(--muted);text-transform:uppercase;letter-spacing:.4px;margin-top:2px;}
+.hud-score .hud-val{color:var(--gold);}
+.hud-time  .hud-val{color:var(--mint);}
+.hud-streak .hud-val{color:var(--pink);}
+.hud-lives .hud-val{color:var(--red);}
+
+/* ── DUAL ARENA ── */
+.dual-arena{
+  display:grid;grid-template-columns:1fr 1fr;gap:10px;width:100%;
+}
+.zone{
+  background:linear-gradient(145deg,var(--card2),var(--card));
+  border:2px solid rgba(240,192,64,.2);border-radius:var(--r);
+  padding:14px 10px;display:flex;flex-direction:column;align-items:center;gap:10px;
+  min-height:200px;position:relative;overflow:hidden;
+  box-shadow:0 4px 20px rgba(0,0,0,.4);
+  transition:border-color .3s;
+}
+.zone.zone-ok{border-color:var(--green);box-shadow:0 0 20px rgba(74,222,128,.25);}
+.zone.zone-ko{border-color:var(--red);box-shadow:0 0 20px rgba(248,113,113,.25);}
+.zone-title{
+  font-family:'Cinzel',serif;font-size:.65rem;font-weight:600;
+  color:var(--gold);letter-spacing:1.5px;text-transform:uppercase;
+  text-align:center;
+}
+.zone-emoji{font-size:3.2rem;line-height:1;animation:float 3s ease-in-out infinite;}
+@keyframes float{0%,100%{transform:translateY(0);}50%{transform:translateY(-6px);}}
+
+/* ── TASK A: Potion brewing — count bubbles ── */
+.cauldron{
+  width:80px;height:70px;position:relative;
+  display:flex;align-items:center;justify-content:center;
+  font-size:2.8rem;
+}
+.bubble-field{
+  width:100%;height:70px;position:relative;overflow:hidden;
+  display:flex;align-items:flex-end;justify-content:center;gap:4px;flex-wrap:wrap;
+}
+.bubble{
+  border-radius:50%;opacity:.85;
+  animation:rise linear forwards;
+  flex-shrink:0;
+}
+@keyframes rise{
+  0%{transform:translateY(0) scale(1);opacity:.85;}
+  100%{transform:translateY(-80px) scale(1.2);opacity:0;}
+}
+.count-btns{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;}
+.count-btn{
+  width:38px;height:38px;border-radius:50%;border:2px solid var(--violet);
+  background:rgba(192,132,252,.15);color:var(--text);
+  font-family:'Cinzel',serif;font-weight:700;font-size:.9rem;
+  cursor:pointer;transition:all .12s;display:flex;align-items:center;justify-content:center;
+}
+.count-btn:hover{background:rgba(192,132,252,.35);transform:scale(1.1);}
+.count-btn:active{transform:scale(.93);}
+.count-btn.correct{background:rgba(74,222,128,.3);border-color:var(--green);}
+.count-btn.wrong{background:rgba(248,113,113,.3);border-color:var(--red);}
+
+/* ── TASK B: Fairy guardian — intercept intruders ── */
+.garden{
+  width:100%;flex:1;position:relative;overflow:hidden;
+  min-height:120px;border-radius:10px;
+  background:linear-gradient(180deg,rgba(0,0,0,0) 0%,rgba(0,80,0,.15) 100%);
+}
+.creature{
+  position:absolute;font-size:1.8rem;cursor:pointer;
+  transition:transform .1s;user-select:none;
+  animation:descend linear forwards;
+}
+@keyframes descend{
+  0%{top:-10%;opacity:1;}
+  100%{top:95%;opacity:.8;}
+}
+.creature:active{transform:scale(.8);}
+.gate{
+  position:absolute;bottom:4px;left:50%;transform:translateX(-50%);
+  font-size:1.4rem;
+}
+
+/* ── TASK LABELS ── */
+.task-label{
+  font-size:.72rem;color:var(--muted);font-style:italic;text-align:center;line-height:1.3;
+}
+.task-question{
+  font-family:'Cinzel',serif;font-size:.75rem;color:var(--violet);
+  text-align:center;letter-spacing:.5px;
+}
+
+/* ── TIMER BAR ── */
+.timer-wrap{width:100%;height:7px;background:rgba(0,0,0,.3);border-radius:20px;overflow:hidden;}
+.timer-bar{height:100%;border-radius:20px;transition:background .5s;}
+
+/* ── PROG ── */
+.prog-wrap{width:100%;height:7px;background:rgba(0,0,0,.3);border-radius:20px;overflow:hidden;}
+.prog-bar{height:100%;background:linear-gradient(90deg,var(--violet),var(--gold));border-radius:20px;transition:width .3s;}
+
+/* ── ROUND BANNER ── */
+.round-banner{
+  font-family:'Cinzel',serif;font-size:.8rem;color:var(--gold);
+  text-align:center;letter-spacing:1px;
+}
+
+/* ── BUTTONS ── */
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  padding:12px 24px;border-radius:50px;border:none;
+  font-family:'Cinzel',serif;font-weight:600;font-size:.9rem;
+  cursor:pointer;transition:transform .15s,box-shadow .15s;letter-spacing:1px;
+}
+.btn:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.4);}
+.btn:active{transform:scale(.97);}
+.btn-primary{background:linear-gradient(135deg,var(--gold2),var(--gold));color:var(--bg);font-weight:700;}
+.btn-outline{background:transparent;border:2px solid var(--gold2);color:var(--gold);}
+.btn-sm{padding:8px 18px;font-size:.78rem;}
+.btn-row{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;}
+
+/* ── COUNTDOWN ── */
+.cdown{
+  font-family:'Cinzel',serif;font-weight:700;font-size:5rem;
+  color:var(--gold);text-shadow:0 0 30px rgba(240,192,64,.7);
+  animation:cPop .7s cubic-bezier(.175,.885,.32,1.275);
+}
+@keyframes cPop{0%{transform:scale(2);opacity:0;}100%{transform:scale(1);opacity:1;}}
+
+/* ── RESULTS ── */
+.res-badge{font-size:4rem;text-align:center;animation:popIn .5s cubic-bezier(.175,.885,.32,1.275);}
+@keyframes popIn{0%{transform:scale(0);}100%{transform:scale(1);}}
+.res-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;width:100%;}
+.res-item{background:rgba(0,0,0,.3);border-radius:12px;padding:13px;text-align:center;border:1px solid rgba(240,192,64,.1);}
+.res-val{font-family:'Cinzel',serif;font-size:1.5rem;}
+.res-lbl{font-size:.65rem;color:var(--muted);margin-top:2px;}
+.perf-msg{font-size:.88rem;font-weight:600;text-align:center;padding:13px 18px;border-radius:12px;width:100%;font-style:italic;}
+.perf-s{background:rgba(74,222,128,.1);color:var(--green);border:1px solid rgba(74,222,128,.3);}
+.perf-a{background:rgba(240,192,64,.1);color:var(--gold);border:1px solid rgba(240,192,64,.3);}
+.perf-b{background:rgba(192,132,252,.1);color:var(--violet);border:1px solid rgba(192,132,252,.3);}
+.perf-c{background:rgba(248,113,113,.1);color:var(--red);border:1px solid rgba(248,113,113,.3);}
+
+/* ── TOAST ── */
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);padding:8px 20px;border-radius:50px;font-family:'Cinzel',serif;font-size:.78rem;letter-spacing:.5px;box-shadow:0 4px 16px rgba(0,0,0,.4);opacity:0;transition:opacity .25s;pointer-events:none;z-index:200;white-space:nowrap;}
+#toast.show{opacity:1;}
+#toast.ok{background:rgba(74,222,128,.15);border:1px solid var(--green);color:var(--green);}
+#toast.ko{background:rgba(248,113,113,.15);border:1px solid var(--red);color:var(--red);}
+#toast.info{background:rgba(192,132,252,.15);border:1px solid var(--violet);color:var(--violet);}
+
+/* ── QUIT MODAL ── */
+#quit-modal{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:300;display:none;align-items:center;justify-content:center;}
+#quit-modal.open{display:flex;}
+.quit-box{background:var(--card2);border:1px solid rgba(240,192,64,.3);border-radius:20px;padding:28px;text-align:center;max-width:280px;width:90%;box-shadow:0 12px 40px rgba(0,0,0,.6);}
+.quit-box p{font-family:'Cinzel',serif;font-size:.9rem;color:var(--text);margin-bottom:18px;line-height:1.5;}
+
+/* ── INTRO STEPS ── */
+.intro-step{display:flex;align-items:flex-start;gap:12px;background:rgba(0,0,0,.2);border-radius:12px;padding:12px 14px;border:1px solid rgba(240,192,64,.08);}
+.intro-step-icon{font-size:1.6rem;flex-shrink:0;}
+.intro-step-text{font-size:.85rem;line-height:1.4;color:var(--muted);}
+.intro-step-text strong{color:var(--text);}
+</style>
+</head>
+<body>
+<div id="toast"></div>
+<div id="quit-modal">
+  <div class="quit-box">
+    <p>✨ Quitter cette partie ?<br><span style="color:var(--muted);font-size:.8rem;">La fée retournera dormir…</span></p>
+    <div class="btn-row">
+      <button class="btn btn-sm" style="background:var(--red);color:#fff;font-family:'Cinzel',serif;" onclick="doQuit()">Quitter</button>
+      <button class="btn btn-outline btn-sm" onclick="closeQuit()">Continuer</button>
+    </div>
+  </div>
+</div>
+
+<div class="wrapper">
+
+<!-- ══ HOME ══ -->
+<div class="screen active" id="s-home">
+  <div style="text-align:center;padding-top:6px;">
+    <div style="font-size:3rem;margin-bottom:6px;">🧚</div>
+    <div class="game-title">La Fée des Deux Jardins</div>
+    <div class="subtitle">Entraînement à l'attention divisée</div>
+  </div>
+
+  <div class="card">
+    <div style="display:flex;flex-direction:column;gap:10px;">
+      <div class="intro-step">
+        <div class="intro-step-icon">🫧</div>
+        <div class="intro-step-text"><strong>Jardin Gauche — La Chaudière.</strong> Des bulles montent de la potion. Compte-les, puis choisis le bon nombre quand la fée te demande !</div>
+      </div>
+      <div class="intro-step">
+        <div class="intro-step-icon">🦋</div>
+        <div class="intro-step-text"><strong>Jardin Droit — Le Portail.</strong> Des créatures descendent vers le portail enchanté. Tape sur les <strong>intrus</strong> (👹 gobelins, 🐍 serpents) avant qu'ils ne passent !</div>
+      </div>
+      <div class="intro-step">
+        <div class="intro-step-icon">🧠</div>
+        <div class="intro-step-text">Les deux tâches tournent <strong>en même temps</strong>. Tu dois diviser ton attention entre les deux jardins simultanément !</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="width:100%;">
+    <div class="subtitle" style="margin-bottom:10px;text-align:left;">Choisir un niveau :</div>
+    <div class="lvl-grid">
+      <div class="lvl-card selected" onclick="selectLevel(this,'easy')">
+        <span class="lvl-icon">🌸</span>
+        <div class="lvl-name">Novice</div>
+        <div class="lvl-desc">Lent, peu d'intrus, bulles claires</div>
+      </div>
+      <div class="lvl-card" onclick="selectLevel(this,'medium')">
+        <span class="lvl-icon">🌿</span>
+        <div class="lvl-name">Initié</div>
+        <div class="lvl-desc">Rythme normal, intrus variés</div>
+      </div>
+      <div class="lvl-card" onclick="selectLevel(this,'hard')">
+        <span class="lvl-icon">🌙</span>
+        <div class="lvl-name">Enchanteur</div>
+        <div class="lvl-desc">Rapide, nombreux intrus</div>
+      </div>
+      <div class="lvl-card" onclick="selectLevel(this,'endless')">
+        <span class="lvl-icon">♾️</span>
+        <div class="lvl-name">Infini</div>
+        <div class="lvl-desc">3 erreurs = fin, difficulté croissante</div>
+      </div>
+    </div>
+  </div>
+
+  <button class="btn btn-primary" onclick="launchGame()">✨ Entrer dans les jardins</button>
+</div>
+
+<!-- ══ COUNTDOWN ══ -->
+<div class="screen" id="s-countdown">
+  <div style="font-size:2.5rem;">🧚</div>
+  <div class="cdown" id="cd-num">3</div>
+  <div class="subtitle" id="cd-msg">Divise ton attention !</div>
+</div>
+
+<!-- ══ GAME ══ -->
+<div class="screen" id="s-game">
+
+  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+    <div class="sub-title" style="font-size:.9rem;">🧚 La Fée des Deux Jardins</div>
+    <div class="round-banner" id="round-banner">Manche 1</div>
+  </div>
+
+  <div class="hud">
+    <div class="hud-box hud-score"><div class="hud-val" id="hud-score">0</div><div class="hud-lbl">✨ Score</div></div>
+    <div class="hud-box hud-streak"><div class="hud-val" id="hud-streak">0🔥</div><div class="hud-lbl">Série</div></div>
+    <div class="hud-box hud-time"><div class="hud-val" id="hud-time">—</div><div class="hud-lbl">⏱ Temps</div></div>
+    <div class="hud-box hud-lives"><div class="hud-val" id="hud-lives">❤❤❤</div><div class="hud-lbl">Vies</div></div>
+  </div>
+
+  <div class="prog-wrap"><div class="prog-bar" id="prog-bar" style="width:0%"></div></div>
+
+  <div class="dual-arena">
+
+    <!-- ZONE A: Cauldron / count bubbles -->
+    <div class="zone" id="zone-a">
+      <div class="zone-title">🫧 La Chaudière</div>
+      <div style="font-size:2.2rem;">🪄</div>
+      <div class="bubble-field" id="bubble-field"></div>
+      <div class="task-question" id="bubble-question" style="display:none;">Combien de bulles ?</div>
+      <div class="count-btns" id="count-btns" style="display:none;"></div>
+      <div class="task-label" id="bubble-hint">Observe les bulles…</div>
+    </div>
+
+    <!-- ZONE B: Garden / tap intruders -->
+    <div class="zone" id="zone-b">
+      <div class="zone-title">🌺 Le Portail</div>
+      <div class="garden" id="garden"></div>
+      <div class="gate">🔮</div>
+      <div class="task-label" id="garden-hint">Tape les intrus !</div>
+    </div>
+
+  </div>
+
+  <div class="timer-wrap"><div class="timer-bar" id="timer-bar" style="width:100%;background:var(--mint)"></div></div>
+
+  <button class="btn btn-outline btn-sm" onclick="openQuit()">← Quitter</button>
+</div>
+
+<!-- ══ RESULTS ══ -->
+<div class="screen" id="s-results">
+  <div class="res-badge" id="res-badge">🏆</div>
+  <div class="game-title" style="font-size:1.5rem;" id="res-title">Mission accomplie !</div>
+  <div class="res-grid">
+    <div class="res-item"><div class="res-val" id="res-score" style="color:var(--gold)">0</div><div class="res-lbl">✨ Score total</div></div>
+    <div class="res-item"><div class="res-val" id="res-potions" style="color:var(--violet)">—</div><div class="res-lbl">🫧 Potions réussies</div></div>
+    <div class="res-item"><div class="res-val" id="res-intrus" style="color:var(--mint)">—</div><div class="res-lbl">🛡️ Intrus bloqués</div></div>
+    <div class="res-item"><div class="res-val" id="res-best" style="color:var(--pink)">0</div><div class="res-lbl">🔥 Meilleure série</div></div>
+  </div>
+  <div class="perf-msg" id="res-perf"></div>
+  <div class="btn-row">
+    <button class="btn btn-primary" onclick="replayGame()">↺ Rejouer</button>
+    <button class="btn btn-outline btn-sm" onclick="showScreen('s-home')">🏠 Menu</button>
+  </div>
+</div>
+
+</div><!-- /wrapper -->
+<script>
+'use strict';
+// ═══════════════════════════════════════════════
+//  CONFIG
+// ═══════════════════════════════════════════════
+const LEVELS = {
+  easy:    {label:'Novice',    rounds:8,  bubbleMs:2800, bubbleMax:5, intruderMs:3500, intruderRate:.30, endless:false, maxErrors:99},
+  medium:  {label:'Initié',   rounds:12, bubbleMs:2200, bubbleMax:7, intruderMs:2800, intruderRate:.45, endless:false, maxErrors:99},
+  hard:    {label:'Enchanteur',rounds:16, bubbleMs:1700, bubbleMax:9, intruderMs:2200, intruderRate:.55, endless:false, maxErrors:99},
+  endless: {label:'Infini ♾', rounds:999,bubbleMs:2500, bubbleMax:6, intruderMs:3000, intruderRate:.40, endless:true,  maxErrors:3},
+};
+
+const BUBBLE_COLORS = ['#c084fc','#f9a8d4','#67e8f9','#86efac','#fde68a','#fb923c'];
+const FRIENDS   = ['🦋','🌸','⭐','🍄','🌟','💫','🌈','🦜','🌺'];
+const INTRUDERS = ['👹','👹','👹','🐍','🐍','🐍'];
+
+// ═══════════════════════════════════════════════
+//  STATE
+// ═══════════════════════════════════════════════
+let levelKey = 'easy';
+let cfg = LEVELS.easy;
+let score=0, errors=0, streak=0, bestStreak=0, lives=3;
+let potionsOk=0, potionsTried=0, intrusBlocked=0, intrusTotal=0;
+let round=0, running=false, sessionTok=0;
+let timerRaf=null, timerIv=null, elapsed=0;
+
+// Bubble task
+let bubbleCount=0, bubblePhase='show'; // show | answer
+let bubbleTimeout=null;
+
+// Garden task
+let gardenInterval=null;
+let activeCreatures=[];
+
+// ═══════════════════════════════════════════════
+//  UTILS
+// ═══════════════════════════════════════════════
+function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');}
+function rand(a,b){return Math.floor(Math.random()*(b-a+1))+a;}
+function pick(arr){return arr[Math.floor(Math.random()*arr.length)];}
+function shuffle(a){const r=[...a];for(let i=r.length-1;i>0;i--){const j=rand(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;}
+function livesStr(n,max=3){return '❤'.repeat(Math.max(0,n))+'🖤'.repeat(Math.max(0,max-n));}
+function toast(msg,type,dur=1600){const el=document.getElementById('toast');el.textContent=msg;el.className='show '+type;clearTimeout(el._t);el._t=setTimeout(()=>el.classList.remove('show'),dur);}
+function selectLevel(el,key){levelKey=key;document.querySelectorAll('.lvl-card').forEach(c=>c.classList.remove('selected'));el.classList.add('selected');}
+
+function flashZone(id,type){
+  const z=document.getElementById(id);
+  z.classList.remove('zone-ok','zone-ko');
+  void z.offsetWidth;
+  z.classList.add(type==='ok'?'zone-ok':'zone-ko');
+  setTimeout(()=>z.classList.remove('zone-ok','zone-ko'),600);
+}
+
+function markOk(pts=100){
+  streak++;if(streak>bestStreak)bestStreak=streak;
+  score+=pts*Math.max(1,Math.ceil(streak/3));
+}
+function markKo(){
+  errors++;streak=0;
+  if(cfg.endless){lives--;if(lives<=0)return true;}
+  return false;
+}
+
+function cancelAll(){
+  if(timerRaf){cancelAnimationFrame(timerRaf);timerRaf=null;}
+  clearInterval(timerIv);clearTimeout(bubbleTimeout);
+  clearInterval(gardenInterval);
+}
+
+function updateHUD(){
+  document.getElementById('hud-score').textContent=score;
+  document.getElementById('hud-streak').textContent=streak+'🔥';
+  document.getElementById('hud-lives').textContent=cfg.endless?livesStr(lives,cfg.maxErrors):'∞';
+}
+
+// ═══════════════════════════════════════════════
+//  LAUNCH
+// ═══════════════════════════════════════════════
+function launchGame(){
+  cfg=LEVELS[levelKey];
+  score=0;errors=0;streak=0;bestStreak=0;
+  lives=cfg.maxErrors;round=0;elapsed=0;
+  potionsOk=0;potionsTried=0;intrusBlocked=0;intrusTotal=0;
+  running=true;sessionTok++;
+  countdown(()=>startGame());
+}
+function replayGame(){launchGame();}
+
+function countdown(cb){
+  showScreen('s-countdown');
+  let n=3;const el=document.getElementById('cd-num');
+  el.textContent=n;
+  const iv=setInterval(()=>{
+    n--;
+    if(n<=0){clearInterval(iv);cb();}
+    else{el.textContent=n;el.style.animation='none';void el.offsetWidth;el.style.animation='cPop .7s cubic-bezier(.175,.885,.32,1.275)';}
+  },900);
+}
+
+// ═══════════════════════════════════════════════
+//  GAME START
+// ═══════════════════════════════════════════════
+function startGame(){
+  showScreen('s-game');
+  updateHUD();
+  startTimer();
+  nextRound();
+  startGarden();
+}
+
+// ── GLOBAL TIMER ──
+function startTimer(){
+  elapsed=0;
+  clearInterval(timerIv);
+  timerIv=setInterval(()=>{
+    if(!running)return;
+    elapsed++;
+    document.getElementById('hud-time').textContent=elapsed+'s';
+  },1000);
+}
+
+// ═══════════════════════════════════════════════
+//  TASK A — BUBBLE COUNTING
+// ═══════════════════════════════════════════════
+function nextRound(){
+  const myTok=sessionTok;
+  if(!running||myTok!==sessionTok)return;
+  if(!cfg.endless&&round>=cfg.rounds){endGame();return;}
+  round++;
+  document.getElementById('round-banner').textContent='Manche '+round;
+  document.getElementById('prog-bar').style.width=(cfg.endless?0:Math.min(100,round/cfg.rounds*100))+'%';
+
+  // In endless, scale difficulty
+  if(cfg.endless){
+    cfg={...LEVELS.endless,
+      bubbleMax:   Math.min(12, 6+Math.floor(round/4)),
+      bubbleMs:    Math.max(1200, 2500-round*60),
+      intruderMs:  Math.max(1500, 3000-round*50),
+      intruderRate:Math.min(.7, .40+round*.02),
+    };
+  }
+
+  bubblePhase='show';
+  bubbleCount=rand(1,cfg.bubbleMax);
+  document.getElementById('bubble-question').style.display='none';
+  document.getElementById('count-btns').style.display='none';
+  document.getElementById('bubble-hint').textContent='Compte les bulles qui montent…';
+
+  spawnBubbles(bubbleCount, cfg.bubbleMs, myTok);
+}
+
+function spawnBubbles(n, durationMs, myTok){
+  const field=document.getElementById('bubble-field');
+  field.innerHTML='';
+  const sizes=[14,18,22,26];
+  for(let i=0;i<n;i++){
+    const b=document.createElement('div');
+    b.className='bubble';
+    const sz=pick(sizes);
+    const delay=rand(0,Math.floor(durationMs*0.6));
+    b.style.cssText=`width:${sz}px;height:${sz}px;background:${pick(BUBBLE_COLORS)};
+      animation-duration:${rand(800,1400)}ms;animation-delay:${delay}ms;
+      position:absolute;left:${rand(5,85)}%;bottom:${rand(0,20)}px;`;
+    field.appendChild(b);
+  }
+
+  // After bubbles finish, ask the question
+  bubbleTimeout=setTimeout(()=>{
+    if(!running||myTok!==sessionTok)return;
+    askBubbleQuestion(myTok);
+  }, durationMs+400);
+}
+
+function askBubbleQuestion(myTok){
+  if(!running||myTok!==sessionTok)return;
+  bubblePhase='answer';
+  document.getElementById('bubble-hint').textContent='';
+  document.getElementById('bubble-question').style.display='block';
+
+  // Build answer choices: correct + 3 distractors
+  const correct=bubbleCount;
+  const distractors=new Set();
+  while(distractors.size<3){
+    let d=correct+rand(-3,3);
+    if(d<1)d=1;
+    if(d!==correct)distractors.add(d);
+  }
+  const choices=shuffle([correct,...distractors]);
+
+  const btns=document.getElementById('count-btns');
+  btns.style.display='flex';btns.innerHTML='';
+  choices.forEach(n=>{
+    const btn=document.createElement('button');
+    btn.className='count-btn';btn.textContent=n;
+    btn.onclick=()=>{if(bubblePhase==='answer'&&running&&myTok===sessionTok)bubbleAnswer(n,btn,myTok);};
+    btns.appendChild(btn);
+  });
+
+  // Auto-timeout if no answer
+  bubbleTimeout=setTimeout(()=>{
+    if(bubblePhase!=='answer'||!running||myTok!==sessionTok)return;
+    bubblePhase='done';
+    potionsTried++;
+    const dead=markKo();updateHUD();
+    toast('⏰ Trop lent sur la potion !','ko',1800);
+    flashZone('zone-a','ko');
+    if(dead){setTimeout(()=>endGame(),1500);return;}
+    setTimeout(()=>nextRound(),1600);
+  },4000);
+}
+
+function bubbleAnswer(n,btn,myTok){
+  if(!running||myTok!==sessionTok||bubblePhase!=='answer')return;
+  bubblePhase='done';clearTimeout(bubbleTimeout);
+  potionsTried++;
+
+  // Disable all buttons
+  document.querySelectorAll('#count-btns .count-btn').forEach(b=>b.onclick=null);
+
+  if(n===bubbleCount){
+    btn.classList.add('correct');
+    potionsOk++;
+    const pts=150;markOk(pts);
+    toast(`✨ +${pts} — ${bubbleCount} bulles !`,'ok');
+    flashZone('zone-a','ok');
+  } else {
+    btn.classList.add('wrong');
+    // show correct
+    document.querySelectorAll('#count-btns .count-btn').forEach(b=>{
+      if(parseInt(b.textContent)===bubbleCount)b.classList.add('correct');
+    });
+    const dead=markKo();updateHUD();
+    toast(`❌ C'était ${bubbleCount} bulles`,'ko',2000);
+    flashZone('zone-a','ko');
+    if(dead){setTimeout(()=>endGame(),1500);return;}
+  }
+  updateHUD();
+  setTimeout(()=>nextRound(),1200);
+}
+
+// ═══════════════════════════════════════════════
+//  TASK B — GARDEN (tap intruders)
+// ═══════════════════════════════════════════════
+function startGarden(){
+  const myTok=sessionTok;
+  clearInterval(gardenInterval);
+  const garden=document.getElementById('garden');
+  garden.innerHTML='';
+  activeCreatures=[];
+
+  // Spawn creatures on interval
+  const spawnInterval=cfg.intruderMs*(0.6);
+  gardenInterval=setInterval(()=>{
+    if(!running||myTok!==sessionTok){clearInterval(gardenInterval);return;}
+    spawnCreature(myTok);
+  },spawnInterval);
+}
+
+function spawnCreature(myTok){
+  const garden=document.getElementById('garden');
+  const isIntruder=Math.random()<cfg.intruderRate;
+  const emoji=isIntruder?pick(INTRUDERS):pick(FRIENDS);
+  const gardenH=garden.offsetHeight||140;
+
+  const el=document.createElement('div');
+  el.className='creature';
+  el.textContent=emoji;
+  el.style.left=rand(5,80)+'%';
+  el.style.top='-10%';
+  el.style.animationDuration=cfg.intruderMs+'ms';
+  el.dataset.isIntruder=isIntruder?'1':'0';
+
+  if(isIntruder){
+    intrusTotal++;
+    el.onclick=()=>{
+      if(!running||myTok!==sessionTok)return;
+      el.style.animation='none';
+      el.style.opacity='0';
+      el.style.transform='scale(0) rotate(180deg)';
+      el.style.transition='all .3s';
+      setTimeout(()=>el.remove(),300);
+      intrusBlocked++;
+      markOk(80);updateHUD();
+      flashZone('zone-b','ok');
+      toast('🛡️ Intrus bloqué !','ok',900);
+    };
+  } else {
+    // Friends: tapping them is a mistake
+    el.onclick=()=>{
+      if(!running||myTok!==sessionTok)return;
+      el.style.fontSize='2.2rem';
+      const dead=markKo();updateHUD();
+      flashZone('zone-b','ko');
+      toast('💔 C\'était un ami !','ko',1500);
+      if(dead){setTimeout(()=>endGame(),1500);}
+    };
+  }
+
+  // When creature reaches bottom without being caught
+  el.addEventListener('animationend',()=>{
+    if(!running||myTok!==sessionTok)return;
+    if(el.dataset.isIntruder==='1'&&el.isConnected){
+      el.remove();
+      const dead=markKo();updateHUD();
+      flashZone('zone-b','ko');
+      toast('👹 Un intrus est passé !','ko',1500);
+      if(dead){setTimeout(()=>endGame(),1200);}
+    } else {
+      el.remove();
+    }
+  });
+
+  garden.appendChild(el);
+}
+
+// ═══════════════════════════════════════════════
+//  END GAME
+// ═══════════════════════════════════════════════
+function endGame(){
+  running=false;cancelAll();sessionTok++;
+
+  const potionAcc=potionsTried?Math.round(potionsOk/potionsTried*100):0;
+  const intruderAcc=intrusTotal?Math.round(intrusBlocked/intrusTotal*100):0;
+  const overall=Math.round((potionAcc+intruderAcc)/2);
+
+  document.getElementById('res-score').textContent=score;
+  document.getElementById('res-potions').textContent=potionsOk+'/'+potionsTried;
+  document.getElementById('res-intrus').textContent=intrusBlocked+'/'+intrusTotal;
+  document.getElementById('res-best').textContent=bestStreak;
+
+  let badge,title,msg,cls;
+  if(overall>=80){badge='🏆';title='Fée Légendaire !';cls='perf-s';msg='✨ Extraordinaire ! Tu divises ton attention avec une maîtrise absolue. Les deux jardins sont en sécurité !';}
+  else if(overall>=60){badge='🌟';title='Gardienne Accomplie !';cls='perf-a';msg='🌸 Très bien ! Tu gères les deux tâches avec talent. Continue à t\'entraîner !';}
+  else if(overall>=40){badge='🌿';title='Apprentie Fée !';cls='perf-b';msg='🍄 Bon effort ! L\'attention divisée est difficile. Tu progresses à chaque session !';}
+  else{badge='🌙';title='Les Jardins résistent…';cls='perf-c';msg='🔮 C\'est un défi cognitif exigeant ! Recommence pour renforcer ton attention divisée.';}
+
+  document.getElementById('res-badge').textContent=badge;
+  document.getElementById('res-title').textContent=title;
+  const pm=document.getElementById('res-perf');pm.textContent=msg;pm.className='perf-msg '+cls;
+  showScreen('s-results');
+}
+
+// ═══════════════════════════════════════════════
+//  QUIT
+// ═══════════════════════════════════════════════
+function openQuit(){document.getElementById('quit-modal').classList.add('open');}
+function closeQuit(){document.getElementById('quit-modal').classList.remove('open');}
+function doQuit(){
+  closeQuit();running=false;sessionTok++;cancelAll();
+  showScreen('s-home');
+}
+</script>
+</body>
+</html>
