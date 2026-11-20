@@ -41,9 +41,16 @@ const STYLES: Record<TextR['style'], React.CSSProperties> = {
   note: {fontFamily: SANS, fontWeight: 500, fontSize: 36, lineHeight: 1.3},
 };
 
+// Les mots composés (est-ce, a-t-on, Obi-Wan…) ne se coupent jamais en fin de ligne.
+const noHyphenBreak = (s: string, key: string | number = 'h'): React.ReactNode => {
+  const parts = s.split(/([^\s\u202f]*[A-Za-zÀ-ÿ’]-[A-Za-zÀ-ÿ’][^\s\u202f]*)/g);
+  if (parts.length === 1) return s;
+  return parts.map((x, i) => (i % 2 === 1 ? <span key={`${key}-${i}`} style={{whiteSpace: 'nowrap'}}>{x}</span> : x));
+};
+
 const renderWithHighlights = (text: string, hl: Highlight[] | undefined, frame: number) => {
   const t = typo(text);
-  if (!hl || hl.length === 0) return t;
+  if (!hl || hl.length === 0) return noHyphenBreak(t);
   // découpe successive sur chaque mot mis en relief (première occurrence restante)
   type Part = {s: string; h?: Highlight};
   let parts: Part[] = [{s: t}];
@@ -63,7 +70,7 @@ const renderWithHighlights = (text: string, hl: Highlight[] | undefined, frame: 
     parts = next;
   }
   return parts.map((p, i) => {
-    if (!p.h) return <React.Fragment key={i}>{p.s}</React.Fragment>;
+    if (!p.h) return <React.Fragment key={i}>{noHyphenBreak(p.s, i)}</React.Fragment>;
     const k = interpolate(frame, [p.h.at, p.h.at + 8], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
     const col = p.h.color ?? RED;
     return (
