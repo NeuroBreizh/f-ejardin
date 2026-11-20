@@ -279,6 +279,10 @@ def make_subtitles(sents, P):
             if end - start < need:
                 start = max(end - need, start - SUB_LEAD, prev_end + SUB_GAP)
             events.append({'start': r3(start), 'end': r3(end), 'speech_end': r3(seg[-1]['end']), 'text': text, 'lines': line_break(text), 'sids': sorted({x['sid'] for x in seg})})
+    # rien après le noir final : le dernier sous-titre s'arrête au plus tard au noir
+    stop = sents[-1]['end'] + P['silence_final']
+    for e in events:
+        e['end'] = min(e['end'], stop)
     # snap aux images
     for e in events:
         e['start'] = round(round(e['start'] * FPS) / FPS, 3)

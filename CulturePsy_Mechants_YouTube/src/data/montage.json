@@ -611,7 +611,7 @@
   },
   {
    "id": "B21",
-   "at": "Si ta première réaction|<|-0.2",
+   "at": "Si ta première réaction|Oui|-0.3",
    "type": "compose",
    "note": "Les paroles prêtées au spectateur : il continue la conversation à la place de Walter",
    "layers": [
@@ -626,7 +626,6 @@
      "align": "center",
      "anchor": "center",
      "size": 66,
-     "at": "Si ta première réaction|Oui|-0.15",
      "dimAt": "Walter a raccroché|<",
      "dimTo": 0.3
     }

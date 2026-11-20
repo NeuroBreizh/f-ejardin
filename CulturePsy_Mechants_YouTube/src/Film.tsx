@@ -142,7 +142,7 @@ export const Film: React.FC = () => {
         </div>
       ) : null}
 
-      {R.calage ? <Subtitles frame={frame} /> : null}
+      {R.calage && p?.type !== 'noir' ? <Subtitles frame={frame} /> : null}
       {R.banners.calage && p?.type !== 'noir' ? (
         <div
           style={{

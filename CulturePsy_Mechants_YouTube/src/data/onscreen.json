@@ -187,7 +187,7 @@
   "kind": "mot",
   "text": "payer son traitement",
   "from": 5558,
-  "to": 5825,
+  "to": 5899,
   "style": "liste",
   "size": 58
  },
@@ -195,7 +195,7 @@
   "kind": "mot",
   "text": "laisser de l’argent aux enfants",
   "from": 5617,
-  "to": 5825,
+  "to": 5899,
   "style": "liste",
   "size": 58
  },
@@ -203,14 +203,14 @@
   "kind": "question",
   "text": "Mais pourquoi lui mentir ?",
   "from": 5750,
-  "to": 5825,
+  "to": 5899,
   "style": "question",
   "size": 70
  },
  {
   "kind": "spectateur",
   "text": "« Oui, mais tu comprends, avec leur histoire, il ne pouvait pas accepter cet argent… »",
-  "from": 5903,
+  "from": 5899,
   "to": 6361,
   "style": "citation",
   "size": 66

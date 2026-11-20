@@ -33,7 +33,7 @@ def sh(cmd):
 def frame_at(mp4, n, w=1920, h=1080):
     t = n / FPS
     pre = max(0.0, t - 2.0)
-    r = subprocess.run(['ffmpeg', '-v', 'error', '-ss', f'{pre:.4f}', '-i', str(mp4), '-ss', f'{t - pre + 0.5 / FPS:.4f}', '-frames:v', '1',
+    r = subprocess.run(['ffmpeg', '-v', 'error', '-ss', f'{pre:.4f}', '-i', str(mp4), '-ss', f'{max(0.0, t - pre - 0.5 / FPS):.4f}', '-frames:v', '1',
                         '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-'], capture_output=True)
     return np.frombuffer(r.stdout, np.uint8).reshape(h, w, 3)
 

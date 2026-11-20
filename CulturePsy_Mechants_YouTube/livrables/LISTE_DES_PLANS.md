@@ -134,8 +134,8 @@
 - 02:10.63 → 02:15.90 · compose · Question : vouloir qu’il s’en sorte / lui donner raison
 - 02:15.90 → 02:39.40 · compose · « Il fait ça pour sa famille » : le pronom reste, le complément évolue
 - 02:43.23 → 03:05.27 · compose · Gretchen : pas de capture → résumé sans guillemets, barré sur « C’est faux. »
-- 03:05.27 → 03:14.17 · compose · Deux problèmes différents : le traitement / l’argent des enfants
-- 03:14.17 → 03:32.03 · compose · Les paroles prêtées au spectateur : il continue la conversation à la place de Walter
+- 03:05.27 → 03:16.63 · compose · Deux problèmes différents : le traitement / l’argent des enfants
+- 03:16.63 → 03:32.03 · compose · Les paroles prêtées au spectateur : il continue la conversation à la place de Walter
 - 03:32.03 → 03:37.43 · compose · Skyler connaît l’argument par cœur : rappel des trois compléments
 - 03:37.43 → 03:41.80 · compose · Walter s’apprête à resservir l’argument : les compléments s’effacent quand Skyler l’interrompt
 - 04:03.37 → 04:20.57 · compose · La question qu’on laisse lire
