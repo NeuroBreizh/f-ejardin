@@ -448,7 +448,7 @@
   },
   {
    "id": "B15",
-   "at": "Et quand son plan fonctionne|<|-0.15",
+   "at": "Et quand son plan fonctionne|plan|-0.1",
    "type": "clip",
    "src": "10",
    "in": "00:11.0",
@@ -605,7 +605,7 @@
      "align": "center",
      "anchor": "center",
      "size": 70,
-     "at": "Mais pourquoi lui mentir|<|-0.1"
+     "at": "Mais pourquoi lui mentir|<|-0.3"
     }
    ]
   },
@@ -872,7 +872,7 @@
      "align": "center",
      "anchor": "center",
      "size": 66,
-     "at": "Qu’est-ce qui nous donnait|<|-0.1"
+     "at": "Qu’est-ce qui nous donnait|<|-0.3"
     }
    ]
   },
@@ -1021,7 +1021,7 @@
   },
   {
    "id": "C10",
-   "at": "Est-ce que tu t’es seulement demandé|<|+0.1",
+   "at": "Est-ce que tu t’es seulement demandé|<|-0.15",
    "type": "compose",
    "backdrop": "flou",
    "note": "La question sur le visage de l’enfant",
@@ -1035,7 +1035,8 @@
      "eviter_bas": true,
      "reprise": true,
      "note": "Eren regarde la page",
-     "verifier": true
+     "verifier": true,
+     "until": "Moi, ce que je voulais savoir|<|-0.35"
     },
     {
      "type": "texte",
@@ -1047,14 +1048,13 @@
      "w": 660,
      "align": "left",
      "anchor": "center",
-     "size": 60,
-     "at": "Est-ce que tu t’es seulement demandé|si|-0.1"
+     "size": 60
     }
    ]
   },
   {
    "id": "C11",
-   "at": "Moi, ce que je voulais savoir|<|-0.15",
+   "at": "Moi, ce que je voulais savoir|ce|-0.1",
    "type": "clip",
    "src": "01",
    "in": 470,
@@ -1333,7 +1333,7 @@
   },
   {
    "id": "C24",
-   "at": "Bandura parle de comparaison|<|-0.15",
+   "at": "Bandura parle de comparaison|parle|-0.1",
    "type": "clip",
    "src": "09",
    "in": 2482,
@@ -1858,7 +1858,7 @@
      "w": 1020,
      "size": 64,
      "color": "#E44953",
-     "at": "Dans notre plaidoyer|Palpatine|-0.1"
+     "at": "Dans notre plaidoyer|commencent|-0.1"
     }
    ]
   },
@@ -2052,7 +2052,6 @@
      "align": "center",
      "anchor": "center",
      "size": 64,
-     "at": "Maintenant, même image|<|-0.1",
      "highlights": [
       {
        "mot": "Padmé",
@@ -2161,7 +2160,7 @@
      "y": 560,
      "w": 1060,
      "size": 54,
-     "at": "Tout le monde voyait|même#2|-0.1"
+     "at": "Tout le monde voyait|<|-0.1"
     }
    ]
   },
@@ -2316,9 +2315,9 @@
      "x": 760,
      "y": 640,
      "w": 1060,
-     "size": 48,
+     "size": 54,
      "color": "rgba(248,238,220,0.6)",
-     "at": "Ceux qui avaient essayé|personnalité|-0.1"
+     "at": "Ceux qui avaient essayé|moins|-0.1"
     }
    ]
   },
@@ -2811,7 +2810,7 @@
    "w": 1600,
    "box": true,
    "at": "Le chercheur Jonathan Cohen|<|-0.1",
-   "until": "Le chercheur Jonathan Cohen|identification|-0.35"
+   "until": "Le chercheur Jonathan Cohen|identification|+1.9"
   },
   {
    "type": "texte",
@@ -2920,7 +2919,7 @@
    "type": "texte",
    "style": "question",
    "kind": "question",
-   "text": "Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?",
+   "text": "où est-ce qu’on est censé courir ?",
    "x": 260,
    "y": 110,
    "w": 1400,
@@ -2954,7 +2953,7 @@
    "w": 1020,
    "size": 54,
    "at": "Ce passage de l’une à l’autre|déplacement|-0.1",
-   "until": "Écoute simplement le sujet|<|-0.2"
+   "until": "Écoute simplement le sujet|sujet|+0.2"
   }
  ],
  "sons": [

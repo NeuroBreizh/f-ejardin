@@ -7,7 +7,7 @@
   "points_de_suspension": 0.45,
   "entre_phrases": 0.3,
   "entre_paragraphes": 0.6,
-  "avant_chapitre": 2.4,
+  "avant_chapitre": 3.3,
   "intro": 2.4,
   "silence_final": 1.0,
   "noir_final": 1.5,
@@ -84,7 +84,7 @@
     },
     {
       "phrase": "Palpatine.",
-      "s": 0.8,
+      "s": 1.0,
       "raison": "le nom seul"
     },
     {
@@ -144,8 +144,18 @@
     },
     {
       "phrase": "Personne n’avait à rendre de verdict.",
-      "s": 0.9,
+      "s": 1.2,
       "raison": "le mot « verdict » est barré"
+    },
+    {
+      "phrase": "Mais pourquoi lui mentir ?",
+      "s": 0.8,
+      "raison": "la question reste lisible"
+    },
+    {
+      "phrase": "Dans notre plaidoyer, toutes les phrases commencent",
+      "s": 0.8,
+      "raison": "« Palpatine » reste à l’écran"
     }
   ]
 }

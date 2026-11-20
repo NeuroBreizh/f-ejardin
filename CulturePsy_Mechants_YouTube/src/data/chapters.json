@@ -17,35 +17,35 @@
   "index": 2,
   "title": "Eren : avec qui a-t-on grandi ?",
   "script_label": "Eren — Avec qui a-t-on grandi ?",
-  "start": 284.384,
+  "start": 285.784,
   "first_sentence": "s064"
  },
  {
   "index": 3,
   "title": "Anakin : qui a levé la main ?",
   "script_label": "Anakin — Qui a levé la main ?",
-  "start": 469.651,
+  "start": 471.951,
   "first_sentence": "s097"
  },
  {
   "index": 4,
   "title": "Le test : changer la consigne",
   "script_label": "Le test — Changer la consigne",
-  "start": 596.761,
+  "start": 600.361,
   "first_sentence": "s125"
  },
  {
   "index": 5,
   "title": "Le plaisir de regarder",
   "script_label": "Le plaisir de regarder",
-  "start": 698.641,
+  "start": 703.441,
   "first_sentence": "s145"
  },
  {
   "index": 6,
   "title": "Revenir au livre",
   "script_label": "Fin — Revenir au livre",
-  "start": 795.99,
+  "start": 801.69,
   "first_sentence": "s159"
  }
 ]

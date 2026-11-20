@@ -215,6 +215,7 @@ def resolve_clip(spec, start, end, default_dest='plein', plan_id=''):
         **({'radius': spec['radius']} if 'radius' in spec else ({'radius': 10} if dest != 'plein' else {})),
         **({'fade': spec['fade']} if spec.get('fade') else {}),
         **({'shadow': True} if dest != 'plein' else {}),
+        **({'label': f"{spec.get('note', '')} · {c['file'][:2]} i{in_f}{' (figée)' if rate == 0 else ''}"} if placeholder else {}),
         '_meta': {'capture': src, 'placeholder': placeholder, 'scale': round(scale, 4), 'scale_max': round(scale * z1, 4), 'limit': maxs,
                   'aspect_crop': crop[2] / crop[3], 'aspect_dest': d[2] / d[3], 'plan': plan_id, 'note': spec.get('note', ''),
                   'reprise': spec.get('reprise', False), 'verifier': spec.get('verifier', False)},
@@ -319,8 +320,8 @@ def main():
                 resolve_text({'style': 'etiquette', 'text': f"Chapitre {p['num']}", 'x': 170, 'y': 404, 'w': 1500, 'kind': 'chapitre', 'fade': 12}, a, b),
                 resolve_text({'style': 'grand', 'text': ch['title'], 'x': 170, 'y': 462, 'w': 1600, 'size': 104, 'kind': 'chapitre', 'fade': 14, 'rise': 24}, a, b),
             ]
-            r['layers'][0]['from'] = a + 4
-            r['layers'][1]['from'] = a + 8
+            r['layers'][0]['from'] = a + 2
+            r['layers'][1]['from'] = a + 4
             r['_note'] = f"Carte de chapitre : {ch['title']}"
         elif p['type'] == 'planche':
             exists = (PUBLIC / p['image']).exists()
@@ -363,6 +364,7 @@ def main():
         'fps': FPS,
         'durationInFrames': total,
         'calage': calage and burn,
+        'mires': sum(1 for u in usages if u['_meta']['placeholder']),
         'plans': plans,
         'overlays': overlays,
         'subs': [{'from': int(round(e['start'] * FPS)), 'to': int(round(e['end'] * FPS)), 'lines': e['lines']} for e in subs],

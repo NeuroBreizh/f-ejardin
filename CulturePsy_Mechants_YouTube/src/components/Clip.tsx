@@ -22,6 +22,7 @@ export type ClipR = {
   fade?: number; // fondu d'entrée en images
   fadeOut?: number;
   shadow?: boolean;
+  label?: string; // capture absente : description du plan prévu, affichée sur la mire
 };
 
 export const sourceFrame = (c: ClipR, frame: number) => {
@@ -73,6 +74,26 @@ export const ClipLayer: React.FC<{c: ClipR; frame: number; extraFilter?: string;
           style={{position: 'absolute', left, top, width: c.w * k, height: c.h * k, maxWidth: 'none', filter}}
         />
       </Freeze>
+      {c.label ? (
+        <div
+          style={{
+            position: 'absolute',
+            left: '6%',
+            right: '6%',
+            top: '50%',
+            transform: 'translateY(-50%)',
+            textAlign: 'center',
+            fontFamily: "'InterW', 'InterCP', sans-serif",
+            fontWeight: 600,
+            fontSize: Math.max(18, Math.min(44, c.dest.w / 34)),
+            lineHeight: 1.25,
+            color: '#F8EEDC',
+            textShadow: '0 2px 10px rgba(0,0,0,0.9)',
+          }}
+        >
+          {c.label}
+        </div>
+      ) : null}
     </div>
   );
 };
@@ -83,7 +104,7 @@ export const BlurBackdrop: React.FC<{c: ClipR; frame: number; dim?: number}> = (
   const dest = {x: (1920 - c.crop.w * k) / 2, y: (1080 - c.crop.h * k) / 2, w: c.crop.w * k, h: c.crop.h * k};
   return (
     <ClipLayer
-      c={{...c, dest, zoom: undefined, radius: 0, fade: undefined, fadeOut: undefined, shadow: false}}
+      c={{...c, dest, zoom: undefined, radius: 0, fade: undefined, fadeOut: undefined, shadow: false, label: undefined}}
       frame={frame}
       extraFilter={`blur(48px) brightness(${dim}) saturate(1.15)`}
       noRadius

@@ -26,7 +26,8 @@ if (args.frames) {
   frameRange = [a, b];
   out = `controle/essais/chapitre_${i + 1}.mp4`;
 } else {
-  const name = resolved.calage ? 'CulturePsy_Mechants_YouTube_VERSION_DE_CALAGE' : 'CulturePsy_Mechants_YouTube_master';
+  // Tant qu'une capture manque (mire de calage), le fichier porte le suffixe _MIRES : ce n'est pas un livrable.
+  const name = (resolved.calage ? 'CulturePsy_Mechants_YouTube_VERSION_DE_CALAGE' : 'CulturePsy_Mechants_YouTube_master') + (resolved.mires ? '_MIRES' : '');
   out = `livrables/${name}_brut.mp4`;
 }
 fs.mkdirSync(path.dirname(out), {recursive: true});
