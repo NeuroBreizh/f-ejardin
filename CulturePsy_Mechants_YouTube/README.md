@@ -58,6 +58,8 @@ sh tools/build_all.sh
 3. `tools/resolve_montage.py` replace tous les plans sur les nouveaux temps et réécrit `livrables/LISTE_DES_PLANS.md`.
 4. Les audits de texte et de montage s'exécutent.
 
+L'alignement télécharge un modèle Whisper au premier lancement. Il faut donc un accès à `openaipublic.azureedge.net` (stable-ts) ou à `huggingface.co` (WhisperX). Dans l'environnement cloud où ce projet a été monté, ces hôtes étaient bloqués. Pour aligner, autorise-les ou lance l'alignement sur ton ordinateur. `python3 tools/test_voix_synthetique.py` vérifie toute la chaîne sans modèle : voix synthétique, coupes, silences imposés, SRT.
+
 Les silences imposés et leur raison sont dans `src/data/pauses.json`. En version de calage, ce fichier règle aussi le débit (150 mots/min, hors silences).
 
 ## 3. Rendus d'essai, puis export
