@@ -1,0 +1,3054 @@
+{
+ "_doc": "Plan de montage. Chaque plan de « visuel » dure jusqu'au plan suivant. Les ancres suivent la voix (voir tools/resolve_montage.py). Images source en numéros d'image (30 i/s) ou « mm:ss.cc ». verifier=true : point d'entrée à confirmer sur la capture (planche de contrôle). reprise=true : retour volontaire sur un plan déjà vu, pour une lecture nouvelle.",
+ "bandeau_spoilers": {
+  "text": "Spoilers • L’Attaque des Titans, Breaking Bad et Star Wars",
+  "until": "Tu t’appelles Eren|<|+0.4"
+ },
+ "visuel": [
+  {
+   "id": "A01",
+   "at": "t:0",
+   "type": "clip",
+   "src": "02",
+   "in": 1222,
+   "rate": 0.85,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Le livre ouvert d’Armin, la page",
+   "verifier": true
+  },
+  {
+   "id": "A02",
+   "at": "Sur une des pages|il|-0.2",
+   "type": "clip",
+   "src": "02",
+   "in": 1164,
+   "rate": 0.7,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Du livre au visage d’Eren : il regarde la page",
+   "verifier": true
+  },
+  {
+   "id": "A03",
+   "at": "Tu t’appelles Eren|tu#2|-0.1",
+   "type": "clip",
+   "src": "01",
+   "in": 735,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren enfant lève les yeux : « derrière des murs »",
+   "verifier": true
+  },
+  {
+   "id": "A04",
+   "at": "Tu t’appelles Eren|et|-0.1",
+   "type": "clip",
+   "src": "02",
+   "in": 1834,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren rêve du monde extérieur : « voir la mer »",
+   "verifier": true
+  },
+  {
+   "id": "A05",
+   "at": "Maintenant, imagine que|<|-0.15",
+   "type": "clip",
+   "src": "01",
+   "in": 95,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren enfant parle du dehors à son père",
+   "verifier": true
+  },
+  {
+   "id": "A06",
+   "at": "Maintenant, imagine que|avec|-0.1",
+   "type": "compose",
+   "note": "Deux enfants côte à côte : Eren, puis Ramzi apparaît sur son nom",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "01",
+     "in": 500,
+     "freeze": true,
+     "dest": "duoG",
+     "eviter_bas": true,
+     "fade": 8,
+     "note": "Eren enfant (image figée)",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "09",
+     "in": 1215,
+     "rate": 1,
+     "dest": "duoD",
+     "eviter_bas": true,
+     "at": "Il s’appelle Ramzi|Ramzi|-0.05",
+     "fade": 8,
+     "note": "Ramzi (Grand Terrassement, vers 00:40)",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "A07",
+   "at": "Des Titans passent|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 705,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Les Titans passent la crête de la montagne",
+   "verifier": true
+  },
+  {
+   "id": "A08",
+   "at": "Autour de lui|<|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": 868,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Les réfugiés se mettent à courir (les civils gardent leur place)",
+   "verifier": true
+  },
+  {
+   "id": "A09",
+   "at": "Et celui qui envoie|<|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": 1904,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Les Titans dans la rue",
+   "verifier": true
+  },
+  {
+   "id": "A10",
+   "at": "Et celui qui envoie|c’est|-0.1",
+   "type": "clip",
+   "src": "02",
+   "in": 1166,
+   "rate": 0.75,
+   "layout": "plein",
+   "eviter_bas": true,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "reprise": true,
+   "note": "Reprise : le garçon du livre, lu autrement",
+   "verifier": true
+  },
+  {
+   "id": "A11",
+   "at": "Si tu avais rencontré Ramzi|<|-0.3",
+   "type": "compose",
+   "note": "La question qu’on laisse lire",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Si tu avais rencontré Ramzi en premier, est-ce que tu aurais quand même défendu Eren ?",
+     "x": 210,
+     "y": 470,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 74,
+     "highlights": [
+      {
+       "mot": "Ramzi",
+       "at": "Si tu avais rencontré Ramzi|Ramzi",
+       "color": "#F8EEDC",
+       "underline": true
+      },
+      {
+       "mot": "Eren",
+       "at": "Si tu avais rencontré Ramzi|Eren",
+       "color": "#F8EEDC",
+       "underline": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B00",
+   "at": "chap:1",
+   "type": "chapitre",
+   "num": 2
+  },
+  {
+   "id": "B01",
+   "at": "Pour ses cinquante ans|<|-0.1",
+   "type": "clip",
+   "src": "04",
+   "in": "00:24.0",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Walter à table (éviter le filigrane RJ MIX 00:25–00:27)",
+   "verifier": true
+  },
+  {
+   "id": "B02",
+   "at": "Pour ses cinquante ans|50|-0.4",
+   "type": "clip",
+   "src": "04",
+   "in": "00:19.5",
+   "rate": 1,
+   "layout": "plein",
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "note": "L’assiette : le « 50 » en bacon",
+   "verifier": true
+  },
+  {
+   "id": "B03",
+   "at": "Sa femme lui souhaite|<|-0.1",
+   "type": "clip",
+   "src": "04",
+   "in": "00:28.0",
+   "rate": 1,
+   "layout": "plein",
+   "note": "Skyler souhaite un bon anniversaire",
+   "verifier": true
+  },
+  {
+   "id": "B04",
+   "at": "Sa femme lui souhaite|son|-0.1",
+   "type": "clip",
+   "src": "04",
+   "in": "00:44.7",
+   "rate": 1,
+   "layout": "plein",
+   "note": "Le fils et ses réserves sur le menu (cuisine propre 00:44.7–00:47.5)",
+   "verifier": true
+  },
+  {
+   "id": "B05",
+   "at": "Sa femme lui souhaite|et|-0.1",
+   "type": "compose",
+   "note": "Composition horizontale : trois visages, la conversation déjà eue quinze fois",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "04",
+     "in": "00:24.4",
+     "freeze": true,
+     "dest": "trioA",
+     "fade": 6,
+     "note": "Walter",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "04",
+     "in": "00:28.6",
+     "freeze": true,
+     "dest": "trioB",
+     "fade": 6,
+     "at": "Sa femme lui souhaite|tout|-0.1",
+     "note": "Skyler",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "04",
+     "in": "00:45.6",
+     "freeze": true,
+     "dest": "trioC",
+     "fade": 6,
+     "at": "Sa femme lui souhaite|conversation|-0.1",
+     "note": "Walter Jr",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "B06",
+   "at": "On vient à peine|<|-0.1",
+   "type": "clip",
+   "src": "04",
+   "in": "00:46.0",
+   "rate": 1,
+   "layout": "plein",
+   "note": "La famille dans la cuisine, lumière ordinaire",
+   "verifier": true
+  },
+  {
+   "id": "B07",
+   "at": "On vient à peine|et|-0.1",
+   "type": "clip",
+   "src": "04",
+   "in": "00:26.8",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Walter, l’ambiance à table",
+   "verifier": true
+  },
+  {
+   "id": "B08",
+   "at": "Puis Walter apprend|<|-0.2",
+   "type": "clip",
+   "src": "04",
+   "in": "00:25.2",
+   "freeze": true,
+   "layout": "plein",
+   "eviter_bas": true,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "filter": "saturate(0.35) brightness(0.82)",
+   "reprise": true,
+   "note": "Image figée de Walter, désaturée : le diagnostic",
+   "verifier": true
+  },
+  {
+   "id": "B09",
+   "at": "Il a un fils|fils|-0.25",
+   "type": "compose",
+   "note": "Deux champs rapprochés : le fils, la femme enceinte",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "04",
+     "in": "00:46.4",
+     "freeze": true,
+     "dest": "duoG",
+     "fade": 6,
+     "note": "Walter Jr",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "04",
+     "in": "00:28.2",
+     "freeze": true,
+     "dest": "duoD",
+     "fade": 6,
+     "at": "Il a un fils|sa",
+     "note": "Skyler",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "B10",
+   "at": "Pourquoi se lance-t-il|<|-0.25",
+   "type": "compose",
+   "note": "La question, puis la réponse prêtée au spectateur",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Pourquoi se lance-t-il dans la fabrication de drogue ?",
+     "x": 210,
+     "y": 380,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 72
+    },
+    {
+     "type": "texte",
+     "style": "citation",
+     "kind": "spectateur",
+     "text": "« pour mettre sa famille à l’abri »",
+     "x": 210,
+     "y": 600,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 66,
+     "at": "À ce stade|pour|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "B11",
+   "at": "Quelques épisodes plus tard|<|-0.3",
+   "type": "clip",
+   "src": "10",
+   "in": "00:03.0",
+   "rate": 1,
+   "layout": "plein",
+   "note": "Walter dans le bureau de Tuco (regard)",
+   "verifier": true
+  },
+  {
+   "id": "B12",
+   "at": "Jesse a été frappé|été|-0.1",
+   "type": "clip",
+   "src": "10",
+   "in": "00:05.2",
+   "rate": 1,
+   "layout": "plein",
+   "note": "Tuco (contrechamp)",
+   "verifier": true
+  },
+  {
+   "id": "B13",
+   "at": "Il a le crâne rasé|il#2|-0.6",
+   "type": "clip",
+   "src": "10",
+   "in": "00:07.6",
+   "rate": 1,
+   "layout": "plein",
+   "note": "Le cristal, le geste, l’explosion vue de la rue (≤ 6 s)",
+   "verifier": true
+  },
+  {
+   "id": "B14",
+   "at": "Juste avant l’explosion|<|-0.2",
+   "type": "compose",
+   "note": "La question qu’on se posait",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Juste avant l’explosion, quelle question tu te posais ?",
+     "x": 210,
+     "y": 340,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 70,
+     "dimAt": "Moi, c’était surtout|comment|-0.1",
+     "dimTo": 0.35
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "kind": "question",
+     "text": "Comment ce prof de chimie compte-t-il sortir vivant de cette pièce ?",
+     "x": 210,
+     "y": 580,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 62,
+     "at": "Moi, c’était surtout|comment|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "B15",
+   "at": "Et quand son plan fonctionne|<|-0.15",
+   "type": "clip",
+   "src": "10",
+   "in": "00:11.0",
+   "rate": 1,
+   "layout": "plein",
+   "reprise": true,
+   "note": "Le souffle : l’extérieur après l’explosion",
+   "verifier": true
+  },
+  {
+   "id": "B16",
+   "at": "Est-ce que j’avais pour autant|<|-0.2",
+   "type": "compose",
+   "note": "Question : vouloir qu’il s’en sorte / lui donner raison",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Est-ce que j’avais pour autant décidé qu’il avait raison de venir ?",
+     "x": 210,
+     "y": 470,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 72,
+     "highlights": [
+      {
+       "mot": "raison",
+       "at": "Est-ce que j’avais pour autant|raison"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B17",
+   "at": "Le glissement peut se faire|<|-0.2",
+   "type": "compose",
+   "note": "« Il fait ça pour sa famille » : le pronom reste, le complément évolue",
+   "layers": [
+    {
+     "type": "ca",
+     "quote": "« Il fait ça pour sa famille. »",
+     "pivot": "ça",
+     "at": "Le glissement peut se faire|Il|-0.2",
+     "pivotAt": "Mais « ça », c’est quoi ?|ça",
+     "y": 300,
+     "comps": [
+      {
+       "text": "laisser de l’argent à ses enfants",
+       "at": "Laisser de l’argent|<|-0.05",
+       "terrain": 260
+      },
+      {
+       "text": "entrer chez Tuco",
+       "at": "Entrer chez Tuco|<|-0.05",
+       "terrain": 560
+      },
+      {
+       "text": "continuer à bâtir un empire",
+       "at": "Continuer à bâtir|<|-0.05",
+       "terrain": 1180
+      }
+     ],
+     "recapAt": "À chaque fois, le mot|couvre|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "B18",
+   "at": "Et pourtant, avant même que Walter|<|-0.25",
+   "type": "clip",
+   "src": "10",
+   "in": "00:03.4",
+   "freeze": true,
+   "layout": "cadre",
+   "filter": "saturate(0.3) brightness(0.75)",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "reprise": true,
+   "note": "Avant Tuco : Walter, image figée, désaturée",
+   "verifier": true
+  },
+  {
+   "id": "B19",
+   "at": "Et pourtant, avant même que Walter|il|-0.1",
+   "type": "compose",
+   "note": "Gretchen : pas de capture → résumé sans guillemets, barré sur « C’est faux. »",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "Ce que Walter dit à Gretchen",
+     "x": 230,
+     "y": 380,
+     "w": 1460,
+     "at": "Gretchen insiste|<|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "kind": "resume",
+     "text": "L’assurance prend en charge le traitement",
+     "x": 230,
+     "y": 450,
+     "w": 1460,
+     "size": 82,
+     "at": "Il lui explique que|son|-0.15",
+     "strikeAt": "C’est faux.|<|+0.05"
+    }
+   ]
+  },
+  {
+   "id": "B20",
+   "at": "Bien sûr, payer son traitement|<|-0.2",
+   "type": "compose",
+   "note": "Deux problèmes différents : le traitement / l’argent des enfants",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "payer son traitement",
+     "x": 140,
+     "y": 430,
+     "w": 780,
+     "align": "center",
+     "anchor": "center",
+     "size": 58
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "laisser de l’argent aux enfants",
+     "x": 1000,
+     "y": 430,
+     "w": 780,
+     "align": "center",
+     "anchor": "center",
+     "size": 58,
+     "at": "Bien sûr, payer son traitement|et|-0.05"
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Mais pourquoi lui mentir ?",
+     "x": 210,
+     "y": 700,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 70,
+     "at": "Mais pourquoi lui mentir|<|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "B21",
+   "at": "Si ta première réaction|<|-0.2",
+   "type": "compose",
+   "note": "Les paroles prêtées au spectateur : il continue la conversation à la place de Walter",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "citation",
+     "kind": "spectateur",
+     "text": "« Oui, mais tu comprends, avec leur histoire, il ne pouvait pas accepter cet argent… »",
+     "x": 210,
+     "y": 470,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 66,
+     "at": "Si ta première réaction|Oui|-0.15",
+     "dimAt": "Walter a raccroché|<",
+     "dimTo": 0.3
+    }
+   ]
+  },
+  {
+   "id": "B22",
+   "at": "Dans le dernier épisode, Skyler|<|-0.2",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "Skyler connaît l’argument par cœur : rappel des trois compléments",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "05",
+     "in": "01:26.0",
+     "rate": 1,
+     "dest": [
+      96,
+      186,
+      1100,
+      618
+     ],
+     "fit": "crop",
+     "note": "Skyler écoute (cadre intégré ≤ 1,8)",
+     "verifier": true
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "laisser de l’argent à ses enfants",
+     "x": 1250,
+     "y": 270,
+     "w": 620,
+     "size": 54,
+     "at": "Dans le dernier épisode, Skyler|argument|-0.1",
+     "until": "Quand Walter semble prêt|interrompt|+0.05",
+     "fadeOut": 6
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "entrer chez Tuco",
+     "x": 1250,
+     "y": 440,
+     "w": 620,
+     "size": 54,
+     "at": "Dans le dernier épisode, Skyler|famille|-0.1",
+     "until": "Quand Walter semble prêt|interrompt|+0.05",
+     "fadeOut": 6
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "continuer à bâtir un empire",
+     "x": 1250,
+     "y": 610,
+     "w": 620,
+     "size": 54,
+     "at": "Dans le dernier épisode, Skyler|cœur|-0.1",
+     "until": "Quand Walter semble prêt|interrompt|+0.05",
+     "fadeOut": 6
+    }
+   ]
+  },
+  {
+   "id": "B22b",
+   "at": "Quand Walter semble prêt|<|-0.15",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "Walter s’apprête à resservir l’argument : les compléments s’effacent quand Skyler l’interrompt",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "05",
+     "in": "00:49.0",
+     "rate": 1,
+     "dest": [
+      96,
+      186,
+      1100,
+      618
+     ],
+     "fit": "crop",
+     "note": "Walter (gros plan)",
+     "verifier": true
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "laisser de l’argent à ses enfants",
+     "x": 1250,
+     "y": 270,
+     "w": 620,
+     "size": 54,
+     "until": "Quand Walter semble prêt|interrompt|+0.05",
+     "fadeOut": 6,
+     "fade": 1
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "entrer chez Tuco",
+     "x": 1250,
+     "y": 440,
+     "w": 620,
+     "size": 54,
+     "until": "Quand Walter semble prêt|interrompt|+0.05",
+     "fadeOut": 6,
+     "fade": 1
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "continuer à bâtir un empire",
+     "x": 1250,
+     "y": 610,
+     "w": 620,
+     "size": 54,
+     "until": "Quand Walter semble prêt|interrompt|+0.05",
+     "fadeOut": 6,
+     "fade": 1
+    }
+   ]
+  },
+  {
+   "id": "B23",
+   "at": "Quand Walter semble prêt|elle|-0.1",
+   "type": "clip",
+   "src": "05",
+   "in": "01:22.3",
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Skyler l’interrompt (contrechamp)",
+   "verifier": true
+  },
+  {
+   "id": "B24",
+   "at": "Cette fois, il lui donne|<|-0.15",
+   "type": "clip",
+   "src": "05",
+   "in": "00:53.0",
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Walter : l’autre réponse",
+   "verifier": true
+  },
+  {
+   "id": "B25",
+   "at": "Il aimait ça|<|-0.1",
+   "type": "clip",
+   "src": "05",
+   "in": "01:24.6",
+   "rate": 1,
+   "layout": "cadre",
+   "note": "La réaction de Skyler, laissée à l’image",
+   "verifier": true
+  },
+  {
+   "id": "B26",
+   "at": "Ça donne envie de revoir|<|-0.3",
+   "type": "clip",
+   "src": "04",
+   "in": "00:44.9",
+   "rate": 1,
+   "layout": "plein",
+   "reprise": true,
+   "filter": "saturate(0.9)",
+   "note": "Reprise : la cuisine, revue après l’aveu",
+   "verifier": true
+  },
+  {
+   "id": "B26b",
+   "at": "On peut croire à la tendresse|<|-0.15",
+   "type": "clip",
+   "src": "04",
+   "in": "00:47.0",
+   "rate": 1,
+   "layout": "plein",
+   "note": "La tendresse autour de la table (lumière ordinaire de la cuisine)",
+   "verifier": true,
+   "reprise": true
+  },
+  {
+   "id": "B27",
+   "at": "La question, c’est combien|<|-0.2",
+   "type": "compose",
+   "note": "La question qu’on laisse lire",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "La question, c’est combien de temps on a continué, nous, à s’en servir pour défendre Walter.",
+     "kind": "question",
+     "x": 210,
+     "y": 470,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 66,
+     "at": "La question, c’est combien|combien|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "B28",
+   "at": "Il parle de désengagement moral|désengagement|-0.3",
+   "type": "planche",
+   "image": "planches/justifications.png",
+   "title": "Justifications (Bandura)"
+  },
+  {
+   "id": "B29",
+   "at": "Et devant une fiction|<|-0.2",
+   "type": "compose",
+   "note": "Le mot qu’on isole : justification morale, dans l’autre sens",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "justification morale",
+     "x": 210,
+     "y": 360,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 80
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Qu’est-ce qui nous donnait encore envie de le plaider ?",
+     "x": 210,
+     "y": 610,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 66,
+     "at": "Qu’est-ce qui nous donnait|<|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "C00",
+   "at": "chap:2",
+   "type": "chapitre",
+   "num": 3
+  },
+  {
+   "id": "C01",
+   "at": "Avec Eren, on a presque|<|-0.1",
+   "type": "clip",
+   "src": "01",
+   "in": 100,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Eren enfant, souvenir d’enfance en commun",
+   "verifier": true
+  },
+  {
+   "id": "C02",
+   "at": "On était là quand Armin|<|-0.1",
+   "type": "clip",
+   "src": "02",
+   "in": 1240,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Reprise du livre d’Armin",
+   "verifier": true
+  },
+  {
+   "id": "C03",
+   "at": "On était là quand Eren a vu|<|-0.1",
+   "type": "clip",
+   "src": "03",
+   "in": 986,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Carla sous les gravats",
+   "verifier": true
+  },
+  {
+   "id": "C04",
+   "at": "On était là quand Eren a vu|mère|-0.1",
+   "type": "clip",
+   "src": "03",
+   "in": 2040,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Le choc sur le visage d’Eren",
+   "verifier": true
+  },
+  {
+   "id": "C05",
+   "at": "Et bien plus tard|<|-0.1",
+   "type": "clip",
+   "src": "08",
+   "in": 446,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren adulte dans le sous-sol, face à Reiner",
+   "verifier": true
+  },
+  {
+   "id": "C06",
+   "at": "Et bien plus tard|on|-0.05",
+   "type": "compose",
+   "note": "Deux champs rapprochés : les yeux de l’enfant, les yeux de l’adulte",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "03",
+     "in": 2070,
+     "rate": 1,
+     "dest": "duoG",
+     "eviter_bas": true,
+     "fade": 6,
+     "note": "Les yeux d’Eren enfant (après Carla)",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "12",
+     "in": 360,
+     "rate": 1,
+     "dest": "duoD",
+     "eviter_bas": true,
+     "fade": 6,
+     "at": "Et bien plus tard|cheveux|-0.1",
+     "note": "Les yeux d’Eren adulte (prise 12)",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "C07",
+   "at": "Reiner, lui, vient à peine|<|-0.15",
+   "type": "clip",
+   "src": "08",
+   "in": 566,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Reiner comprend (prise 08 ; la prise 12 n’est pas utilisée pour ce moment)",
+   "verifier": true
+  },
+  {
+   "id": "C07b",
+   "at": "Reiner, lui, vient à peine|assis|-0.1",
+   "type": "clip",
+   "src": "08",
+   "in": 680,
+   "rate": 1,
+   "layout": "plein",
+   "note": "Eren assis en face de lui",
+   "verifier": true,
+   "eviter_bas": true
+  },
+  {
+   "id": "C08",
+   "at": "Le chercheur Jonathan Cohen|identification|-0.3",
+   "type": "planche",
+   "image": "planches/identification.png",
+   "title": "Identification (Cohen)"
+  },
+  {
+   "id": "C09",
+   "at": "Reprends le livre d’Armin|<|-0.15",
+   "type": "clip",
+   "src": "02",
+   "in": 1290,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Reprise : le livre, lu comme une identification",
+   "verifier": true
+  },
+  {
+   "id": "C10",
+   "at": "Est-ce que tu t’es seulement demandé|<|+0.1",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "La question sur le visage de l’enfant",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "02",
+     "in": 1170,
+     "rate": 0.7,
+     "dest": "gauche",
+     "eviter_bas": true,
+     "reprise": true,
+     "note": "Eren regarde la page",
+     "verifier": true
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Est-ce que tu t’es seulement demandé, à cet instant, si Eren t’était sympathique ?",
+     "kind": "question",
+     "x": 1170,
+     "y": 450,
+     "w": 660,
+     "align": "left",
+     "anchor": "center",
+     "size": 60,
+     "at": "Est-ce que tu t’es seulement demandé|si|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "C11",
+   "at": "Moi, ce que je voulais savoir|<|-0.15",
+   "type": "clip",
+   "src": "01",
+   "in": 470,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren enfant regarde vers le mur (00:16)",
+   "verifier": true
+  },
+  {
+   "id": "C11b",
+   "at": "Moi, ce que je voulais savoir|c’était|-0.1",
+   "type": "clip",
+   "src": "01",
+   "in": 760,
+   "rate": 1,
+   "layout": "plein",
+   "note": "Eren enfant lève les yeux vers le mur",
+   "verifier": true,
+   "eviter_bas": true,
+   "reprise": true
+  },
+  {
+   "id": "C12",
+   "at": "Pendant quelques secondes|<|-0.1",
+   "type": "clip",
+   "src": "02",
+   "in": 1896,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Le regard qui brille : sa question devient la nôtre",
+   "verifier": true
+  },
+  {
+   "id": "C13",
+   "at": "Et puis il y a l’affection|<|-0.2",
+   "type": "clip",
+   "src": "03",
+   "in": 1322,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren crie : l’affection déjà formée",
+   "verifier": true
+  },
+  {
+   "id": "C14",
+   "at": "Dans ses travaux sur la disposition|disposition|-0.3",
+   "type": "planche",
+   "image": "planches/disposition_affective.png",
+   "title": "Disposition affective (Raney)"
+  },
+  {
+   "id": "C15",
+   "at": "Quand un inconnu entre|<|-0.15",
+   "type": "clip",
+   "src": "12",
+   "in": 396,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren entre dans la pièce (prise 12)",
+   "verifier": true
+  },
+  {
+   "id": "C16",
+   "at": "Quand un inconnu entre|tu|-0.1",
+   "type": "clip",
+   "src": "12",
+   "in": "00:16.0",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Contrechamp sur Reiner, effrayé (prise 12, vers 00:16)",
+   "verifier": true
+  },
+  {
+   "id": "C17",
+   "at": "Quand c’est Eren|<|-0.15",
+   "type": "clip",
+   "src": "08",
+   "in": 840,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren assis, calme : on lui accorde le temps de s’expliquer",
+   "verifier": true
+  },
+  {
+   "id": "C18",
+   "at": "Tu lui accordes le temps|<|-0.15",
+   "type": "clip",
+   "src": "08",
+   "in": 900,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Eren parle",
+   "verifier": true
+  },
+  {
+   "id": "C19",
+   "at": "Reviens maintenant à Ramzi|<|-0.2",
+   "type": "clip",
+   "src": "09",
+   "in": "00:40.0",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Ramzi et Halil courent ensemble (00:40–00:44)",
+   "verifier": true
+  },
+  {
+   "id": "C19b",
+   "at": "Halil court à côté de lui|<|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": "00:43.0",
+   "rate": 1,
+   "layout": "plein",
+   "note": "Halil court à côté de Ramzi",
+   "verifier": true,
+   "eviter_bas": true,
+   "reprise": true
+  },
+  {
+   "id": "C20",
+   "at": "Sauf que nous, ça fait|<|-0.15",
+   "type": "compose",
+   "note": "Composition horizontale : tout le temps passé avec Eren, quelques instants avec Ramzi",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "01",
+     "in": 140,
+     "freeze": true,
+     "dest": [
+      150,
+      190,
+      560,
+      315
+     ],
+     "eviter_bas": true,
+     "fade": 5,
+     "note": "Eren enfant",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "02",
+     "in": 1300,
+     "freeze": true,
+     "dest": [
+      730,
+      190,
+      560,
+      315
+     ],
+     "eviter_bas": true,
+     "fade": 5,
+     "note": "le livre",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "03",
+     "in": 2050,
+     "freeze": true,
+     "dest": [
+      150,
+      525,
+      560,
+      315
+     ],
+     "eviter_bas": true,
+     "fade": 5,
+     "note": "après Carla",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "08",
+     "in": 760,
+     "freeze": true,
+     "dest": [
+      730,
+      525,
+      560,
+      315
+     ],
+     "eviter_bas": true,
+     "fade": 5,
+     "note": "Eren adulte",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "09",
+     "in": "00:41.0",
+     "freeze": true,
+     "dest": [
+      1380,
+      368,
+      420,
+      236
+     ],
+     "eviter_bas": true,
+     "fade": 10,
+     "at": "Sauf que nous, ça fait|quelques|-0.1",
+     "note": "Ramzi : quelques instants",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "C21",
+   "at": "Et pour eux, la question|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 900,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Les réfugiés cherchent une issue",
+   "verifier": true
+  },
+  {
+   "id": "C21b",
+   "at": "Si même la montagne|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 950,
+   "rate": 1,
+   "layout": "plein",
+   "note": "Les réfugiés cherchent une issue",
+   "verifier": true,
+   "eviter_bas": true,
+   "reprise": true
+  },
+  {
+   "id": "C22",
+   "at": "Si même la montagne|où|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 760,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "L’horizon déjà occupé : les Titans sur la crête",
+   "verifier": true
+  },
+  {
+   "id": "C23",
+   "at": "C’est là qu’une autre défense|<|-0.2",
+   "type": "compose",
+   "note": "Les paroles prêtées au spectateur",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "citation",
+     "kind": "spectateur",
+     "text": "« Oui, mais regarde ce que l’autre camp a fait aux siens. »",
+     "x": 210,
+     "y": 470,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 70,
+     "at": "« Oui, mais regarde|<|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "C24",
+   "at": "Bandura parle de comparaison|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 2482,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "note": "Les Titans vus de la rue",
+   "verifier": true
+  },
+  {
+   "id": "C25",
+   "at": "Bandura parle de comparaison|quand|-0.1",
+   "type": "compose",
+   "note": "Le mot qu’on isole : comparaison avantageuse",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "comparaison avantageuse",
+     "x": 160,
+     "y": 540,
+     "w": 1600,
+     "align": "center",
+     "anchor": "center",
+     "size": 96
+    }
+   ]
+  },
+  {
+   "id": "C26",
+   "at": "Mais écoute ce qui vient d’arriver|Ramzi|-0.25",
+   "type": "clip",
+   "src": "09",
+   "in": "00:42.5",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Le regard revient aux enfants : Ramzi et Halil",
+   "verifier": true
+  },
+  {
+   "id": "C27",
+   "at": "Maintenant, on est en train de dresser|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 930,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Les civils dans la foule",
+   "verifier": true
+  },
+  {
+   "id": "C28",
+   "at": "Qu’a fait cet enfant|<|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": "00:43.4",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Contrechamp : Ramzi, le temps d’un regard",
+   "verifier": true
+  },
+  {
+   "id": "C29",
+   "at": "La série nous montre aussi|<|-0.2",
+   "type": "clip",
+   "src": "09",
+   "in": 2100,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "treatment": "flashback",
+   "note": "Flash-back : la rencontre, Eren en larmes devant Ramzi",
+   "verifier": true
+  },
+  {
+   "id": "C29b",
+   "at": "Eren est en larmes devant Ramzi|<|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": 2160,
+   "rate": 1,
+   "layout": "plein",
+   "note": "Flash-back : Eren en larmes devant Ramzi",
+   "verifier": true,
+   "eviter_bas": true,
+   "treatment": "flashback"
+  },
+  {
+   "id": "C30",
+   "at": "À qui va ta compassion|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 8,
+   "rate": 0.9,
+   "layout": "plein",
+   "eviter_bas": true,
+   "treatment": "flashback",
+   "note": "Flash-back, autre angle : Eren demande pardon",
+   "verifier": true
+  },
+  {
+   "id": "C31",
+   "at": "Tu peux être touché|de|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": 2200,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "treatment": "flashback",
+   "note": "Flash-back : Eren pleure",
+   "verifier": true
+  },
+  {
+   "id": "C32",
+   "at": "Tu peux être touché|savoir|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": "00:41.5",
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Retour au présent : Ramzi, celui qu’on voudrait mettre à l’abri",
+   "verifier": true
+  },
+  {
+   "id": "D00",
+   "at": "chap:3",
+   "type": "chapitre",
+   "num": 4
+  },
+  {
+   "id": "D01",
+   "at": "Pour défendre Anakin|<|-0.1",
+   "type": "clip",
+   "src": "06",
+   "in": 135,
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Anakin au bord de la lave (cadre intégré ≤ 1,8)",
+   "verifier": true
+  },
+  {
+   "id": "D02",
+   "at": "Palpatine.|<|-0.1",
+   "type": "compose",
+   "note": "Le mot qu’on isole",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "grand",
+     "kind": "mot",
+     "text": "Palpatine.",
+     "x": 160,
+     "y": 500,
+     "w": 1600,
+     "align": "center",
+     "anchor": "center",
+     "size": 150,
+     "fade": 6
+    }
+   ]
+  },
+  {
+   "id": "D03",
+   "at": "Regarde comment ils sont assis|<|-0.15",
+   "type": "clip",
+   "src": "07",
+   "in": 90,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "L’opéra : le plan large, les deux sièges",
+   "verifier": true
+  },
+  {
+   "id": "D04",
+   "at": "Anakin a peur de perdre|<|-0.1",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "Deux champs : Anakin à l’opéra / Padmé",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "07",
+     "in": 600,
+     "rate": 1,
+     "dest": "duoG",
+     "fit": "contain",
+     "note": "Anakin écoute",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "11",
+     "in": "00:44.5",
+     "freeze": true,
+     "dest": "duoD",
+     "fit": "contain",
+     "at": "Anakin a peur de perdre|Padmé|-0.1",
+     "note": "Padmé",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "D05",
+   "at": "Et voilà que Palpatine|<|-0.15",
+   "type": "clip",
+   "src": "07",
+   "in": 450,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "Palpatine raconte l’histoire de Plagueis",
+   "verifier": true
+  },
+  {
+   "id": "D05b",
+   "at": "Et voilà que Palpatine|garder|-0.1",
+   "type": "clip",
+   "src": "07",
+   "in": 560,
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Anakin écoute",
+   "verifier": true,
+   "fit": "contain"
+  },
+  {
+   "id": "D06",
+   "at": "À la place d’Anakin|<|-0.15",
+   "type": "clip",
+   "src": "07",
+   "in": 655,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "Anakin se tourne vers Palpatine",
+   "verifier": true
+  },
+  {
+   "id": "D06b",
+   "at": "À la place d’Anakin|pourquoi|-0.1",
+   "type": "clip",
+   "src": "07",
+   "in": 20,
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Le plan large : on resterait assis",
+   "verifier": true,
+   "fit": "contain",
+   "reprise": true
+  },
+  {
+   "id": "D07",
+   "at": "Sur Mustafar, regarde leurs mains|<|-0.15",
+   "type": "clip",
+   "src": "11",
+   "in": "00:34.0",
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "Mustafar : le premier geste",
+   "verifier": true
+  },
+  {
+   "id": "D08",
+   "at": "Anakin lève la sienne|<|-0.15",
+   "type": "clip",
+   "src": "11",
+   "in": 1143,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "La main d’Anakin",
+   "verifier": true
+  },
+  {
+   "id": "D09",
+   "at": "Padmé porte les siennes|<|-0.15",
+   "type": "clip",
+   "src": "11",
+   "in": 1188,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "Raccord : les mains de Padmé à sa gorge",
+   "verifier": true
+  },
+  {
+   "id": "D10",
+   "at": "Si je fige l’image ici|fige|-0.1",
+   "type": "clip",
+   "src": "11",
+   "in": 1172,
+   "freeze": true,
+   "layout": "cadre",
+   "fit": "contain",
+   "zoom": [
+    1.0,
+    1.03
+   ],
+   "reprise": true,
+   "note": "Image figée : qui agit sur qui",
+   "verifier": true
+  },
+  {
+   "id": "D10b",
+   "at": "Si je fige l’image ici|qui#2|-0.1",
+   "type": "compose",
+   "note": "Qui agit sur qui : la réponse tient en quelques mots",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "qui agit sur qui",
+     "x": 160,
+     "y": 500,
+     "w": 1600,
+     "align": "center",
+     "anchor": "center",
+     "size": 96
+    }
+   ]
+  },
+  {
+   "id": "D11",
+   "at": "Si je remets la scène de l’opéra|<|-0.15",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "Deux champs rapprochés : la main figée / l’opéra",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "11",
+     "in": 1172,
+     "freeze": true,
+     "dest": "duoG",
+     "fit": "contain",
+     "reprise": true,
+     "note": "La main (figée)",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "07",
+     "in": 120,
+     "rate": 1,
+     "dest": "duoD",
+     "fit": "contain",
+     "at": "Si je remets la scène de l’opéra|opéra|-0.1",
+     "reprise": true,
+     "note": "L’opéra",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "D12",
+   "at": "Tu vas parler de la peur|<|-0.15",
+   "type": "compose",
+   "note": "La réponse s’allonge",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "la peur d’Anakin",
+     "x": 300,
+     "y": 330,
+     "w": 1320,
+     "size": 60,
+     "at": "Tu vas parler de la peur|peur|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "l’influence de Palpatine",
+     "x": 300,
+     "y": 440,
+     "w": 1320,
+     "size": 60,
+     "at": "Tu vas parler de la peur|influence|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "cette promesse de sauver Padmé",
+     "x": 300,
+     "y": 550,
+     "w": 1320,
+     "size": 60,
+     "at": "Tu vas parler de la peur|promesse|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "comment il en est arrivé là",
+     "x": 300,
+     "y": 690,
+     "w": 1320,
+     "size": 60,
+     "color": "#E44953",
+     "at": "Tout ça compte pour comprendre|comment|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "D13",
+   "at": "Maintenant, reviens à l’image|<|-0.15",
+   "type": "clip",
+   "src": "11",
+   "in": 1150,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "reprise": true,
+   "note": "Retour à la main, puis la seconde de silence",
+   "verifier": true
+  },
+  {
+   "id": "D14",
+   "at": "« Palpatine l’a manipulé »|<|-0.2",
+   "type": "compose",
+   "note": "Le sujet de nos phrases (déplacement de responsabilité)",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "citation",
+     "kind": "spectateur",
+     "text": "« Palpatine l’a manipulé »",
+     "x": 820,
+     "y": 300,
+     "w": 1020,
+     "size": 64,
+     "highlights": [
+      {
+       "mot": "Palpatine",
+       "at": "Écoute simplement le sujet|sujet",
+       "underline": true
+      }
+     ]
+    },
+    {
+     "type": "texte",
+     "style": "note",
+     "kind": "mot",
+     "text": "une explication",
+     "x": 820,
+     "y": 395,
+     "w": 1020,
+     "color": "rgba(248,238,220,0.7)",
+     "at": "« Palpatine l’a manipulé »|explication|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "citation",
+     "kind": "spectateur",
+     "text": "« Donc Anakin n’y est pour rien »",
+     "x": 820,
+     "y": 520,
+     "w": 1020,
+     "size": 64,
+     "at": "« Donc Anakin n’y est pour rien »|<|-0.1",
+     "highlights": [
+      {
+       "mot": "Anakin",
+       "at": "Écoute simplement le sujet|sujet",
+       "underline": true
+      }
+     ]
+    },
+    {
+     "type": "texte",
+     "style": "note",
+     "kind": "mot",
+     "text": "une conclusion",
+     "x": 820,
+     "y": 615,
+     "w": 1020,
+     "color": "rgba(248,238,220,0.7)",
+     "at": "« Donc Anakin n’y est pour rien »|conclusion|-0.1"
+    },
+    {
+     "type": "clip",
+     "src": "11",
+     "in": 1172,
+     "freeze": true,
+     "dest": [
+      80,
+      300,
+      680,
+      319
+     ],
+     "fit": "contain",
+     "at": "À l’image, Anakin vient|<|-0.1",
+     "reprise": true,
+     "note": "À l’image : la main levée",
+     "verifier": true,
+     "until": "Dans notre plaidoyer|commencent|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "« Palpatine »",
+     "x": 820,
+     "y": 760,
+     "w": 1020,
+     "size": 64,
+     "color": "#E44953",
+     "at": "Dans notre plaidoyer|Palpatine|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "D15",
+   "at": "Et puis il y a Obi-Wan|<|-0.15",
+   "type": "clip",
+   "src": "06",
+   "in": 250,
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Obi-Wan après le duel",
+   "verifier": true
+  },
+  {
+   "id": "D16",
+   "at": "À la fin du duel|quand|-0.1",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "Deux champs : Obi-Wan / Anakin au bord de la lave",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "06",
+     "in": 290,
+     "rate": 1,
+     "dest": "duoG",
+     "fit": "contain",
+     "note": "Obi-Wan",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "06",
+     "in": 160,
+     "rate": 1,
+     "dest": "duoD",
+     "fit": "contain",
+     "at": "À la fin du duel|Anakin|-0.1",
+     "note": "Anakin",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "D16b",
+   "at": "À la fin du duel|moi|-0.1",
+   "type": "clip",
+   "src": "06",
+   "in": "00:23.0",
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Au bord de la lave : visages d’Obi-Wan et d’Anakin (00:22–00:24)",
+   "verifier": true,
+   "fit": "contain"
+  },
+  {
+   "id": "D17",
+   "at": "À quel moment Anakin|<|-0.2",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "La question, sur le visage d’Anakin",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "06",
+     "in": 662,
+     "rate": 1,
+     "dest": "gauche",
+     "fit": "contain",
+     "note": "Le visage d’Anakin (00:22)",
+     "verifier": true
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "À quel moment Anakin aurait-il encore pu s’arrêter ?",
+     "x": 1170,
+     "y": 450,
+     "w": 660,
+     "anchor": "center",
+     "size": 62
+    }
+   ]
+  },
+  {
+   "id": "D18",
+   "at": "On connaît même la suite|<|-0.15",
+   "type": "clip",
+   "src": "06",
+   "in": 680,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "reprise": true,
+   "note": "Anakin, les yeux jaunes",
+   "verifier": true
+  },
+  {
+   "id": "D19",
+   "at": "Et pourtant, pendant qu’Obi-Wan|<|-0.15",
+   "type": "clip",
+   "src": "06",
+   "in": 320,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "reprise": true,
+   "note": "Obi-Wan lui parle : on cherche encore une issue",
+   "verifier": true
+  },
+  {
+   "id": "D19b",
+   "at": "Et pourtant, pendant qu’Obi-Wan|on|-0.1",
+   "type": "clip",
+   "src": "06",
+   "in": 200,
+   "rate": 1,
+   "layout": "cadre",
+   "note": "Le garçon qu’il a formé",
+   "verifier": true,
+   "fit": "contain",
+   "reprise": true
+  },
+  {
+   "id": "E00",
+   "at": "chap:4",
+   "type": "chapitre",
+   "num": 5
+  },
+  {
+   "id": "E01",
+   "at": "Reprenons le geste sur Mustafar|<|-0.15",
+   "type": "compose",
+   "note": "Test, 1re question : le cadre attend, le plan ne joue pas encore",
+   "layers": [
+    {
+     "type": "cadre",
+     "ref": "E02"
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "La première fois, regarde Anakin. Qu’est-ce qu’il croit être en train de perdre ?",
+     "x": 310,
+     "y": 540,
+     "w": 1300,
+     "align": "center",
+     "anchor": "center",
+     "size": 64,
+     "at": "La première fois, regarde Anakin|<|-0.1",
+     "highlights": [
+      {
+       "mot": "Anakin",
+       "at": "La première fois, regarde Anakin|Anakin"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "at": "Qu’est-ce qu’il croit être|>|+0.6",
+   "type": "clip",
+   "src": "11",
+   "in": 1145,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "note": "TEST · passage 1 : les mêmes 3,0 s (même cadrage, même son)",
+   "verifier": true,
+   "test": 1
+  },
+  {
+   "id": "E03",
+   "at": "Qu’est-ce qu’il croit être|>|+3.6",
+   "type": "compose",
+   "note": "Test, 2e question",
+   "layers": [
+    {
+     "type": "cadre",
+     "ref": "E02"
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Maintenant, même image. Regarde Padmé. Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?",
+     "x": 310,
+     "y": 540,
+     "w": 1300,
+     "align": "center",
+     "anchor": "center",
+     "size": 64,
+     "at": "Maintenant, même image|<|-0.1",
+     "highlights": [
+      {
+       "mot": "Padmé",
+       "at": "Regarde Padmé|Padmé"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "E04",
+   "at": "Qu’est-ce qu’elle vient de comprendre|>|+0.6",
+   "type": "clip",
+   "src": "11",
+   "in": 1145,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "reprise": true,
+   "note": "TEST · passage 2 : exactement les mêmes 3,0 s",
+   "verifier": true,
+   "test": 2
+  },
+  {
+   "id": "E05",
+   "at": "Qu’est-ce qu’elle vient de comprendre|>|+3.6",
+   "type": "compose",
+   "note": "La question",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Est-ce que tu as regardé la même chose les deux fois ?",
+     "x": 260,
+     "y": 500,
+     "w": 1400,
+     "align": "center",
+     "anchor": "center",
+     "size": 76,
+     "at": "Est-ce que tu as regardé|<|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "E06",
+   "at": "En 1975, Regan et Totten|<|-0.2",
+   "type": "compose",
+   "note": "Reconstitution (laboratoire) et protocole en trois temps : 1. la même conversation",
+   "layers": [
+    {
+     "type": "image",
+     "src": "visuels/03_laboratoire_1975.png",
+     "dest": [
+      0,
+      0,
+      640,
+      1080
+     ],
+     "focus": [
+      0.3,
+      0.5
+     ],
+     "zoom": [
+      1.0,
+      1.05
+     ],
+     "fade": 10
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "Reconstitution",
+     "x": 40,
+     "y": 980,
+     "w": 560,
+     "box": true
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "1 · conversation identique",
+     "x": 760,
+     "y": 330,
+     "w": 1060,
+     "at": "Dans leur expérience|enregistrement|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "deux personnes en train de faire connaissance",
+     "x": 760,
+     "y": 390,
+     "w": 1060,
+     "size": 54,
+     "at": "Dans leur expérience|deux|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "la même conversation, la même personne",
+     "x": 760,
+     "y": 560,
+     "w": 1060,
+     "size": 54,
+     "at": "Tout le monde voyait|même#2|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "E07",
+   "at": "Ce qui changeait d’un groupe|<|-0.2",
+   "type": "compose",
+   "note": "2. la consigne différente",
+   "layers": [
+    {
+     "type": "image",
+     "src": "visuels/04_observatrice_ecran.png",
+     "dest": [
+      0,
+      0,
+      640,
+      1080
+     ],
+     "focus": [
+      0.4,
+      0.5
+     ],
+     "zoom": [
+      1.0,
+      1.05
+     ],
+     "fade": 8
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "Reconstitution",
+     "x": 40,
+     "y": 980,
+     "w": 560,
+     "box": true
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "2 · consigne différente",
+     "x": 760,
+     "y": 330,
+     "w": 1060
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "l’observer",
+     "x": 760,
+     "y": 400,
+     "w": 520,
+     "size": 62,
+     "at": "Les uns devaient l’observer|<|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "se mettre à sa place",
+     "x": 760,
+     "y": 530,
+     "w": 1060,
+     "size": 62,
+     "color": "#E44953",
+     "at": "Les autres, essayer|se|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "at": "Les autres, essayer|place>|+0.5",
+   "type": "planche",
+   "image": "planches/deux_consignes.png",
+   "title": "Les deux consignes (Regan et Totten)"
+  },
+  {
+   "id": "E09",
+   "at": "Ensuite, on leur demandait|<|-0.2",
+   "type": "compose",
+   "note": "3. l’explication donnée",
+   "layers": [
+    {
+     "type": "image",
+     "src": "visuels/05_personne_et_contexte.png",
+     "dest": [
+      0,
+      0,
+      640,
+      1080
+     ],
+     "focus": [
+      0.5,
+      0.45
+     ],
+     "zoom": [
+      1.0,
+      1.06
+     ],
+     "fade": 8
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "Reconstitution",
+     "x": 40,
+     "y": 980,
+     "w": 560,
+     "box": true
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "etiquette",
+     "text": "3 · explication donnée",
+     "x": 760,
+     "y": 330,
+     "w": 1060
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "mot",
+     "text": "expliquer son comportement",
+     "x": 760,
+     "y": 390,
+     "w": 1060,
+     "size": 54,
+     "at": "Ensuite, on leur demandait|expliquer|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "la situation",
+     "x": 760,
+     "y": 520,
+     "w": 1060,
+     "size": 72,
+     "color": "#E44953",
+     "at": "Ceux qui avaient essayé|situation|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "sa personnalité",
+     "x": 760,
+     "y": 640,
+     "w": 1060,
+     "size": 48,
+     "color": "rgba(248,238,220,0.6)",
+     "at": "Ceux qui avaient essayé|personnalité|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "E10",
+   "at": "Ceux qui avaient essayé|personnalité>|+0.4",
+   "type": "planche",
+   "image": "planches/attributions.png",
+   "title": "Attributions : situation / personnalité"
+  },
+  {
+   "id": "E11",
+   "at": "Ce que les chercheurs ont recueilli|<|-0.2",
+   "type": "compose",
+   "note": "Des explications, pas de verdict",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "des explications",
+     "x": 160,
+     "y": 380,
+     "w": 1600,
+     "align": "center",
+     "anchor": "center",
+     "size": 80,
+     "at": "Ce que les chercheurs ont recueilli|explications|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "verdict",
+     "x": 160,
+     "y": 560,
+     "w": 1600,
+     "align": "center",
+     "anchor": "center",
+     "size": 80,
+     "color": "rgba(248,238,220,0.55)",
+     "at": "Personne n’avait à rendre|verdict|-0.1",
+     "strikeAt": "Personne n’avait à rendre|verdict|+0.2"
+    }
+   ]
+  },
+  {
+   "id": "E12",
+   "at": "Alors reviens un instant à l’opéra|<|-0.15",
+   "type": "clip",
+   "src": "07",
+   "in": 130,
+   "rate": 1,
+   "layout": "cadre",
+   "fit": "contain",
+   "reprise": true,
+   "note": "Reprise : l’opéra, après l’expérience",
+   "verifier": true
+  },
+  {
+   "id": "E13",
+   "at": "Si cette scène t’a aidé|<|-0.15",
+   "type": "compose",
+   "note": "Les deux questions",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Si cette scène t’a aidé à comprendre la peur d’Anakin, est-ce qu’elle a changé ton avis sur sa responsabilité ?",
+     "x": 210,
+     "y": 330,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 60,
+     "dimAt": "Ou est-ce que tu sais|<|-0.1",
+     "dimTo": 0.4
+    },
+    {
+     "type": "texte",
+     "style": "question",
+     "text": "Ou est-ce que tu sais simplement mieux raconter comment il en est arrivé là ?",
+     "x": 210,
+     "y": 600,
+     "w": 1500,
+     "align": "center",
+     "anchor": "center",
+     "size": 68,
+     "at": "Ou est-ce que tu sais|<|-0.1"
+    }
+   ]
+  },
+  {
+   "id": "F00",
+   "at": "chap:5",
+   "type": "chapitre",
+   "num": 6
+  },
+  {
+   "id": "F01",
+   "at": "Il reste une dernière possibilité|<|-0.1",
+   "type": "clip",
+   "src": "10",
+   "in": "00:03.6",
+   "rate": 1,
+   "layout": "plein",
+   "reprise": true,
+   "note": "Retour à Walter devant Tuco",
+   "verifier": true
+  },
+  {
+   "id": "F02",
+   "at": "Peut-être qu’on t’accuse|défendre|+0.0",
+   "type": "compose",
+   "backdrop": "flou",
+   "note": "Deux champs : Walter / Tuco",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "10",
+     "in": "00:04.4",
+     "rate": 1,
+     "dest": "duoG",
+     "reprise": true,
+     "note": "Walter",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "10",
+     "in": "00:05.6",
+     "rate": 1,
+     "dest": "duoD",
+     "at": "Peut-être qu’on t’accuse|alors|-0.1",
+     "reprise": true,
+     "note": "Tuco",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "F03",
+   "at": "Dans une expérience publiée en 2023|<|-0.2",
+   "type": "planche",
+   "image": "planches/curiosite.png",
+   "title": "Curiosité (Wylie et Gantman)"
+  },
+  {
+   "id": "F04",
+   "at": "Et je trouve que ça décrit|<|+0.0",
+   "type": "clip",
+   "src": "10",
+   "in": "00:11.4",
+   "rate": 1,
+   "layout": "plein",
+   "reprise": true,
+   "note": "Le bureau de Tuco a sauté (extérieur)",
+   "verifier": true
+  },
+  {
+   "id": "F05",
+   "at": "Comment on passe du type|<|-0.15",
+   "type": "compose",
+   "note": "Deux champs : le bacon végétal en famille → le bureau de Tuco",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "04",
+     "in": "00:20.0",
+     "freeze": true,
+     "dest": "duoG",
+     "reprise": true,
+     "note": "Le petit-déjeuner",
+     "verifier": true,
+     "at": "Comment on passe du type|mange|+0.1"
+    },
+    {
+     "type": "trait",
+     "x": 942,
+     "y": 506,
+     "h": 4,
+     "at": "Comment on passe du type|au",
+     "widths": [
+      {
+       "at": "Comment on passe du type|au",
+       "w": 36
+      }
+     ]
+    },
+    {
+     "type": "clip",
+     "src": "10",
+     "in": "00:10.9",
+     "freeze": true,
+     "dest": "duoD",
+     "at": "Comment on passe du type|au|+0.2",
+     "reprise": true,
+     "note": "L’explosion",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "F05b",
+   "at": "Rien que pour comprendre|<|-0.1",
+   "type": "compose",
+   "note": "Le mot qu’on isole : le trajet",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "comprendre le trajet",
+     "x": 160,
+     "y": 500,
+     "w": 1600,
+     "align": "center",
+     "anchor": "center",
+     "size": 96
+    }
+   ]
+  },
+  {
+   "id": "F06",
+   "at": "Essaie de répondre à ces trois|<|-0.15",
+   "type": "clip",
+   "src": "10",
+   "in": "00:06.0",
+   "rate": 0.85,
+   "layout": "plein",
+   "reprise": true,
+   "note": "Le regard de Walter avant le geste",
+   "verifier": true
+  },
+  {
+   "id": "F07",
+   "at": "Est-ce que tu voulais connaître|<|-0.25",
+   "type": "compose",
+   "note": "Trois questions, une à la fois, avec un temps de réponse ; puis oui, oui, non",
+   "layers": [
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "question",
+     "text": "Est-ce que tu voulais connaître la suite de son plan chez Tuco ?",
+     "x": 170,
+     "y": 200,
+     "w": 1300,
+     "size": 54,
+     "dimAt": "Est-ce que tu voulais qu’il rentre|<|-0.1",
+     "dimTo": 0.45
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "question",
+     "text": "Est-ce que tu voulais qu’il rentre chez lui vivant ?",
+     "x": 170,
+     "y": 440,
+     "w": 1300,
+     "size": 54,
+     "at": "Est-ce que tu voulais qu’il rentre|<|-0.1",
+     "dimAt": "Est-ce que tu aurais trouvé|<|-0.1",
+     "dimTo": 0.45
+    },
+    {
+     "type": "texte",
+     "style": "liste",
+     "kind": "question",
+     "text": "Est-ce que tu aurais trouvé sa conduite acceptable si tu avais été assis dans le bureau d’à côté ?",
+     "x": 170,
+     "y": 680,
+     "w": 1300,
+     "size": 54,
+     "at": "Est-ce que tu aurais trouvé|<|-0.1"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "oui",
+     "x": 1580,
+     "y": 196,
+     "w": 200,
+     "size": 66,
+     "at": "Tu peux répondre oui|oui|-0.05"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "oui",
+     "x": 1580,
+     "y": 436,
+     "w": 200,
+     "size": 66,
+     "at": "Tu peux répondre oui|oui#2|-0.05"
+    },
+    {
+     "type": "texte",
+     "style": "mot",
+     "kind": "mot",
+     "text": "non",
+     "x": 1580,
+     "y": 676,
+     "w": 200,
+     "size": 66,
+     "color": "#E44953",
+     "at": "Tu peux répondre oui|non|-0.05"
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "mot",
+     "text": "la curiosité",
+     "x": 170,
+     "y": 152,
+     "w": 900,
+     "at": "La curiosité, l’attachement|curiosité|-0.05"
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "mot",
+     "text": "l’attachement",
+     "x": 170,
+     "y": 392,
+     "w": 900,
+     "at": "La curiosité, l’attachement|attachement|-0.05"
+    },
+    {
+     "type": "texte",
+     "style": "etiquette",
+     "kind": "mot",
+     "text": "le jugement moral",
+     "x": 170,
+     "y": 632,
+     "w": 900,
+     "at": "La curiosité, l’attachement|jugement|-0.05"
+    }
+   ]
+  },
+  {
+   "id": "G00",
+   "at": "chap:6",
+   "type": "chapitre",
+   "num": 7
+  },
+  {
+   "id": "G01",
+   "at": "Je te laisse avec le livre|<|-0.1",
+   "type": "clip",
+   "src": "02",
+   "in": 1250,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Retour au livre d’Armin",
+   "verifier": true
+  },
+  {
+   "id": "G02",
+   "at": "Tu peux toujours souhaiter|<|-0.15",
+   "type": "compose",
+   "note": "Ces deux gamins : Eren enfant et Ramzi réunis",
+   "layers": [
+    {
+     "type": "clip",
+     "src": "01",
+     "in": 480,
+     "rate": 1,
+     "dest": "duoG",
+     "eviter_bas": true,
+     "fade": 8,
+     "reprise": true,
+     "note": "Eren enfant",
+     "verifier": true
+    },
+    {
+     "type": "clip",
+     "src": "09",
+     "in": "00:40.4",
+     "rate": 1,
+     "dest": "duoD",
+     "eviter_bas": true,
+     "fade": 8,
+     "at": "Tu peux toujours souhaiter|deux|-0.1",
+     "reprise": true,
+     "note": "Ramzi",
+     "verifier": true
+    }
+   ]
+  },
+  {
+   "id": "G03",
+   "at": "Maintenant, tu connais aussi|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": "00:43.0",
+   "rate": 0.8,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Le visage de l’enfant qui a vu les Titans passer la montagne",
+   "verifier": true
+  },
+  {
+   "id": "G03b",
+   "at": "Maintenant, tu connais aussi|Titans|-0.1",
+   "type": "clip",
+   "src": "09",
+   "in": 740,
+   "rate": 1,
+   "layout": "plein",
+   "note": "Ce que l’enfant a vu : les Titans passent la montagne",
+   "verifier": true,
+   "eviter_bas": true,
+   "reprise": true
+  },
+  {
+   "id": "G04",
+   "at": "Si L’Attaque des Titans t’avait|<|-0.15",
+   "type": "clip",
+   "src": "09",
+   "in": 1230,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Ramzi présenté en premier",
+   "verifier": true
+  },
+  {
+   "id": "G05",
+   "at": "Si L’Attaque des Titans t’avait|et|-0.1",
+   "type": "clip",
+   "src": "12",
+   "in": 400,
+   "rate": 1,
+   "layout": "plein",
+   "eviter_bas": true,
+   "reprise": true,
+   "note": "Eren adulte entre dans l’histoire « à ce moment-là »",
+   "verifier": true
+  },
+  {
+   "id": "G06",
+   "at": "Si L’Attaque des Titans t’avait|est-ce|-0.2",
+   "type": "clip",
+   "src": "08",
+   "in": 1268,
+   "rate": 0.85,
+   "layout": "plein",
+   "eviter_bas": true,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "note": "Dernier plan : l’œil d’Eren, le plus serré, jusqu’au dernier mot et la seconde de silence",
+   "verifier": true
+  },
+  {
+   "id": "G07",
+   "at": "parole_fin|+1.0",
+   "type": "noir",
+   "note": "Noir"
+  }
+ ],
+ "incrustations": [
+  {
+   "type": "texte",
+   "style": "credit",
+   "kind": "credit",
+   "text": "Albert Bandura, 1999 • Justification morale",
+   "x": 96,
+   "y": 96,
+   "w": 1600,
+   "box": true,
+   "at": "Le psychologue Albert Bandura|<|-0.1",
+   "until": "Il parle de désengagement moral|désengagement|-0.35"
+  },
+  {
+   "type": "texte",
+   "style": "credit",
+   "kind": "credit",
+   "text": "Jonathan Cohen, 2001 • Identification au personnage",
+   "x": 96,
+   "y": 96,
+   "w": 1600,
+   "box": true,
+   "at": "Le chercheur Jonathan Cohen|<|-0.1",
+   "until": "Le chercheur Jonathan Cohen|identification|-0.35"
+  },
+  {
+   "type": "texte",
+   "style": "credit",
+   "kind": "credit",
+   "text": "Arthur Raney, 2004 • Disposition affective",
+   "x": 96,
+   "y": 96,
+   "w": 1600,
+   "box": true,
+   "at": "Et puis il y a l’affection|<|+0.2",
+   "until": "Dans ses travaux sur la disposition|disposition|-0.35"
+  },
+  {
+   "type": "texte",
+   "style": "credit",
+   "kind": "credit",
+   "text": "Albert Bandura, 1999 • Déplacement de responsabilité",
+   "x": 96,
+   "y": 96,
+   "w": 1600,
+   "box": true,
+   "at": "« Palpatine l’a manipulé »|<|-0.2",
+   "until": "Écoute simplement le sujet|<|-0.2"
+  },
+  {
+   "type": "texte",
+   "style": "credit",
+   "kind": "credit",
+   "text": "Regan et Totten, 1975 • Une même personne, deux consignes",
+   "x": 700,
+   "y": 96,
+   "w": 1180,
+   "box": true,
+   "at": "En 1975, Regan et Totten|<|-0.1",
+   "until": "Les autres, essayer|place>|+0.45",
+   "size": 40
+  },
+  {
+   "type": "texte",
+   "style": "credit",
+   "kind": "credit",
+   "text": "Jordan Wylie et Ana Gantman, 2023 • Curiosité morale",
+   "x": 96,
+   "y": 96,
+   "w": 1600,
+   "box": true,
+   "at": "Peut-être qu’on t’accuse|alors|+0.3",
+   "until": "Dans une expérience publiée en 2023|<|-0.25"
+  },
+  {
+   "type": "texte",
+   "style": "etiquette",
+   "kind": "etiquette",
+   "text": "Flash-back · avant le Grand Terrassement",
+   "x": 96,
+   "y": 96,
+   "w": 1200,
+   "box": true,
+   "at": "La série nous montre aussi|<|+0.2",
+   "until": "Tu peux être touché|savoir|-0.15"
+  },
+  {
+   "type": "texte",
+   "style": "question",
+   "kind": "question",
+   "text": "À qui va ta compassion, sur ce plan ?",
+   "x": 260,
+   "y": 120,
+   "w": 1400,
+   "align": "center",
+   "size": 64,
+   "box": true,
+   "at": "À qui va ta compassion|<|-0.05",
+   "until": "Tu peux être touché|espérer|-0.15"
+  },
+  {
+   "type": "texte",
+   "style": "question",
+   "kind": "question",
+   "text": "quels actes ont-ils commis ?",
+   "x": 260,
+   "y": 110,
+   "w": 1400,
+   "align": "center",
+   "size": 66,
+   "box": true,
+   "at": "Bandura parle de comparaison|comparaison|-0.1",
+   "until": "Mais écoute ce qui vient d’arriver|Ramzi|-0.25"
+  },
+  {
+   "type": "texte",
+   "style": "question",
+   "kind": "question",
+   "text": "que risque Ramzi ?",
+   "x": 260,
+   "y": 110,
+   "w": 1400,
+   "align": "center",
+   "size": 66,
+   "box": true,
+   "at": "Mais écoute ce qui vient d’arriver|Ramzi|-0.25",
+   "until": "Qu’a fait cet enfant|<|-0.2"
+  },
+  {
+   "type": "texte",
+   "style": "question",
+   "kind": "question",
+   "text": "Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?",
+   "x": 260,
+   "y": 110,
+   "w": 1400,
+   "align": "center",
+   "size": 60,
+   "box": true,
+   "at": "Si même la montagne|où|-0.15",
+   "until": "C’est là qu’une autre défense|<|-0.25"
+  },
+  {
+   "type": "texte",
+   "style": "question",
+   "kind": "question",
+   "text": "Qui a levé la main ?",
+   "x": 260,
+   "y": 880,
+   "w": 1400,
+   "align": "center",
+   "size": 76,
+   "box": true,
+   "at": "Qui a levé la main ?|<|-0.05",
+   "until": "« Palpatine l’a manipulé »|<|-0.2"
+  },
+  {
+   "type": "texte",
+   "style": "mot",
+   "kind": "mot",
+   "text": "déplacement de responsabilité",
+   "x": 820,
+   "y": 860,
+   "w": 1020,
+   "size": 54,
+   "at": "Ce passage de l’une à l’autre|déplacement|-0.1",
+   "until": "Écoute simplement le sujet|<|-0.2"
+  }
+ ],
+ "sons": [
+  {
+   "at": "t:0.6",
+   "fichier": "sfx/page_02.wav",
+   "volume": 0.5,
+   "duree_max": 1.6,
+   "note": "Page qu’on tourne, prise dans 02 si propre (repère : à extraire)"
+  },
+  {
+   "at": "Des Titans passent|<|-0.15",
+   "fichier": "sfx/grondement_montagne.wav",
+   "volume": 0.16,
+   "duree_max": 2.6,
+   "note": "Grondement des Titans, passe-bas, ≥ 15 dB sous la voix"
+  },
+  {
+   "at": "Les vitres explosent|<|-0.25",
+   "fichier": "sfx/boom_sourd.wav",
+   "volume": 0.22,
+   "duree_max": 1.2,
+   "note": "Explosion : bruit sourd, bref"
+  },
+  {
+   "at": "Si même la montagne|où|-0.15",
+   "fichier": "sfx/grondement_titan.wav",
+   "volume": 0.12,
+   "duree_max": 2.6,
+   "note": "L’horizon occupé"
+  },
+  {
+   "at": "Bandura parle de comparaison|<|-0.15",
+   "fichier": "sfx/grondement_rue.wav",
+   "volume": 0.12,
+   "duree_max": 2.4,
+   "note": "Les Titans dans la rue"
+  }
+ ],
+ "musique": {
+  "_doc": "Enveloppe prête : motif discret commun aux trois œuvres ; coupé pendant le test (chapitre 5, du geste à la question) et avant la dernière question.",
+  "enveloppe": [
+   {
+    "at": "t:0",
+    "v": 0.0
+   },
+   {
+    "at": "t:1.0",
+    "v": 0.12
+   },
+   {
+    "at": "Ton meilleur ami ouvre|<",
+    "v": 0.06
+   },
+   {
+    "at": "Garde ta réponse|>",
+    "v": 0.06
+   },
+   {
+    "at": "chap:1",
+    "v": 0.1
+   },
+   {
+    "at": "Pour ses cinquante ans|<",
+    "v": 0.05
+   },
+   {
+    "at": "Reprenons le geste sur Mustafar|<|-0.8",
+    "v": 0.05
+   },
+   {
+    "at": "Reprenons le geste sur Mustafar|<",
+    "v": 0.0
+   },
+   {
+    "at": "Est-ce que tu as regardé|>|+0.5",
+    "v": 0.0
+   },
+   {
+    "at": "En 1975, Regan et Totten|<",
+    "v": 0.04
+   },
+   {
+    "at": "Si L’Attaque des Titans t’avait|<|-1.0",
+    "v": 0.04
+   },
+   {
+    "at": "Si L’Attaque des Titans t’avait|<",
+    "v": 0.0
+   },
+   {
+    "at": "fin",
+    "v": 0.0
+   }
+  ]
+ }
+}

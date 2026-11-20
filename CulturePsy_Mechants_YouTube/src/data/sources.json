@@ -1,0 +1,425 @@
+{
+ "_doc": "Captures du dossier EXTRAITS. present=false : capture absente, remplacée par une mire de calage (interdite à la livraison). active = zone d’image utile (cropdetect). plages_propres = images vérifiées sans sous-titre, interface, filigrane ni plan voisin (reprises du projet vertical, à revalider en 16:9). max_scale = agrandissement maximal.",
+ "captures": {
+  "01": {
+   "file": "01_Eren_enfant_liberte.mp4",
+   "w": 1036,
+   "h": 588,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1036,
+    588
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "sous-titres incrustés en bas (≈84–96 % de la hauteur)",
+   "plages_propres_vertical": [
+    [
+     93,
+     190
+    ],
+    [
+     193,
+     371
+    ],
+    [
+     467,
+     571
+    ],
+    [
+     735,
+     796
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": [],
+   "bande_sous_titres": [
+    494,
+    564
+   ]
+  },
+  "02": {
+   "file": "02_Armin_livre.mp4",
+   "w": 1040,
+   "h": 582,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1040,
+    582
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "sous-titres incrustés en bas (≈84–96 % de la hauteur)",
+   "plages_propres_vertical": [
+    [
+     1164,
+     1226
+    ],
+    [
+     1227,
+     1359
+    ],
+    [
+     1832,
+     1980
+    ],
+    [
+     1896,
+     1963
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": [],
+   "bande_sous_titres": [
+    489,
+    559
+   ]
+  },
+  "03": {
+   "file": "03_Eren_Carla.mp4",
+   "w": 1034,
+   "h": 582,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1034,
+    582
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "sous-titres incrustés en bas (≈84–96 % de la hauteur)",
+   "plages_propres_vertical": [
+    [
+     984,
+     1021
+    ],
+    [
+     1320,
+     1406
+    ],
+    [
+     2037,
+     2116
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": [],
+   "bande_sous_titres": [
+    489,
+    559
+   ]
+  },
+  "04": {
+   "file": "04_Walter_famille.mp4",
+   "w": 1416,
+   "h": 612,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1416,
+    612
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "bandes noires latérales ; filigrane « RJ MIX » en bas au centre 00:25–00:27 ; interface possible 00:30–00:44 et 00:48.4–00:50.7 ; cuisine propre 00:44.7–00:47.5",
+   "plages_propres_vertical": [
+    [
+     660,
+     898
+    ],
+    [
+     1333,
+     1424
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": []
+  },
+  "05": {
+   "file": "05_Walter_Skyler_090143.mp4",
+   "w": 744,
+   "h": 418,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    744,
+    418
+   ],
+   "max_scale": 1.8,
+   "basse_def": true,
+   "pieges": "basse définition (744 px) : cadre intégré, agrandissement ≤ 1,8",
+   "plages_propres_vertical": [
+    [
+     1311,
+     1835
+    ],
+    [
+     2346,
+     2743
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": []
+  },
+  "06": {
+   "file": "06_Anakin_ObiWan_090236.mp4",
+   "w": 810,
+   "h": 412,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    810,
+    412
+   ],
+   "max_scale": 1.8,
+   "basse_def": true,
+   "pieges": "bandes noires haut/bas (cropdetect) ; basse définition : agrandissement ≤ 1,8 ; coupe Anakin → Obi-Wan vers l’image 241",
+   "plages_propres_vertical": [
+    [
+     130,
+     240
+    ],
+    [
+     241,
+     349
+    ],
+    [
+     660,
+     704
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": []
+  },
+  "07": {
+   "file": "07_Palpatine_opera_090343.mp4",
+   "w": 834,
+   "h": 426,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    834,
+    426
+   ],
+   "max_scale": 1.8,
+   "basse_def": true,
+   "pieges": "bandes noires haut/bas (cropdetect) ; basse définition : agrandissement ≤ 1,8",
+   "plages_propres_vertical": [
+    [
+     560,
+     769
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": []
+  },
+  "08": {
+   "file": "08_Eren_Reiner_163927.mp4",
+   "w": 1750,
+   "h": 992,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1750,
+    992
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "sous-titres incrustés en bas ; coupe Eren → Reiner à l’image 564 ; œil d’Eren propre 1268–1358",
+   "plages_propres_vertical": [
+    [
+     444,
+     560
+    ],
+    [
+     564,
+     637
+    ],
+    [
+     638,
+     1073
+    ],
+    [
+     1268,
+     1358
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": [],
+   "bande_sous_titres": [
+    833,
+    952
+   ]
+  },
+  "09": {
+   "file": "09_Grand_Terrassement_164448.mp4",
+   "w": 1782,
+   "h": 990,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1782,
+    990
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "sous-titres incrustés en bas ; barre « VF / VOSTFR / Vidmoly » en haut 01:40.7–01:41.8",
+   "plages_propres_vertical": [
+    [
+     4,
+     69
+    ],
+    [
+     420,
+     445
+    ],
+    [
+     701,
+     850
+    ],
+    [
+     851,
+     984
+    ],
+    [
+     1904,
+     1964
+    ],
+    [
+     2099,
+     2324
+    ],
+    [
+     2480,
+     2530
+    ],
+    [
+     2531,
+     2564
+    ],
+    [
+     2565,
+     2612
+    ],
+    [
+     3021,
+     3121
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": [],
+   "bande_sous_titres": [
+    832,
+    950
+   ]
+  },
+  "10": {
+   "file": "10_Walter_Tuco_190834.mp4",
+   "w": 1310,
+   "h": 734,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1310,
+    734
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "« SUBSCRIBE » en bas à droite",
+   "plages_propres_vertical": [
+    [
+     236,
+     259
+    ],
+    [
+     266,
+     280
+    ],
+    [
+     321,
+     336
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": []
+  },
+  "11": {
+   "file": "11_Anakin_Padme_110134.mp4",
+   "w": 1906,
+   "h": 894,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1906,
+    894
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "« ← Retour » en haut à gauche",
+   "plages_propres_vertical": [
+    [
+     1143,
+     1186
+    ],
+    [
+     1188,
+     1234
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": []
+  },
+  "12": {
+   "file": "12_Eren_Reiner_secours_163802.mp4",
+   "w": 1730,
+   "h": 980,
+   "fps": 30,
+   "present": false,
+   "active": [
+    0,
+    0,
+    1730,
+    980
+   ],
+   "max_scale": 2.2,
+   "basse_def": false,
+   "pieges": "sous-titres incrustés en bas ; même échange que 08 (ne jamais utiliser les deux prises pour le même moment)",
+   "plages_propres_vertical": [
+    [
+     356,
+     474
+    ]
+   ],
+   "plages_propres": [],
+   "coupes": [],
+   "bande_sous_titres": [
+    823,
+    941
+   ]
+  }
+ }
+}

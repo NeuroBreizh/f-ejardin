@@ -1,0 +1,818 @@
+[
+ {
+  "kind": "credit",
+  "text": "Albert Bandura, 1999 • Justification morale",
+  "from": 7486,
+  "to": 7773,
+  "style": "credit",
+  "size": null
+ },
+ {
+  "kind": "credit",
+  "text": "Jonathan Cohen, 2001 • Identification au personnage",
+  "from": 9504,
+  "to": 9570,
+  "style": "credit",
+  "size": null
+ },
+ {
+  "kind": "credit",
+  "text": "Arthur Raney, 2004 • Disposition affective",
+  "from": 10497,
+  "to": 10654,
+  "style": "credit",
+  "size": null
+ },
+ {
+  "kind": "credit",
+  "text": "Albert Bandura, 1999 • Déplacement de responsabilité",
+  "from": 16210,
+  "to": 16726,
+  "style": "credit",
+  "size": null
+ },
+ {
+  "kind": "credit",
+  "text": "Regan et Totten, 1975 • Une même personne, deux consignes",
+  "from": 18811,
+  "to": 19694,
+  "style": "credit",
+  "size": 40
+ },
+ {
+  "kind": "credit",
+  "text": "Jordan Wylie et Ana Gantman, 2023 • Curiosité morale",
+  "from": 21206,
+  "to": 21346,
+  "style": "credit",
+  "size": null
+ },
+ {
+  "kind": "etiquette",
+  "text": "Flash-back · avant le Grand Terrassement",
+  "from": 13498,
+  "to": 13966,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "question",
+  "text": "À qui va ta compassion, sur ce plan ?",
+  "from": 13717,
+  "to": 13909,
+  "style": "question",
+  "size": 64
+ },
+ {
+  "kind": "question",
+  "text": "quels actes ont-ils commis ?",
+  "from": 12511,
+  "to": 12976,
+  "style": "question",
+  "size": 66
+ },
+ {
+  "kind": "question",
+  "text": "que risque Ramzi ?",
+  "from": 12976,
+  "to": 13304,
+  "style": "question",
+  "size": 66
+ },
+ {
+  "kind": "question",
+  "text": "Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?",
+  "from": 12137,
+  "to": 12236,
+  "style": "question",
+  "size": 60
+ },
+ {
+  "kind": "question",
+  "text": "Qui a levé la main ?",
+  "from": 16121,
+  "to": 16210,
+  "style": "question",
+  "size": 76
+ },
+ {
+  "kind": "mot",
+  "text": "déplacement de responsabilité",
+  "from": 16653,
+  "to": 16726,
+  "style": "mot",
+  "size": 54
+ },
+ {
+  "kind": "question",
+  "text": "Si tu avais rencontré Ramzi en premier, est-ce que tu aurais quand même défendu Eren ?",
+  "from": 1043,
+  "to": 1390,
+  "style": "question",
+  "size": 74
+ },
+ {
+  "kind": "chapitre",
+  "text": "Chapitre 2",
+  "from": 1394,
+  "to": 1459,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Walter : le petit-déjeuner et l’aveu",
+  "from": 1398,
+  "to": 1459,
+  "style": "grand",
+  "size": 104
+ },
+ {
+  "kind": "question",
+  "text": "Pourquoi se lance-t-il dans la fabrication de drogue ?",
+  "from": 2612,
+  "to": 2911,
+  "style": "question",
+  "size": 72
+ },
+ {
+  "kind": "spectateur",
+  "text": "« pour mettre sa famille à l’abri »",
+  "from": 2774,
+  "to": 2911,
+  "style": "citation",
+  "size": 66
+ },
+ {
+  "kind": "question",
+  "text": "Juste avant l’explosion, quelle question tu te posais ?",
+  "from": 3421,
+  "to": 3740,
+  "style": "question",
+  "size": 70
+ },
+ {
+  "kind": "question",
+  "text": "Comment ce prof de chimie compte-t-il sortir vivant de cette pièce ?",
+  "from": 3598,
+  "to": 3740,
+  "style": "question",
+  "size": 62
+ },
+ {
+  "kind": "question",
+  "text": "Est-ce que j’avais pour autant décidé qu’il avait raison de venir ?",
+  "from": 3892,
+  "to": 4050,
+  "style": "question",
+  "size": 72
+ },
+ {
+  "kind": "etiquette",
+  "text": "Ce que Walter dit à Gretchen",
+  "from": 4963,
+  "to": 5531,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "resume",
+  "text": "L’assurance prend en charge le traitement",
+  "from": 5216,
+  "to": 5531,
+  "style": "question",
+  "size": 82
+ },
+ {
+  "kind": "mot",
+  "text": "payer son traitement",
+  "from": 5531,
+  "to": 5783,
+  "style": "liste",
+  "size": 58
+ },
+ {
+  "kind": "mot",
+  "text": "laisser de l’argent aux enfants",
+  "from": 5590,
+  "to": 5783,
+  "style": "liste",
+  "size": 58
+ },
+ {
+  "kind": "question",
+  "text": "Mais pourquoi lui mentir ?",
+  "from": 5729,
+  "to": 5783,
+  "style": "question",
+  "size": 70
+ },
+ {
+  "kind": "spectateur",
+  "text": "« Oui, mais tu comprends, avec leur histoire, il ne pouvait pas accepter cet argent… »",
+  "from": 5861,
+  "to": 6319,
+  "style": "citation",
+  "size": 66
+ },
+ {
+  "kind": "mot",
+  "text": "laisser de l’argent à ses enfants",
+  "from": 6408,
+  "to": 6626,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "entrer chez Tuco",
+  "from": 6441,
+  "to": 6626,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "continuer à bâtir un empire",
+  "from": 6465,
+  "to": 6626,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "laisser de l’argent à ses enfants",
+  "from": 6481,
+  "to": 6626,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "entrer chez Tuco",
+  "from": 6481,
+  "to": 6626,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "continuer à bâtir un empire",
+  "from": 6481,
+  "to": 6626,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "question",
+  "text": "La question, c’est combien de temps on a continué, nous, à s’en servir pour défendre Walter.",
+  "from": 7304,
+  "to": 7775,
+  "style": "question",
+  "size": 66
+ },
+ {
+  "kind": "mot",
+  "text": "justification morale",
+  "from": 8131,
+  "to": 8532,
+  "style": "mot",
+  "size": 80
+ },
+ {
+  "kind": "question",
+  "text": "Qu’est-ce qui nous donnait encore envie de le plaider ?",
+  "from": 8406,
+  "to": 8532,
+  "style": "question",
+  "size": 66
+ },
+ {
+  "kind": "chapitre",
+  "text": "Chapitre 3",
+  "from": 8536,
+  "to": 8601,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Eren : avec qui a-t-on grandi ?",
+  "from": 8540,
+  "to": 8601,
+  "style": "grand",
+  "size": 104
+ },
+ {
+  "kind": "question",
+  "text": "Est-ce que tu t’es seulement demandé, à cet instant, si Eren t’était sympathique ?",
+  "from": 10064,
+  "to": 10137,
+  "style": "question",
+  "size": 60
+ },
+ {
+  "kind": "spectateur",
+  "text": "« Oui, mais regarde ce que l’autre camp a fait aux siens. »",
+  "from": 12349,
+  "to": 12471,
+  "style": "citation",
+  "size": 70
+ },
+ {
+  "kind": "mot",
+  "text": "comparaison avantageuse",
+  "from": 12563,
+  "to": 12976,
+  "style": "mot",
+  "size": 96
+ },
+ {
+  "kind": "chapitre",
+  "text": "Chapitre 4",
+  "from": 14094,
+  "to": 14159,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Anakin : qui a levé la main ?",
+  "from": 14098,
+  "to": 14159,
+  "style": "grand",
+  "size": 104
+ },
+ {
+  "kind": "mot",
+  "text": "Palpatine.",
+  "from": 14301,
+  "to": 14344,
+  "style": "grand",
+  "size": 150
+ },
+ {
+  "kind": "mot",
+  "text": "qui agit sur qui",
+  "from": 15426,
+  "to": 15521,
+  "style": "mot",
+  "size": 96
+ },
+ {
+  "kind": "mot",
+  "text": "la peur d’Anakin",
+  "from": 15743,
+  "to": 16047,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "mot",
+  "text": "l’influence de Palpatine",
+  "from": 15785,
+  "to": 16047,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "mot",
+  "text": "cette promesse de sauver Padmé",
+  "from": 15851,
+  "to": 16047,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "mot",
+  "text": "comment il en est arrivé là",
+  "from": 15964,
+  "to": 16047,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "spectateur",
+  "text": "« Palpatine l’a manipulé »",
+  "from": 16210,
+  "to": 17072,
+  "style": "citation",
+  "size": 64
+ },
+ {
+  "kind": "mot",
+  "text": "une explication",
+  "from": 16290,
+  "to": 17072,
+  "style": "note",
+  "size": null
+ },
+ {
+  "kind": "spectateur",
+  "text": "« Donc Anakin n’y est pour rien »",
+  "from": 16369,
+  "to": 17072,
+  "style": "citation",
+  "size": 64
+ },
+ {
+  "kind": "mot",
+  "text": "une conclusion",
+  "from": 16471,
+  "to": 17072,
+  "style": "note",
+  "size": null
+ },
+ {
+  "kind": "mot",
+  "text": "« Palpatine »",
+  "from": 17035,
+  "to": 17072,
+  "style": "mot",
+  "size": 64
+ },
+ {
+  "kind": "question",
+  "text": "À quel moment Anakin aurait-il encore pu s’arrêter ?",
+  "from": 17412,
+  "to": 17587,
+  "style": "question",
+  "size": 62
+ },
+ {
+  "kind": "chapitre",
+  "text": "Chapitre 5",
+  "from": 17907,
+  "to": 17970,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Le test : changer la consigne",
+  "from": 17911,
+  "to": 17970,
+  "style": "grand",
+  "size": 104
+ },
+ {
+  "kind": "question",
+  "text": "La première fois, regarde Anakin. Qu’est-ce qu’il croit être en train de perdre ?",
+  "from": 18049,
+  "to": 18229,
+  "style": "question",
+  "size": 64
+ },
+ {
+  "kind": "question",
+  "text": "Maintenant, même image. Regarde Padmé. Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?",
+  "from": 18334,
+  "to": 18547,
+  "style": "question",
+  "size": 64
+ },
+ {
+  "kind": "question",
+  "text": "Est-ce que tu as regardé la même chose les deux fois ?",
+  "from": 18652,
+  "to": 18808,
+  "style": "question",
+  "size": 76
+ },
+ {
+  "kind": "etiquette",
+  "text": "Reconstitution",
+  "from": 18808,
+  "to": 19401,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "etiquette",
+  "text": "1 · conversation identique",
+  "from": 19091,
+  "to": 19401,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "mot",
+  "text": "deux personnes en train de faire connaissance",
+  "from": 19127,
+  "to": 19401,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "la même conversation, la même personne",
+  "from": 19371,
+  "to": 19401,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "etiquette",
+  "text": "Reconstitution",
+  "from": 19401,
+  "to": 19695,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "etiquette",
+  "text": "2 · consigne différente",
+  "from": 19401,
+  "to": 19695,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "mot",
+  "text": "l’observer",
+  "from": 19524,
+  "to": 19695,
+  "style": "mot",
+  "size": 62
+ },
+ {
+  "kind": "mot",
+  "text": "se mettre à sa place",
+  "from": 19632,
+  "to": 19695,
+  "style": "mot",
+  "size": 62
+ },
+ {
+  "kind": "etiquette",
+  "text": "Reconstitution",
+  "from": 19701,
+  "to": 20118,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "etiquette",
+  "text": "3 · explication donnée",
+  "from": 19701,
+  "to": 20118,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "mot",
+  "text": "expliquer son comportement",
+  "from": 19761,
+  "to": 20118,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "la situation",
+  "from": 20000,
+  "to": 20118,
+  "style": "mot",
+  "size": 72
+ },
+ {
+  "kind": "mot",
+  "text": "sa personnalité",
+  "from": 20071,
+  "to": 20118,
+  "style": "mot",
+  "size": 48
+ },
+ {
+  "kind": "mot",
+  "text": "des explications",
+  "from": 20303,
+  "to": 20441,
+  "style": "mot",
+  "size": 80
+ },
+ {
+  "kind": "mot",
+  "text": "verdict",
+  "from": 20401,
+  "to": 20441,
+  "style": "mot",
+  "size": 80
+ },
+ {
+  "kind": "question",
+  "text": "Si cette scène t’a aidé à comprendre la peur d’Anakin, est-ce qu’elle a changé ton avis sur sa responsabilité ?",
+  "from": 20533,
+  "to": 20959,
+  "style": "question",
+  "size": 60
+ },
+ {
+  "kind": "question",
+  "text": "Ou est-ce que tu sais simplement mieux raconter comment il en est arrivé là ?",
+  "from": 20782,
+  "to": 20959,
+  "style": "question",
+  "size": 68
+ },
+ {
+  "kind": "chapitre",
+  "text": "Chapitre 6",
+  "from": 20963,
+  "to": 21028,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Le plaisir de regarder",
+  "from": 20967,
+  "to": 21028,
+  "style": "grand",
+  "size": 104
+ },
+ {
+  "kind": "mot",
+  "text": "comprendre le trajet",
+  "from": 22621,
+  "to": 22789,
+  "style": "mot",
+  "size": 96
+ },
+ {
+  "kind": "question",
+  "text": "Est-ce que tu voulais connaître la suite de son plan chez Tuco ?",
+  "from": 22915,
+  "to": 23880,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "question",
+  "text": "Est-ce que tu voulais qu’il rentre chez lui vivant ?",
+  "from": 23105,
+  "to": 23880,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "question",
+  "text": "Est-ce que tu aurais trouvé sa conduite acceptable si tu avais été assis dans le bureau d’à côté ?",
+  "from": 23259,
+  "to": 23880,
+  "style": "liste",
+  "size": 54
+ },
+ {
+  "kind": "mot",
+  "text": "oui",
+  "from": 23592,
+  "to": 23880,
+  "style": "mot",
+  "size": 66
+ },
+ {
+  "kind": "mot",
+  "text": "oui",
+  "from": 23610,
+  "to": 23880,
+  "style": "mot",
+  "size": 66
+ },
+ {
+  "kind": "mot",
+  "text": "non",
+  "from": 23628,
+  "to": 23880,
+  "style": "mot",
+  "size": 66
+ },
+ {
+  "kind": "mot",
+  "text": "la curiosité",
+  "from": 23673,
+  "to": 23880,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "mot",
+  "text": "l’attachement",
+  "from": 23708,
+  "to": 23880,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "mot",
+  "text": "le jugement moral",
+  "from": 23746,
+  "to": 23880,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Chapitre 7",
+  "from": 23884,
+  "to": 23949,
+  "style": "etiquette",
+  "size": null
+ },
+ {
+  "kind": "chapitre",
+  "text": "Revenir au livre",
+  "from": 23888,
+  "to": 23949,
+  "style": "grand",
+  "size": 104
+ },
+ {
+  "kind": "mot",
+  "text": "« Il fait ça pour sa famille. »",
+  "from": 4243,
+  "to": 4755,
+  "style": "citation",
+  "size": 92
+ },
+ {
+  "kind": "mot",
+  "text": "laisser de l’argent à ses enfants",
+  "from": 4398,
+  "to": 4755,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "mot",
+  "text": "entrer chez Tuco",
+  "from": 4479,
+  "to": 4755,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "mot",
+  "text": "continuer à bâtir un empire",
+  "from": 4533,
+  "to": 4755,
+  "style": "liste",
+  "size": 60
+ },
+ {
+  "kind": "planche",
+  "text": "Justifications (Bandura)",
+  "from": 7775,
+  "to": 8131,
+  "style": "planche",
+  "size": null
+ },
+ {
+  "kind": "planche",
+  "text": "Identification (Cohen)",
+  "from": 9572,
+  "to": 9895,
+  "style": "planche",
+  "size": null
+ },
+ {
+  "kind": "planche",
+  "text": "Disposition affective (Raney)",
+  "from": 10656,
+  "to": 11021,
+  "style": "planche",
+  "size": null
+ },
+ {
+  "kind": "planche",
+  "text": "Les deux consignes (Regan et Totten)",
+  "from": 19695,
+  "to": 19701,
+  "style": "planche",
+  "size": null
+ },
+ {
+  "kind": "planche",
+  "text": "Attributions : situation / personnalité",
+  "from": 20118,
+  "to": 20198,
+  "style": "planche",
+  "size": null
+ },
+ {
+  "kind": "planche",
+  "text": "Curiosité (Wylie et Gantman)",
+  "from": 21347,
+  "to": 22201,
+  "style": "planche",
+  "size": null
+ },
+ {
+  "kind": "bandeau",
+  "text": "Spoilers • L’Attaque des Titans, Breaking Bad et Star Wars",
+  "from": 0,
+  "to": 253,
+  "style": "bandeau",
+  "size": 30
+ }
+]

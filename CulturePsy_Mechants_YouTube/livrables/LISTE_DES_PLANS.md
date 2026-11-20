@@ -1,0 +1,180 @@
+# Culture Psy — « Pourquoi défend-on les méchants ? » · YouTube 16:9
+
+## Liste des plans · version de calage · 13:49.20 · 1920 × 1080 · 30 i/s
+
+**Entrée → sortie** : images de la capture source (30 i/s), avec le temps mm:ss.cc. **Montage** : position dans le film. Recadrage : zone de la capture (x, y, largeur × hauteur en px source) et agrandissement.
+
+| # | Montage | Fichier | Entrée → sortie | Vitesse | Recadrage · échelle | Plan |
+|---|---|---|---|---|---|---|
+| 1 | 00:00.00 → 00:06.00 | 02_Armin_livre.mp4 | 00:40.73 → 00:45.83 (i1222–1375) | ×0,85 | 85, 0, 869 × 489 · ×2.21 | Le livre ouvert d’Armin, la page ⚠ mire de calage |
+| 2 | 00:06.00 → 00:09.33 | 02_Armin_livre.mp4 | 00:38.80 → 00:41.13 (i1164–1234) | ×0,7 | 85, 0, 869 × 489 · ×2.21 | Du livre au visage d’Eren : il regarde la page ⚠ mire de calage |
+| 3 | 00:09.33 → 00:11.80 | 01_Eren_enfant_liberte.mp4 | 00:24.50 → 00:26.93 (i735–808) | ×1 | 79, 0, 878 × 494 · ×2.19 | Eren enfant lève les yeux : « derrière des murs » ⚠ mire de calage |
+| 4 | 00:11.80 → 00:16.10 | 02_Armin_livre.mp4 | 01:01.13 → 01:05.40 (i1834–1962) | ×1 | 85, 0, 869 × 489 · ×2.21 | Eren rêve du monde extérieur : « voir la mer » ⚠ mire de calage |
+| 5 | 00:16.10 → 00:19.90 | 01_Eren_enfant_liberte.mp4 | 00:03.17 → 00:06.93 (i95–208) | ×1 | 79, 0, 878 × 494 · ×2.19 | Eren enfant parle du dehors à son père ⚠ mire de calage |
+| 6 | 00:19.90 → 00:23.33 | 01_Eren_enfant_liberte.mp4 | 00:16.67 → 00:16.67 (i500–500) | figée | 79, 0, 879 × 494 · ×0.99 | Eren enfant (image figée) ⚠ mire de calage |
+| 7 | 00:22.63 → 00:23.33 | 09_Grand_Terrassement_164448.mp4 | 00:40.50 → 00:41.17 (i1215–1235) | ×1 | 151, 0, 1480 × 832 · ×0.59 | Ramzi (Grand Terrassement, vers 00:40) ⚠ mire de calage |
+| 8 | 00:23.33 → 00:26.50 | 09_Grand_Terrassement_164448.mp4 | 00:23.50 → 00:26.63 (i705–799) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les Titans passent la crête de la montagne ⚠ mire de calage |
+| 9 | 00:26.50 → 00:30.20 | 09_Grand_Terrassement_164448.mp4 | 00:28.93 → 00:32.60 (i868–978) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les réfugiés se mettent à courir (les civils gardent leur place) ⚠ mire de calage |
+| 10 | 00:30.20 → 00:32.67 | 09_Grand_Terrassement_164448.mp4 | 01:03.47 → 01:05.90 (i1904–1977) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les Titans dans la rue ⚠ mire de calage |
+| 11 | 00:32.67 → 00:34.77 | 02_Armin_livre.mp4 | 00:38.87 → 00:40.43 (i1166–1213) | ×0,75 | 85, 0, 869 × 489 · ×2.34 | Reprise : le garçon du livre, lu autrement ⚠ mire de calage |
+| 12 | 00:48.63 → 00:52.03 | 04_Walter_famille.mp4 | 00:24.00 → 00:27.37 (i720–821) | ×1 | 164, 0, 1088 × 612 · ×1.76 | Walter à table (éviter le filigrane RJ MIX 00:25–00:27) ⚠ mire de calage |
+| 13 | 00:52.03 → 00:57.97 | 04_Walter_famille.mp4 | 00:19.50 → 00:25.40 (i585–762) | ×1 | 164, 0, 1088 × 612 · ×1.89 | L’assiette : le « 50 » en bacon ⚠ mire de calage |
+| 14 | 00:57.97 → 01:00.97 | 04_Walter_famille.mp4 | 00:28.00 → 00:30.97 (i840–929) | ×1 | 164, 0, 1088 × 612 · ×1.76 | Skyler souhaite un bon anniversaire ⚠ mire de calage |
+| 15 | 01:00.97 → 01:04.37 | 04_Walter_famille.mp4 | 00:44.70 → 00:48.07 (i1341–1442) | ×1 | 164, 0, 1088 × 612 · ×1.76 | Le fils et ses réserves sur le menu (cuisine propre 00:44.7–00:47.5) ⚠ mire de calage |
+| 16 | 01:04.37 → 01:09.73 | 04_Walter_famille.mp4 | 00:24.40 → 00:24.40 (i732–732) | figée | 164, 0, 1087 × 612 · ×0.54 | Walter ⚠ mire de calage |
+| 17 | 01:04.67 → 01:09.73 | 04_Walter_famille.mp4 | 00:28.60 → 00:28.60 (i858–858) | figée | 164, 0, 1087 × 612 · ×0.54 | Skyler ⚠ mire de calage |
+| 18 | 01:07.77 → 01:09.73 | 04_Walter_famille.mp4 | 00:45.60 → 00:45.60 (i1368–1368) | figée | 164, 0, 1087 × 612 · ×0.54 | Walter Jr ⚠ mire de calage |
+| 19 | 01:09.73 → 01:13.53 | 04_Walter_famille.mp4 | 00:46.00 → 00:49.77 (i1380–1493) | ×1 | 164, 0, 1088 × 612 · ×1.76 | La famille dans la cuisine, lumière ordinaire ⚠ mire de calage |
+| 20 | 01:13.53 → 01:16.90 | 04_Walter_famille.mp4 | 00:26.80 → 00:30.13 (i804–904) | ×1 | 164, 0, 1088 × 612 · ×1.76 | Walter, l’ambiance à table ⚠ mire de calage |
+| 21 | 01:16.90 → 01:21.57 | 04_Walter_famille.mp4 | 00:25.20 → 00:25.20 (i756–756) | figée | 164, 0, 1088 × 612 · ×1.87 | Image figée de Walter, désaturée : le diagnostic ⚠ mire de calage |
+| 22 | 01:21.57 → 01:27.07 | 04_Walter_famille.mp4 | 00:46.40 → 00:46.40 (i1392–1392) | figée | 164, 0, 1089 × 612 · ×0.80 | Walter Jr ⚠ mire de calage |
+| 23 | 01:22.20 → 01:27.07 | 04_Walter_famille.mp4 | 00:28.20 → 00:28.20 (i846–846) | figée | 164, 0, 1089 × 612 · ×0.80 | Skyler ⚠ mire de calage |
+| 24 | 01:37.03 → 01:42.73 | 10_Walter_Tuco_190834.mp4 | 00:03.00 → 00:08.67 (i90–260) | ×1 | 3, 0, 1305 × 734 · ×1.47 | Walter dans le bureau de Tuco (regard) ⚠ mire de calage |
+| 25 | 01:42.73 → 01:48.40 | 10_Walter_Tuco_190834.mp4 | 00:05.20 → 00:10.83 (i156–325) | ×1 | 3, 0, 1305 × 734 · ×1.47 | Tuco (contrechamp) ⚠ mire de calage |
+| 26 | 01:48.40 → 01:54.03 | 10_Walter_Tuco_190834.mp4 | 00:07.60 → 00:13.20 (i228–396) | ×1 | 3, 0, 1305 × 734 · ×1.47 | Le cristal, le geste, l’explosion vue de la rue (≤ 6 s) ⚠ mire de calage |
+| 27 | 02:04.67 → 02:09.73 | 10_Walter_Tuco_190834.mp4 | 00:11.00 → 00:16.03 (i330–481) | ×1 | 3, 0, 1305 × 734 · ×1.47 | Le souffle : l’extérieur après l’explosion ⚠ mire de calage |
+| 28 | 02:38.50 → 02:42.33 | 10_Walter_Tuco_190834.mp4 | 00:03.40 → 00:03.40 (i102–102) | figée | 0, 0, 1310 × 734 · ×1.28 | Avant Tuco : Walter, image figée, désaturée ⚠ mire de calage |
+| 29 | 03:30.63 → 03:36.03 | 05_Walter_Skyler_090143.mp4 | 01:26.00 → 01:31.37 (i2580–2741) | ×1 | 0, 0, 744 × 418 · ×1.48 | Skyler écoute (cadre intégré ≤ 1,8) ⚠ mire de calage |
+| 30 | 03:36.03 → 03:40.40 | 05_Walter_Skyler_090143.mp4 | 00:49.00 → 00:53.33 (i1470–1600) | ×1 | 0, 0, 744 × 418 · ×1.48 | Walter (gros plan) ⚠ mire de calage |
+| 31 | 03:40.40 → 03:41.63 | 05_Walter_Skyler_090143.mp4 | 01:22.30 → 01:23.50 (i2469–2505) | ×1 | 0, 0, 744 × 418 · ×1.80 | Skyler l’interrompt (contrechamp) ⚠ mire de calage |
+| 32 | 03:41.63 → 03:47.50 | 05_Walter_Skyler_090143.mp4 | 00:53.00 → 00:58.83 (i1590–1765) | ×1 | 0, 0, 744 × 418 · ×1.80 | Walter : l’autre réponse ⚠ mire de calage |
+| 33 | 03:47.50 → 03:53.50 | 05_Walter_Skyler_090143.mp4 | 01:24.60 → 01:30.57 (i2538–2717) | ×1 | 0, 0, 744 × 418 · ×1.80 | La réaction de Skyler, laissée à l’image ⚠ mire de calage |
+| 34 | 03:53.50 → 03:57.20 | 04_Walter_famille.mp4 | 00:44.90 → 00:48.57 (i1347–1457) | ×1 | 164, 0, 1088 × 612 · ×1.76 | Reprise : la cuisine, revue après l’aveu ⚠ mire de calage |
+| 35 | 03:57.20 → 04:01.97 | 04_Walter_famille.mp4 | 00:47.00 → 00:51.73 (i1410–1552) | ×1 | 164, 0, 1088 × 612 · ×1.76 | La tendresse autour de la table (lumière ordinaire de la cuisine) ⚠ mire de calage |
+| 36 | 04:46.70 → 04:51.43 | 01_Eren_enfant_liberte.mp4 | 00:03.33 → 00:08.03 (i100–241) | ×1 | 79, 0, 878 × 494 · ×2.19 | Eren enfant, souvenir d’enfance en commun ⚠ mire de calage |
+| 37 | 04:51.43 → 04:55.23 | 02_Armin_livre.mp4 | 00:41.33 → 00:45.10 (i1240–1353) | ×1 | 85, 0, 869 × 489 · ×2.21 | Reprise du livre d’Armin ⚠ mire de calage |
+| 38 | 04:55.23 → 04:58.23 | 03_Eren_Carla.mp4 | 00:32.87 → 00:35.83 (i986–1075) | ×1 | 82, 0, 869 × 489 · ×2.21 | Carla sous les gravats ⚠ mire de calage |
+| 39 | 04:58.23 → 04:59.33 | 03_Eren_Carla.mp4 | 01:08.00 → 01:09.07 (i2040–2072) | ×1 | 82, 0, 869 × 489 · ×2.21 | Le choc sur le visage d’Eren ⚠ mire de calage |
+| 40 | 04:59.33 → 05:05.17 | 08_Eren_Reiner_163927.mp4 | 00:14.87 → 00:20.67 (i446–620) | ×1 | 135, 0, 1481 × 833 · ×1.30 | Eren adulte dans le sous-sol, face à Reiner ⚠ mire de calage |
+| 41 | 05:05.17 → 05:11.13 | 03_Eren_Carla.mp4 | 01:09.00 → 01:14.93 (i2070–2248) | ×1 | 82, 0, 870 × 489 · ×1.00 | Les yeux d’Eren enfant (après Carla) ⚠ mire de calage |
+| 42 | 05:07.07 → 05:11.13 | 12_Eren_Reiner_secours_163802.mp4 | 00:12.00 → 00:16.03 (i360–481) | ×1 | 133, 0, 1464 × 823 · ×0.59 | Les yeux d’Eren adulte (prise 12) ⚠ mire de calage |
+| 43 | 05:11.13 → 05:14.47 | 08_Eren_Reiner_163927.mp4 | 00:18.87 → 00:22.17 (i566–665) | ×1 | 135, 0, 1481 × 833 · ×1.30 | Reiner comprend (prise 08 ; la prise 12 n’est pas utilisée pour ce moment) ⚠ mire de calage |
+| 44 | 05:14.47 → 05:19.07 | 08_Eren_Reiner_163927.mp4 | 00:22.67 → 00:27.23 (i680–817) | ×1 | 135, 0, 1481 × 833 · ×1.30 | Eren assis en face de lui ⚠ mire de calage |
+| 45 | 05:29.83 → 05:32.00 | 02_Armin_livre.mp4 | 00:43.00 → 00:45.13 (i1290–1354) | ×1 | 85, 0, 869 × 489 · ×2.21 | Reprise : le livre, lu comme une identification ⚠ mire de calage |
+| 46 | 05:32.00 → 05:37.90 | 02_Armin_livre.mp4 | 00:39.00 → 00:43.13 (i1170–1294) | ×0,7 | 85, 0, 870 × 489 · ×1.15 | Eren regarde la page ⚠ mire de calage |
+| 47 | 05:37.90 → 05:40.33 | 01_Eren_enfant_liberte.mp4 | 00:15.67 → 00:18.07 (i470–542) | ×1 | 79, 0, 878 × 494 · ×2.19 | Eren enfant regarde vers le mur (00:16) ⚠ mire de calage |
+| 48 | 05:40.33 → 05:44.23 | 01_Eren_enfant_liberte.mp4 | 00:25.33 → 00:29.20 (i760–876) | ×1 | 79, 0, 878 × 494 · ×2.19 | Eren enfant lève les yeux vers le mur ⚠ mire de calage |
+| 49 | 05:44.23 → 05:49.50 | 02_Armin_livre.mp4 | 01:03.20 → 01:08.43 (i1896–2053) | ×1 | 85, 0, 869 × 489 · ×2.21 | Le regard qui brille : sa question devient la nôtre ⚠ mire de calage |
+| 50 | 05:49.50 → 05:55.20 | 03_Eren_Carla.mp4 | 00:44.07 → 00:49.73 (i1322–1492) | ×1 | 82, 0, 869 × 489 · ×2.21 | Eren crie : l’affection déjà formée ⚠ mire de calage |
+| 51 | 06:07.37 → 06:12.70 | 12_Eren_Reiner_secours_163802.mp4 | 00:13.20 → 00:18.50 (i396–555) | ×1 | 133, 0, 1463 × 823 · ×1.31 | Eren entre dans la pièce (prise 12) ⚠ mire de calage |
+| 52 | 06:12.70 → 06:16.33 | 12_Eren_Reiner_secours_163802.mp4 | 00:16.00 → 00:19.60 (i480–588) | ×1 | 133, 0, 1463 × 823 · ×1.31 | Contrechamp sur Reiner, effrayé (prise 12, vers 00:16) ⚠ mire de calage |
+| 53 | 06:16.33 → 06:21.80 | 08_Eren_Reiner_163927.mp4 | 00:28.00 → 00:33.43 (i840–1003) | ×1 | 135, 0, 1481 × 833 · ×1.30 | Eren assis, calme : on lui accorde le temps de s’expliquer ⚠ mire de calage |
+| 54 | 06:21.80 → 06:25.07 | 08_Eren_Reiner_163927.mp4 | 00:30.00 → 00:33.23 (i900–997) | ×1 | 135, 0, 1481 × 833 · ×1.30 | Eren parle ⚠ mire de calage |
+| 55 | 06:25.07 → 06:30.50 | 09_Grand_Terrassement_164448.mp4 | 00:40.00 → 00:45.40 (i1200–1362) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Ramzi et Halil courent ensemble (00:40–00:44) ⚠ mire de calage |
+| 56 | 06:30.50 → 06:32.93 | 09_Grand_Terrassement_164448.mp4 | 00:43.00 → 00:45.40 (i1290–1362) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Halil court à côté de Ramzi ⚠ mire de calage |
+| 57 | 06:32.93 → 06:37.37 | 01_Eren_enfant_liberte.mp4 | 00:04.67 → 00:04.67 (i140–140) | figée | 79, 0, 878 × 494 · ×0.64 | Eren enfant ⚠ mire de calage |
+| 58 | 06:32.93 → 06:37.37 | 02_Armin_livre.mp4 | 00:43.33 → 00:43.33 (i1300–1300) | figée | 85, 0, 869 × 489 · ×0.64 | le livre ⚠ mire de calage |
+| 59 | 06:32.93 → 06:37.37 | 03_Eren_Carla.mp4 | 01:08.33 → 01:08.33 (i2050–2050) | figée | 82, 0, 869 × 489 · ×0.64 | après Carla ⚠ mire de calage |
+| 60 | 06:32.93 → 06:37.37 | 08_Eren_Reiner_163927.mp4 | 00:25.33 → 00:25.33 (i760–760) | figée | 135, 0, 1481 × 833 · ×0.38 | Eren adulte ⚠ mire de calage |
+| 61 | 06:35.23 → 06:37.37 | 09_Grand_Terrassement_164448.mp4 | 00:41.00 → 00:41.00 (i1230–1230) | figée | 151, 0, 1481 × 832 · ×0.28 | Ramzi : quelques instants ⚠ mire de calage |
+| 62 | 06:37.37 → 06:41.47 | 09_Grand_Terrassement_164448.mp4 | 00:30.00 → 00:34.07 (i900–1022) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les réfugiés cherchent une issue ⚠ mire de calage |
+| 63 | 06:41.47 → 06:44.57 | 09_Grand_Terrassement_164448.mp4 | 00:31.67 → 00:34.73 (i950–1042) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les réfugiés cherchent une issue ⚠ mire de calage |
+| 64 | 06:44.57 → 06:47.93 | 09_Grand_Terrassement_164448.mp4 | 00:25.33 → 00:28.67 (i760–860) | ×1 | 151, 0, 1479 × 832 · ×1.30 | L’horizon déjà occupé : les Titans sur la crête ⚠ mire de calage |
+| 65 | 06:55.70 → 06:58.77 | 09_Grand_Terrassement_164448.mp4 | 01:22.73 → 01:25.77 (i2482–2573) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les Titans vus de la rue ⚠ mire de calage |
+| 66 | 07:12.53 → 07:18.40 | 09_Grand_Terrassement_164448.mp4 | 00:42.50 → 00:48.33 (i1275–1450) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Le regard revient aux enfants : Ramzi et Halil ⚠ mire de calage |
+| 67 | 07:18.40 → 07:23.57 | 09_Grand_Terrassement_164448.mp4 | 00:31.00 → 00:36.13 (i930–1084) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Les civils dans la foule ⚠ mire de calage |
+| 68 | 07:23.57 → 07:29.53 | 09_Grand_Terrassement_164448.mp4 | 00:43.40 → 00:49.33 (i1302–1480) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Contrechamp : Ramzi, le temps d’un regard ⚠ mire de calage |
+| 69 | 07:29.53 → 07:34.50 | 09_Grand_Terrassement_164448.mp4 | 01:10.00 → 01:14.93 (i2100–2248) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Flash-back : la rencontre, Eren en larmes devant Ramzi ⚠ mire de calage |
+| 70 | 07:34.50 → 07:37.13 | 09_Grand_Terrassement_164448.mp4 | 01:12.00 → 01:14.60 (i2160–2238) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Flash-back : Eren en larmes devant Ramzi ⚠ mire de calage |
+| 71 | 07:37.13 → 07:42.00 | 09_Grand_Terrassement_164448.mp4 | 00:00.27 → 00:04.63 (i8–139) | ×0,9 | 151, 0, 1479 × 832 · ×1.30 | Flash-back, autre angle : Eren demande pardon ⚠ mire de calage |
+| 72 | 07:42.00 → 07:45.57 | 09_Grand_Terrassement_164448.mp4 | 01:13.33 → 01:16.87 (i2200–2306) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Flash-back : Eren pleure ⚠ mire de calage |
+| 73 | 07:45.57 → 07:49.67 | 09_Grand_Terrassement_164448.mp4 | 00:41.50 → 00:45.57 (i1245–1367) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Retour au présent : Ramzi, celui qu’on voudrait mettre à l’abri ⚠ mire de calage |
+| 74 | 07:51.97 → 07:56.70 | 06_Anakin_ObiWan_090236.mp4 | 00:04.50 → 00:09.20 (i135–276) | ×1 | 0, 0, 810 × 412 · ×1.80 | Anakin au bord de la lave (cadre intégré ≤ 1,8) ⚠ mire de calage |
+| 75 | 07:58.13 → 08:03.87 | 07_Palpatine_opera_090343.mp4 | 00:03.00 → 00:08.70 (i90–261) | ×1 | 0, 0, 834 × 426 · ×1.80 | L’opéra : le plan large, les deux sièges ⚠ mire de calage |
+| 76 | 08:03.87 → 08:06.50 | 07_Palpatine_opera_090343.mp4 | 00:20.00 → 00:22.60 (i600–678) | ×1 | 0, 0, 834 × 426 · ×1.04 | Anakin écoute ⚠ mire de calage |
+| 77 | 08:05.77 → 08:06.50 | 11_Anakin_Padme_110134.mp4 | 00:44.50 → 00:44.50 (i1335–1335) | figée | 0, 0, 1906 × 894 · ×0.46 | Padmé ⚠ mire de calage |
+| 78 | 08:06.50 → 08:11.83 | 07_Palpatine_opera_090343.mp4 | 00:15.00 → 00:20.30 (i450–609) | ×1 | 0, 0, 834 × 426 · ×1.80 | Palpatine raconte l’histoire de Plagueis ⚠ mire de calage |
+| 79 | 08:11.83 → 08:14.27 | 07_Palpatine_opera_090343.mp4 | 00:18.67 → 00:21.07 (i560–632) | ×1 | 0, 0, 834 × 426 · ×1.80 | Anakin écoute ⚠ mire de calage |
+| 80 | 08:14.27 → 08:17.43 | 07_Palpatine_opera_090343.mp4 | 00:21.83 → 00:24.97 (i655–749) | ×1 | 0, 0, 834 × 426 · ×1.80 | Anakin se tourne vers Palpatine ⚠ mire de calage |
+| 81 | 08:17.43 → 08:22.47 | 07_Palpatine_opera_090343.mp4 | 00:00.67 → 00:05.67 (i20–170) | ×1 | 0, 0, 834 × 426 · ×1.80 | Le plan large : on resterait assis ⚠ mire de calage |
+| 82 | 08:22.47 → 08:24.93 | 11_Anakin_Padme_110134.mp4 | 00:34.00 → 00:36.43 (i1020–1093) | ×1 | 0, 0, 1906 × 894 · ×0.88 | Mustafar : le premier geste ⚠ mire de calage |
+| 83 | 08:24.93 → 08:26.83 | 11_Anakin_Padme_110134.mp4 | 00:38.10 → 00:39.97 (i1143–1199) | ×1 | 0, 0, 1906 × 894 · ×0.88 | La main d’Anakin ⚠ mire de calage |
+| 84 | 08:26.83 → 08:30.10 | 11_Anakin_Padme_110134.mp4 | 00:39.60 → 00:42.83 (i1188–1285) | ×1 | 0, 0, 1906 × 894 · ×0.88 | Raccord : les mains de Padmé à sa gorge ⚠ mire de calage |
+| 85 | 08:30.10 → 08:34.20 | 11_Anakin_Padme_110134.mp4 | 00:39.07 → 00:39.07 (i1172–1172) | figée | 0, 0, 1906 × 894 · ×0.91 | Image figée : qui agit sur qui ⚠ mire de calage |
+| 86 | 08:37.37 → 08:43.03 | 11_Anakin_Padme_110134.mp4 | 00:39.07 → 00:39.07 (i1172–1172) | figée | 0, 0, 1906 × 894 · ×0.46 | La main (figée) ⚠ mire de calage |
+| 87 | 08:39.40 → 08:43.03 | 07_Palpatine_opera_090343.mp4 | 00:04.00 → 00:07.60 (i120–228) | ×1 | 0, 0, 834 × 426 · ×1.04 | L’opéra ⚠ mire de calage |
+| 88 | 08:54.90 → 09:00.33 | 11_Anakin_Padme_110134.mp4 | 00:38.33 → 00:43.73 (i1150–1312) | ×1 | 0, 0, 1906 × 894 · ×0.88 | Retour à la main, puis la seconde de silence ⚠ mire de calage |
+| 89 | 09:20.63 → 09:26.33 | 11_Anakin_Padme_110134.mp4 | 00:39.07 → 00:39.07 (i1172–1172) | figée | 0, 0, 1906 × 894 · ×0.36 | À l’image : la main levée ⚠ mire de calage |
+| 90 | 09:29.07 → 09:33.23 | 06_Anakin_ObiWan_090236.mp4 | 00:08.33 → 00:12.47 (i250–374) | ×1 | 0, 0, 810 × 412 · ×1.80 | Obi-Wan après le duel ⚠ mire de calage |
+| 91 | 09:33.23 → 09:36.93 | 06_Anakin_ObiWan_090236.mp4 | 00:09.67 → 00:13.33 (i290–400) | ×1 | 0, 0, 810 × 412 · ×1.07 | Obi-Wan ⚠ mire de calage |
+| 92 | 09:34.63 → 09:36.93 | 06_Anakin_ObiWan_090236.mp4 | 00:05.33 → 00:07.60 (i160–228) | ×1 | 0, 0, 810 × 412 · ×1.07 | Anakin ⚠ mire de calage |
+| 93 | 09:36.93 → 09:40.40 | 06_Anakin_ObiWan_090236.mp4 | 00:23.00 → 00:26.43 (i690–793) | ×1 | 0, 0, 810 × 412 · ×1.80 | Au bord de la lave : visages d’Obi-Wan et d’Anakin (00:22–00:24) ⚠ mire de calage |
+| 94 | 09:40.40 → 09:46.23 | 06_Anakin_ObiWan_090236.mp4 | 00:22.07 → 00:27.87 (i662–836) | ×1 | 0, 0, 810 × 412 · ×1.23 | Le visage d’Anakin (00:22) ⚠ mire de calage |
+| 95 | 09:46.23 → 09:49.13 | 06_Anakin_ObiWan_090236.mp4 | 00:22.67 → 00:25.53 (i680–766) | ×1 | 0, 0, 810 × 412 · ×1.80 | Anakin, les yeux jaunes ⚠ mire de calage |
+| 96 | 09:49.13 → 09:51.97 | 06_Anakin_ObiWan_090236.mp4 | 00:10.67 → 00:13.47 (i320–404) | ×1 | 0, 0, 810 × 412 · ×1.80 | Obi-Wan lui parle : on cherche encore une issue ⚠ mire de calage |
+| 97 | 09:51.97 → 09:56.77 | 06_Anakin_ObiWan_090236.mp4 | 00:06.67 → 00:11.43 (i200–343) | ×1 | 0, 0, 810 × 412 · ×1.80 | Le garçon qu’il a formé ⚠ mire de calage |
+| 98 | 10:07.63 → 10:10.63 | 11_Anakin_Padme_110134.mp4 | 00:38.17 → 00:41.13 (i1145–1234) | ×1 | 0, 0, 1906 × 894 · ×0.88 | TEST · passage 1 : les mêmes 3,0 s (même cadrage, même son) ⚠ mire de calage |
+| 99 | 10:18.23 → 10:21.23 | 11_Anakin_Padme_110134.mp4 | 00:38.17 → 00:41.13 (i1145–1234) | ×1 | 0, 0, 1906 × 894 · ×0.88 | TEST · passage 2 : exactement les mêmes 3,0 s ⚠ mire de calage |
+| 100 | 11:21.37 → 11:24.43 | 07_Palpatine_opera_090343.mp4 | 00:04.33 → 00:07.37 (i130–221) | ×1 | 0, 0, 834 × 426 · ×1.80 | Reprise : l’opéra, après l’expérience ⚠ mire de calage |
+| 101 | 11:40.93 → 11:45.60 | 10_Walter_Tuco_190834.mp4 | 00:03.60 → 00:08.23 (i108–247) | ×1 | 3, 0, 1305 × 734 · ×1.47 | Retour à Walter devant Tuco ⚠ mire de calage |
+| 102 | 11:45.60 → 11:51.57 | 10_Walter_Tuco_190834.mp4 | 00:04.40 → 00:10.33 (i132–310) | ×1 | 2, 0, 1306 × 734 · ×0.67 | Walter ⚠ mire de calage |
+| 103 | 11:46.47 → 11:51.57 | 10_Walter_Tuco_190834.mp4 | 00:05.60 → 00:10.67 (i168–320) | ×1 | 2, 0, 1306 × 734 · ×0.67 | Tuco ⚠ mire de calage |
+| 104 | 12:20.03 → 12:25.97 | 10_Walter_Tuco_190834.mp4 | 00:11.40 → 00:17.30 (i342–519) | ×1 | 3, 0, 1305 × 734 · ×1.47 | Le bureau de Tuco a sauté (extérieur) ⚠ mire de calage |
+| 105 | 12:28.03 → 12:34.03 | 04_Walter_famille.mp4 | 00:20.00 → 00:20.00 (i600–600) | figée | 164, 0, 1089 × 612 · ×0.80 | Le petit-déjeuner ⚠ mire de calage |
+| 106 | 12:30.73 → 12:34.03 | 10_Walter_Tuco_190834.mp4 | 00:10.90 → 00:10.90 (i327–327) | figée | 2, 0, 1306 × 734 · ×0.67 | L’explosion ⚠ mire de calage |
+| 107 | 12:39.63 → 12:43.83 | 10_Walter_Tuco_190834.mp4 | 00:06.00 → 00:09.57 (i180–287) | ×0,85 | 3, 0, 1305 × 734 · ×1.47 | Le regard de Walter avant le geste ⚠ mire de calage |
+| 108 | 13:18.30 → 13:21.03 | 02_Armin_livre.mp4 | 00:41.67 → 00:44.37 (i1250–1331) | ×1 | 85, 0, 869 × 489 · ×2.21 | Retour au livre d’Armin ⚠ mire de calage |
+| 109 | 13:21.03 → 13:25.73 | 01_Eren_enfant_liberte.mp4 | 00:16.00 → 00:20.67 (i480–620) | ×1 | 79, 0, 879 × 494 · ×0.99 | Eren enfant ⚠ mire de calage |
+| 110 | 13:23.47 → 13:25.73 | 09_Grand_Terrassement_164448.mp4 | 00:40.40 → 00:42.63 (i1212–1279) | ×1 | 151, 0, 1480 × 832 · ×0.59 | Ramzi ⚠ mire de calage |
+| 111 | 13:25.73 → 13:30.67 | 09_Grand_Terrassement_164448.mp4 | 00:43.00 → 00:46.93 (i1290–1408) | ×0,8 | 151, 0, 1479 × 832 · ×1.30 | Le visage de l’enfant qui a vu les Titans passer la montagne ⚠ mire de calage |
+| 112 | 13:30.67 → 13:33.40 | 09_Grand_Terrassement_164448.mp4 | 00:24.67 → 00:27.37 (i740–821) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Ce que l’enfant a vu : les Titans passent la montagne ⚠ mire de calage |
+| 113 | 13:33.40 → 13:37.80 | 09_Grand_Terrassement_164448.mp4 | 00:41.00 → 00:45.37 (i1230–1361) | ×1 | 151, 0, 1479 × 832 · ×1.30 | Ramzi présenté en premier ⚠ mire de calage |
+| 114 | 13:37.80 → 13:42.83 | 12_Eren_Reiner_secours_163802.mp4 | 00:13.33 → 00:18.33 (i400–550) | ×1 | 133, 0, 1463 × 823 · ×1.31 | Eren adulte entre dans l’histoire « à ce moment-là » ⚠ mire de calage |
+| 115 | 13:42.83 → 13:47.70 | 08_Eren_Reiner_163927.mp4 | 00:42.27 → 00:46.40 (i1268–1392) | ×0,85 | 135, 0, 1481 × 833 · ×1.40 | Dernier plan : l’œil d’Eren, le plus serré, jusqu’au dernier mot et la seconde de silence ⚠ mire de calage |
+
+### Autres formes (compositions, planches, cartes)
+
+- 00:19.90 → 00:23.33 · compose · Deux enfants côte à côte : Eren, puis Ramzi apparaît sur son nom
+- 00:34.77 → 00:46.33 · compose · La question qu’on laisse lire
+- 00:46.33 → 00:48.63 · compose · compose
+- 01:04.37 → 01:09.73 · compose · Composition horizontale : trois visages, la conversation déjà eue quinze fois
+- 01:21.57 → 01:27.07 · compose · Deux champs rapprochés : le fils, la femme enceinte
+- 01:27.07 → 01:37.03 · compose · La question, puis la réponse prêtée au spectateur
+- 01:54.03 → 02:04.67 · compose · La question qu’on se posait
+- 02:09.73 → 02:15.00 · compose · Question : vouloir qu’il s’en sorte / lui donner raison
+- 02:15.00 → 02:38.50 · compose · « Il fait ça pour sa famille » : le pronom reste, le complément évolue
+- 02:42.33 → 03:04.37 · compose · Gretchen : pas de capture → résumé sans guillemets, barré sur « C’est faux. »
+- 03:04.37 → 03:12.77 · compose · Deux problèmes différents : le traitement / l’argent des enfants
+- 03:12.77 → 03:30.63 · compose · Les paroles prêtées au spectateur : il continue la conversation à la place de Walter
+- 03:30.63 → 03:36.03 · compose · Skyler connaît l’argument par cœur : rappel des trois compléments
+- 03:36.03 → 03:40.40 · compose · Walter s’apprête à resservir l’argument : les compléments s’effacent quand Skyler l’interrompt
+- 04:01.97 → 04:19.17 · compose · La question qu’on laisse lire
+- 04:19.17 → 04:31.03 · planche · Justifications (Bandura)
+- 04:31.03 → 04:44.40 · compose · Le mot qu’on isole : justification morale, dans l’autre sens
+- 04:44.40 → 04:46.70 · compose · compose
+- 05:05.17 → 05:11.13 · compose · Deux champs rapprochés : les yeux de l’enfant, les yeux de l’adulte
+- 05:19.07 → 05:29.83 · planche · Identification (Cohen)
+- 05:32.00 → 05:37.90 · compose · La question sur le visage de l’enfant
+- 05:55.20 → 06:07.37 · planche · Disposition affective (Raney)
+- 06:32.93 → 06:37.37 · compose · Composition horizontale : tout le temps passé avec Eren, quelques instants avec Ramzi
+- 06:47.93 → 06:55.70 · compose · Les paroles prêtées au spectateur
+- 06:58.77 → 07:12.53 · compose · Le mot qu’on isole : comparaison avantageuse
+- 07:49.67 → 07:51.97 · compose · compose
+- 07:56.70 → 07:58.13 · compose · Le mot qu’on isole
+- 08:03.87 → 08:06.50 · compose · Deux champs : Anakin à l’opéra / Padmé
+- 08:34.20 → 08:37.37 · compose · Qui agit sur qui : la réponse tient en quelques mots
+- 08:37.37 → 08:43.03 · compose · Deux champs rapprochés : la main figée / l’opéra
+- 08:43.03 → 08:54.90 · compose · La réponse s’allonge
+- 09:00.33 → 09:29.07 · compose · Le sujet de nos phrases (déplacement de responsabilité)
+- 09:33.23 → 09:36.93 · compose · Deux champs : Obi-Wan / Anakin au bord de la lave
+- 09:40.40 → 09:46.23 · compose · La question, sur le visage d’Anakin
+- 09:56.77 → 09:59.00 · compose · compose
+- 09:59.00 → 10:07.63 · compose · Test, 1re question : le cadre attend, le plan ne joue pas encore
+- 10:10.63 → 10:18.23 · compose · Test, 2e question
+- 10:21.23 → 10:26.93 · compose · La question
+- 10:26.93 → 10:46.70 · compose · Reconstitution (laboratoire) et protocole en trois temps : 1. la même conversation
+- 10:46.70 → 10:56.50 · compose · 2. la consigne différente
+- 10:56.50 → 10:56.70 · planche · Les deux consignes (Regan et Totten)
+- 10:56.70 → 11:10.60 · compose · 3. l’explication donnée
+- 11:10.60 → 11:13.27 · planche · Attributions : situation / personnalité
+- 11:13.27 → 11:21.37 · compose · Des explications, pas de verdict
+- 11:24.43 → 11:38.63 · compose · Les deux questions
+- 11:38.63 → 11:40.93 · compose · compose
+- 11:45.60 → 11:51.57 · compose · Deux champs : Walter / Tuco
+- 11:51.57 → 12:20.03 · planche · Curiosité (Wylie et Gantman)
+- 12:25.97 → 12:34.03 · compose · Deux champs : le bacon végétal en famille → le bureau de Tuco
+- 12:34.03 → 12:39.63 · compose · Le mot qu’on isole : le trajet
+- 12:43.83 → 13:16.00 · compose · Trois questions, une à la fois, avec un temps de réponse ; puis oui, oui, non
+- 13:16.00 → 13:18.30 · compose · compose
+- 13:21.03 → 13:25.73 · compose · Ces deux gamins : Eren enfant et Ramzi réunis
+- 13:47.70 → 13:49.20 · noir · Noir

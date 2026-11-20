@@ -1,0 +1,162 @@
+2.400000	4.600000	s001 · Ton meilleur ami ouvre un livre.
+4.900000	7.731000	s002 · Sur une des pages, il y a la mer.
+8.031000	15.652000	s003 · Tu t’appelles Eren, tu as grandi derrière des murs, et d’un coup, tu veux voir la mer de tes propres yeux.
+16.252000	21.587000	s004 · Maintenant, imagine que L’Attaque des Titans commence avec un autre enfant.
+21.887000	23.177000	s005 · Il s’appelle Ramzi.
+23.477000	26.284000	s006 · Des Titans passent la crête de la montagne.
+26.584000	29.984000	s007 · Autour de lui, les adultes se mettent à courir.
+30.284000	34.481000	s008 · Et celui qui envoie ces Titans, c’est le garçon du livre.
+35.081000	41.629000	s009 · Si tu avais rencontré Ramzi en premier, est-ce que tu aurais quand même défendu Eren ?
+43.229000	44.330000	s010 · Garde ta réponse.
+48.730000	55.695000	s011 · Pour ses cinquante ans, Walter White a droit à un « 50 » dessiné en bacon dans son assiette.
+55.995000	57.475000	s012 · Du bacon végétal.
+58.075000	69.541000	s013 · Sa femme lui souhaite un bon anniversaire, son fils a franchement des réserves sur le menu, et tout le monde a l’air d’avoir déjà eu cette conversation quinze fois.
+69.841000	76.503000	s014 · On vient à peine de rencontrer le futur Heisenberg, et on connaît déjà l’ambiance à table.
+77.103000	80.593000	s015 · Puis Walter apprend qu’il a un cancer du poumon.
+80.893000	87.011000	s016 · Il a un fils, sa femme est enceinte, et il s’inquiète de ce qu’il va leur laisser.
+87.311000	91.256000	s017 · Pourquoi se lance-t-il dans la fabrication de drogue ?
+91.556000	96.739000	s018 · À ce stade, « pour mettre sa famille à l’abri » paraît une réponse raisonnable.
+97.339000	101.915000	s019 · Quelques épisodes plus tard, le voilà dans le bureau de Tuco.
+102.215000	103.808000	s020 · Jesse a été frappé.
+104.108000	106.877000	s021 · Walter est venu récupérer son argent.
+107.177000	111.748000	s022 · Il a le crâne rasé, il sort un cristal… et le lance.
+112.048000	113.148000	s023 · Les vitres explosent.
+114.248000	118.104000	s024 · Juste avant l’explosion, quelle question tu te posais ?
+118.404000	124.519000	s025 · Moi, c’était surtout : comment ce prof de chimie compte-t-il sortir vivant de cette pièce ?
+124.819000	127.613000	s026 · Et quand son plan fonctionne, je souffle.
+127.913000	129.620000	s027 · Je voulais qu’il s’en sorte.
+129.920000	134.585000	s028 · Est-ce que j’avais pour autant décidé qu’il avait raison de venir ?
+135.185000	143.653000	s029 · Le glissement peut se faire un peu plus tard, quand on ressort cette petite phrase du début : « Il fait ça pour sa famille. »
+143.953000	144.446000	s030 · D’accord.
+144.746000	146.060000	s031 · Mais « ça », c’est quoi ?
+146.660000	148.860000	s032 · Laisser de l’argent à ses enfants ?
+149.360000	150.650000	s033 · Entrer chez Tuco ?
+151.150000	153.426000	s034 · Continuer à bâtir un empire ?
+154.026000	158.147000	s035 · À chaque fois, le mot « ça » couvre un peu plus de terrain.
+158.747000	165.244000	s036 · Et pourtant, avant même que Walter entre chez Tuco, il y a eu un coup de téléphone.
+165.544000	169.473000	s037 · Gretchen insiste : Elliott et elle veulent payer son traitement.
+169.773000	171.253000	s038 · Walter la remercie.
+171.553000	176.229000	s039 · Il lui explique que, finalement, son assurance le prend en charge.
+176.529000	177.136000	s040 · C’est faux.
+177.736000	183.981000	s041 · Et juste après, il va retrouver Jesse pour lui proposer de reprendre la fabrication.
+184.581000	190.774000	s042 · Bien sûr, payer son traitement et laisser de l’argent aux enfants, ce sont deux problèmes différents.
+191.074000	192.667000	s043 · Mais pourquoi lui mentir ?
+192.967000	204.273000	s044 · Si ta première réaction, c’est « Oui, mais tu comprends, avec leur histoire, il ne pouvait pas accepter cet argent… », écoute ce que tu viens de faire.
+204.573000	206.052000	s045 · Walter a raccroché.
+206.352000	210.222000	s046 · C’est toi qui continues la conversation à sa place.
+210.822000	215.891000	s047 · Dans le dernier épisode, Skyler connaît l’argument de la famille par cœur.
+216.191000	221.488000	s048 · Quand Walter semble prêt à le lui servir une fois de plus, elle l’interrompt.
+221.788000	224.505000	s049 · Cette fois, il lui donne une autre réponse.
+224.805000	227.309000	s050 · Il reconnaît qu’il l’a fait pour lui.
+227.609000	228.709000	s051 · Il aimait ça.
+229.009000	230.298000	s052 · Il était doué.
+230.598000	232.192000	s053 · Il se sentait vivant.
+233.792000	237.054000	s054 · Ça donne envie de revoir le petit-déjeuner.
+237.354000	241.868000	s055 · On peut croire à la tendresse qu’il y avait autour de cette table.
+242.168000	249.030000	s056 · La question, c’est combien de temps on a continué, nous, à s’en servir pour défendre Walter.
+249.630000	258.241000	s057 · Le psychologue Albert Bandura a étudié les raisonnements qui permettent de rendre ses propres actes acceptables à ses yeux.
+258.541000	260.817000	s058 · Il parle de désengagement moral.
+261.317000	268.297000	s059 · L’un de ces raisonnements consiste à invoquer une cause qu’on juge bonne pour justifier le mal qu’on fait.
+268.597000	270.949000	s060 · C’est la justification morale.
+271.249000	276.432000	s061 · Et devant une fiction, on peut se poser la question dans l’autre sens.
+276.732000	279.994000	s062 · Walter a fini par abandonner cet argument.
+280.294000	283.784000	s063 · Qu’est-ce qui nous donnait encore envie de le plaider ?
+286.784000	291.246000	s064 · Avec Eren, on a presque un souvenir d’enfance en commun.
+291.546000	295.036000	s065 · On était là quand Armin a ouvert le livre.
+295.336000	299.129000	s066 · On était là quand Eren a vu sa mère mourir.
+299.429000	310.971000	s067 · Et bien plus tard, quand Eren adulte apparaît dans un sous-sol face à Reiner, on reconnaît derrière ses cheveux longs le gamin à qui tout ça est arrivé.
+311.271000	316.289000	s068 · Reiner, lui, vient à peine de comprendre qui est assis en face de lui.
+316.889000	329.696000	s069 · Le chercheur Jonathan Cohen décrit l’identification comme un moment où l’on adopte le point de vue d’un personnage, où l’on partage quelque chose de ses émotions ou de ses buts.
+329.996000	331.589000	s070 · Reprends le livre d’Armin.
+331.889000	337.741000	s071 · Est-ce que tu t’es seulement demandé, à cet instant, si Eren t’était sympathique ?
+338.041000	344.045000	s072 · Moi, ce que je voulais savoir, c’était ce qu’il y avait de l’autre côté du mur.
+344.345000	348.694000	s073 · Pendant quelques secondes, sa question était devenue la mienne.
+349.694000	353.487000	s074 · Et puis il y a l’affection qu’on lui porte déjà.
+353.787000	367.202000	s075 · Dans ses travaux sur la disposition affective, Arthur Raney propose que les sentiments qu’on a formés envers un personnage puissent peser sur la manière dont on juge ses actes par la suite.
+367.502000	376.174000	s076 · Quand un inconnu entre dans une pièce en faisant peur à tout le monde, tu peux très vite souhaiter que quelqu’un l’arrête.
+376.474000	381.657000	s077 · Quand c’est Eren, tu voudras peut-être d’abord entendre ce qu’il a à dire.
+381.957000	384.651000	s078 · Tu lui accordes le temps de s’expliquer.
+385.251000	387.223000	s079 · Reviens maintenant à Ramzi.
+387.523000	390.292000	s080 · Lui aussi a quelqu’un à protéger.
+390.592000	392.792000	s081 · Halil court à côté de lui.
+393.092000	397.213000	s082 · Sauf que nous, ça fait à peine quelques instants qu’on les suit.
+397.513000	401.331000	s083 · Et pour eux, la question qui se pose est toute simple.
+401.631000	406.928000	s084 · Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?
+408.128000	411.428000	s085 · C’est là qu’une autre défense mérite qu’on s’y arrête.
+411.728000	415.545000	s086 · « Oui, mais regarde ce que l’autre camp a fait aux siens. »
+415.845000	424.380000	s087 · Bandura parle de comparaison avantageuse quand on rend un acte plus acceptable en le rapprochant d’un autre qu’on juge pire.
+424.680000	429.801000	s088 · Comparer les responsabilités peut être indispensable pour comprendre une guerre.
+430.101000	434.957000	s089 · Mais écoute ce qui vient d’arriver à Ramzi dans notre conversation.
+435.257000	438.253000	s090 · Il était devant nous une seconde plus tôt.
+438.553000	443.357000	s091 · Maintenant, on est en train de dresser la liste des crimes d’autres personnes.
+443.657000	448.133000	s092 · Qu’a fait cet enfant pour se retrouver du côté des accusés ?
+449.733000	454.309000	s093 · La série nous montre aussi leur rencontre, avant le Grand Terrassement.
+454.609000	456.999000	s094 · Eren est en larmes devant Ramzi.
+457.299000	460.396000	s095 · À qui va ta compassion, sur ce plan ?
+460.696000	469.051000	s096 · Tu peux être touché de voir Eren pleurer, espérer qu’il renonce, et savoir exactement qui tu voudrais mettre à l’abri.
+472.051000	476.514000	s097 · Pour défendre Anakin, il suffit parfois de prononcer un nom.
+476.814000	477.496000	s098 · Palpatine.
+478.296000	481.179000	s099 · Regarde comment ils sont assis à l’opéra.
+481.479000	483.666000	s100 · Côte à côte, presque immobiles.
+483.966000	486.355000	s101 · Anakin a peur de perdre Padmé.
+486.655000	494.128000	s102 · Et voilà que Palpatine lui raconte l’histoire d’un seigneur Sith qui aurait su garder en vie ceux qu’il aimait.
+494.428000	502.001000	s103 · À la place d’Anakin, on comprend très bien pourquoi on resterait assis pour entendre la fin de cette histoire.
+502.601000	504.787000	s104 · Sur Mustafar, regarde leurs mains.
+505.087000	506.680000	s105 · Anakin lève la sienne.
+506.980000	509.294000	s106 · Padmé porte les siennes à sa gorge.
+509.594000	516.902000	s107 · Si je fige l’image ici et que je te demande qui agit sur qui, ta réponse tient en quelques mots.
+517.502000	522.874000	s108 · Si je remets la scène de l’opéra, ta réponse devient peut-être plus longue.
+523.174000	530.240000	s109 · Tu vas parler de la peur d’Anakin, de l’influence de Palpatine, de cette promesse de sauver Padmé.
+530.540000	534.447000	s110 · Tout ça compte pour comprendre comment il en est arrivé là.
+535.047000	537.120000	s111 · Maintenant, reviens à l’image.
+537.420000	539.127000	s112 · Qui a levé la main ?
+540.527000	545.444000	s113 · « Palpatine l’a manipulé », c’est une explication de sa trajectoire.
+545.744000	550.017000	s114 · « Donc Anakin n’y est pour rien », ça ajoute une conclusion.
+550.317000	557.448000	s115 · Ce passage de l’une à l’autre ressemble à ce que Bandura appelle le déplacement de responsabilité.
+557.748000	560.442000	s116 · Écoute simplement le sujet de nos phrases.
+560.742000	564.028000	s117 · À l’image, Anakin vient de lever la main.
+564.328000	568.601000	s118 · Dans notre plaidoyer, toutes les phrases commencent désormais par « Palpatine ».
+569.201000	571.401000	s119 · Et puis il y a Obi-Wan.
+571.701000	580.308000	s120 · À la fin du duel, quand il parle à Anakin au bord de la lave, moi, j’en reviens toujours à la même question.
+580.608000	584.363000	s121 · À quel moment Anakin aurait-il encore pu s’arrêter ?
+584.663000	586.067000	s122 · On connaît ses choix.
+586.367000	588.984000	s123 · On connaît même la suite de sa vie.
+589.284000	596.161000	s124 · Et pourtant, pendant qu’Obi-Wan lui parle, on cherche encore une issue pour le garçon qu’il a formé.
+599.161000	601.437000	s125 · Reprenons le geste sur Mustafar.
+601.737000	604.302000	s126 · La première fois, regarde Anakin.
+604.602000	607.030000	s127 · Qu’est-ce qu’il croit être en train de perdre ?
+611.230000	612.809000	s128 · Maintenant, même image.
+613.109000	614.096000	s129 · Regarde Padmé.
+614.396000	617.620000	s130 · Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?
+621.820000	625.537000	s131 · Est-ce que tu as regardé la même chose les deux fois ?
+627.137000	632.927000	s132 · En 1975, Regan et Totten ont étudié une question voisine.
+633.227000	640.345000	s133 · Dans leur expérience, des participants regardaient l’enregistrement de deux personnes en train de faire connaissance.
+640.645000	646.600000	s134 · Tout le monde voyait la même conversation et devait s’intéresser à la même personne.
+646.900000	650.604000	s135 · Ce qui changeait d’un groupe à l’autre, c’était la consigne.
+650.904000	652.687000	s136 · Les uns devaient l’observer.
+652.987000	656.008000	s137 · Les autres, essayer de se mettre à sa place.
+656.908000	660.460000	s138 · Ensuite, on leur demandait d’expliquer son comportement.
+660.760000	672.871000	s139 · Ceux qui avaient essayé de se mettre à sa place accordaient davantage de poids à la situation, et moins à sa personnalité, que ceux qui l’avaient simplement observée.
+673.471000	677.933000	s140 · Ce que les chercheurs ont recueilli, ce sont des explications.
+678.233000	680.623000	s141 · Personne n’avait à rendre de verdict.
+681.523000	684.292000	s142 · Alors reviens un instant à l’opéra.
+684.592000	692.544000	s143 · Si cette scène t’a aidé à comprendre la peur d’Anakin, est-ce qu’elle a changé ton avis sur sa responsabilité ?
+692.844000	698.041000	s144 · Ou est-ce que tu sais simplement mieux raconter comment il en est arrivé là ?
+701.041000	703.696000	s145 · Il reste une dernière possibilité.
+703.996000	711.176000	s146 · Peut-être qu’on t’accuse de défendre Walter alors que, toi, tu as juste dit que tu adorais Breaking Bad.
+711.776000	719.576000	s147 · Dans une expérience publiée en 2023, Jordan Wylie et Ana Gantman donnaient un choix aux participants.
+719.876000	727.828000	s148 · Ils pouvaient découvrir à quoi ressemblait une personne, ou en apprendre davantage sur ce qu’elle avait vécu et fait.
+728.128000	739.419000	s149 · Quand la personne leur était présentée comme immorale, ils choisissaient plus souvent de découvrir son histoire que lorsqu’elle leur était présentée comme quelqu’un de bien.
+740.019000	745.822000	s150 · Et je trouve que ça décrit assez bien un plaisir qu’on peut prendre devant Breaking Bad.
+746.122000	753.823000	s151 · Comment on passe du type qui mange du bacon végétal en famille au type qui fait sauter le bureau de Tuco ?
+754.123000	759.192000	s152 · Rien que pour comprendre le trajet, j’ai envie de lancer l’épisode suivant.
+759.792000	763.471000	s153 · Essaie de répondre à ces trois questions sur Walter.
+764.071000	768.282000	s154 · Est-ce que tu voulais connaître la suite de son plan chez Tuco ?
+770.282000	773.393000	s155 · Est-ce que tu voulais qu’il rentre chez lui vivant ?
+775.393000	782.752000	s156 · Est-ce que tu aurais trouvé sa conduite acceptable si tu avais été assis dans le bureau d’à côté ?
+785.352000	787.941000	s157 · Tu peux répondre oui, oui, non.
+788.841000	795.390000	s158 · La curiosité, l’attachement et le jugement moral n’ont pas besoin d’aller dans le même sens.
+798.390000	800.894000	s159 · Je te laisse avec le livre d’Armin.
+801.194000	805.594000	s160 · Tu peux toujours souhaiter à ces deux gamins de voir la mer.
+805.894000	812.556000	s161 · Maintenant, tu connais aussi le visage de l’enfant qui a vu les Titans passer la montagne.
+813.556000	826.700000	s162 · Si L’Attaque des Titans t’avait présenté Ramzi en premier, et qu’Eren était entré dans ton histoire seulement à ce moment-là… est-ce que tu l’aurais défendu de la même manière ?

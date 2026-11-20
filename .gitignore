@@ -1,0 +1,11 @@
+node_modules/
+_reference_vertical/
+CulturePsy_Mechants_YouTube/public/rushes/*
+!CulturePsy_Mechants_YouTube/public/rushes/.gitkeep
+CulturePsy_Mechants_YouTube/public/proxies/
+CulturePsy_Mechants_YouTube/public/mires/
+CulturePsy_Mechants_YouTube/public/audio/_voix_48k_mono.wav
+CulturePsy_Mechants_YouTube/controle/
+CulturePsy_Mechants_YouTube/livrables/*.mp4
+CulturePsy_Mechants_YouTube/out/
+__pycache__/

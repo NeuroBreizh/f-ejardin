@@ -1,0 +1,22 @@
+{
+  "name": "culturepsy-mechants-youtube",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Culture Psy — « Pourquoi défend-on les méchants ? » · essai vidéo YouTube 16:9 (Remotion)",
+  "scripts": {
+    "studio": "remotion studio",
+    "texte": "python3 tools/build_text.py",
+    "render": "node tools/render.mjs",
+    "audit": "python3 tools/audit.py"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.545",
+    "@remotion/cli": "4.0.545",
+    "@remotion/renderer": "4.0.545",
+    "@types/react": "^19.3.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.545",
+    "typescript": "^5.6.3"
+  }
+}

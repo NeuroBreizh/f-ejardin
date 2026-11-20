@@ -1,0 +1,8 @@
+{
+  "_doc": "voix : fichier de ta voix dans public/audio (null = version de calage). musique : piste avec droits de publication (null = pas de musique, l'enveloppe reste prête dans montage.json).",
+  "voix": null,
+  "musique": null,
+  "musiqueVolume": 1.0,
+  "sousTitresIncrustes": null,
+  "rushes": "rushes"
+}

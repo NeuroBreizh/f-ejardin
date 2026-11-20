@@ -1,0 +1,10732 @@
+{
+ "fps": 30,
+ "mode": "calage",
+ "film_end": 829.2,
+ "last_word_end": 826.7,
+ "silence_final": 1.0,
+ "sentences": [
+  {
+   "id": "s001",
+   "text": "Ton meilleur ami ouvre un livre.",
+   "chapter": 0,
+   "paragraph": 0,
+   "start": 2.4,
+   "end": 4.6,
+   "words": [
+    {
+     "w": "Ton",
+     "start": 2.4,
+     "end": 2.703
+    },
+    {
+     "w": "meilleur",
+     "start": 2.703,
+     "end": 3.197
+    },
+    {
+     "w": "ami",
+     "start": 3.197,
+     "end": 3.69
+    },
+    {
+     "w": "ouvre",
+     "start": 3.69,
+     "end": 3.993
+    },
+    {
+     "w": "un",
+     "start": 3.993,
+     "end": 4.297
+    },
+    {
+     "w": "livre",
+     "start": 4.297,
+     "end": 4.6
+    }
+   ]
+  },
+  {
+   "id": "s002",
+   "text": "Sur une des pages, il y a la mer.",
+   "chapter": 0,
+   "paragraph": 0,
+   "start": 4.9,
+   "end": 7.731,
+   "words": [
+    {
+     "w": "Sur",
+     "start": 4.9,
+     "end": 5.204
+    },
+    {
+     "w": "une",
+     "start": 5.204,
+     "end": 5.507
+    },
+    {
+     "w": "des",
+     "start": 5.507,
+     "end": 5.811
+    },
+    {
+     "w": "pages",
+     "start": 5.811,
+     "end": 6.114
+    },
+    {
+     "w": "il",
+     "start": 6.214,
+     "end": 6.517
+    },
+    {
+     "w": "y",
+     "start": 6.517,
+     "end": 6.821
+    },
+    {
+     "w": "a",
+     "start": 6.821,
+     "end": 7.124
+    },
+    {
+     "w": "la",
+     "start": 7.124,
+     "end": 7.428
+    },
+    {
+     "w": "mer",
+     "start": 7.428,
+     "end": 7.731
+    }
+   ]
+  },
+  {
+   "id": "s003",
+   "text": "Tu t’appelles Eren, tu as grandi derrière des murs, et d’un coup, tu veux voir la mer de tes propres yeux.",
+   "chapter": 0,
+   "paragraph": 0,
+   "start": 8.031,
+   "end": 15.652,
+   "words": [
+    {
+     "w": "Tu",
+     "start": 8.031,
+     "end": 8.335
+    },
+    {
+     "w": "t’appelles",
+     "start": 8.335,
+     "end": 8.828
+    },
+    {
+     "w": "Eren",
+     "start": 8.828,
+     "end": 9.321
+    },
+    {
+     "w": "tu",
+     "start": 9.421,
+     "end": 9.724
+    },
+    {
+     "w": "as",
+     "start": 9.724,
+     "end": 10.028
+    },
+    {
+     "w": "grandi",
+     "start": 10.028,
+     "end": 10.521
+    },
+    {
+     "w": "derrière",
+     "start": 10.521,
+     "end": 11.204
+    },
+    {
+     "w": "des",
+     "start": 11.204,
+     "end": 11.507
+    },
+    {
+     "w": "murs",
+     "start": 11.507,
+     "end": 11.811
+    },
+    {
+     "w": "et",
+     "start": 11.911,
+     "end": 12.214
+    },
+    {
+     "w": "d’un",
+     "start": 12.214,
+     "end": 12.518
+    },
+    {
+     "w": "coup",
+     "start": 12.518,
+     "end": 12.821
+    },
+    {
+     "w": "tu",
+     "start": 12.921,
+     "end": 13.225
+    },
+    {
+     "w": "veux",
+     "start": 13.225,
+     "end": 13.528
+    },
+    {
+     "w": "voir",
+     "start": 13.528,
+     "end": 13.832
+    },
+    {
+     "w": "la",
+     "start": 13.832,
+     "end": 14.135
+    },
+    {
+     "w": "mer",
+     "start": 14.135,
+     "end": 14.439
+    },
+    {
+     "w": "de",
+     "start": 14.439,
+     "end": 14.742
+    },
+    {
+     "w": "tes",
+     "start": 14.742,
+     "end": 15.045
+    },
+    {
+     "w": "propres",
+     "start": 15.045,
+     "end": 15.349
+    },
+    {
+     "w": "yeux",
+     "start": 15.349,
+     "end": 15.652
+    }
+   ]
+  },
+  {
+   "id": "s004",
+   "text": "Maintenant, imagine que L’Attaque des Titans commence avec un autre enfant.",
+   "chapter": 0,
+   "paragraph": 1,
+   "start": 16.252,
+   "end": 21.587,
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 16.252,
+     "end": 16.935
+    },
+    {
+     "w": "imagine",
+     "start": 17.035,
+     "end": 17.718
+    },
+    {
+     "w": "que",
+     "start": 17.718,
+     "end": 18.021
+    },
+    {
+     "w": "L’Attaque",
+     "start": 18.021,
+     "end": 18.704
+    },
+    {
+     "w": "des",
+     "start": 18.704,
+     "end": 19.008
+    },
+    {
+     "w": "Titans",
+     "start": 19.008,
+     "end": 19.501
+    },
+    {
+     "w": "commence",
+     "start": 19.501,
+     "end": 19.994
+    },
+    {
+     "w": "avec",
+     "start": 19.994,
+     "end": 20.487
+    },
+    {
+     "w": "un",
+     "start": 20.487,
+     "end": 20.791
+    },
+    {
+     "w": "autre",
+     "start": 20.791,
+     "end": 21.094
+    },
+    {
+     "w": "enfant",
+     "start": 21.094,
+     "end": 21.587
+    }
+   ]
+  },
+  {
+   "id": "s005",
+   "text": "Il s’appelle Ramzi.",
+   "chapter": 0,
+   "paragraph": 1,
+   "start": 21.887,
+   "end": 23.177,
+   "words": [
+    {
+     "w": "Il",
+     "start": 21.887,
+     "end": 22.191
+    },
+    {
+     "w": "s’appelle",
+     "start": 22.191,
+     "end": 22.684
+    },
+    {
+     "w": "Ramzi",
+     "start": 22.684,
+     "end": 23.177
+    }
+   ]
+  },
+  {
+   "id": "s006",
+   "text": "Des Titans passent la crête de la montagne.",
+   "chapter": 0,
+   "paragraph": 1,
+   "start": 23.477,
+   "end": 26.284,
+   "words": [
+    {
+     "w": "Des",
+     "start": 23.477,
+     "end": 23.78
+    },
+    {
+     "w": "Titans",
+     "start": 23.78,
+     "end": 24.273
+    },
+    {
+     "w": "passent",
+     "start": 24.273,
+     "end": 24.577
+    },
+    {
+     "w": "la",
+     "start": 24.577,
+     "end": 24.88
+    },
+    {
+     "w": "crête",
+     "start": 24.88,
+     "end": 25.184
+    },
+    {
+     "w": "de",
+     "start": 25.184,
+     "end": 25.487
+    },
+    {
+     "w": "la",
+     "start": 25.487,
+     "end": 25.791
+    },
+    {
+     "w": "montagne",
+     "start": 25.791,
+     "end": 26.284
+    }
+   ]
+  },
+  {
+   "id": "s007",
+   "text": "Autour de lui, les adultes se mettent à courir.",
+   "chapter": 0,
+   "paragraph": 1,
+   "start": 26.584,
+   "end": 29.984,
+   "words": [
+    {
+     "w": "Autour",
+     "start": 26.584,
+     "end": 27.077
+    },
+    {
+     "w": "de",
+     "start": 27.077,
+     "end": 27.381
+    },
+    {
+     "w": "lui",
+     "start": 27.381,
+     "end": 27.684
+    },
+    {
+     "w": "les",
+     "start": 27.784,
+     "end": 28.087
+    },
+    {
+     "w": "adultes",
+     "start": 28.087,
+     "end": 28.581
+    },
+    {
+     "w": "se",
+     "start": 28.581,
+     "end": 28.884
+    },
+    {
+     "w": "mettent",
+     "start": 28.884,
+     "end": 29.187
+    },
+    {
+     "w": "à",
+     "start": 29.187,
+     "end": 29.491
+    },
+    {
+     "w": "courir",
+     "start": 29.491,
+     "end": 29.984
+    }
+   ]
+  },
+  {
+   "id": "s008",
+   "text": "Et celui qui envoie ces Titans, c’est le garçon du livre.",
+   "chapter": 0,
+   "paragraph": 1,
+   "start": 30.284,
+   "end": 34.481,
+   "words": [
+    {
+     "w": "Et",
+     "start": 30.284,
+     "end": 30.588
+    },
+    {
+     "w": "celui",
+     "start": 30.588,
+     "end": 31.081
+    },
+    {
+     "w": "qui",
+     "start": 31.081,
+     "end": 31.384
+    },
+    {
+     "w": "envoie",
+     "start": 31.384,
+     "end": 31.877
+    },
+    {
+     "w": "ces",
+     "start": 31.877,
+     "end": 32.181
+    },
+    {
+     "w": "Titans",
+     "start": 32.181,
+     "end": 32.674
+    },
+    {
+     "w": "c’est",
+     "start": 32.774,
+     "end": 33.077
+    },
+    {
+     "w": "le",
+     "start": 33.077,
+     "end": 33.381
+    },
+    {
+     "w": "garçon",
+     "start": 33.381,
+     "end": 33.874
+    },
+    {
+     "w": "du",
+     "start": 33.874,
+     "end": 34.177
+    },
+    {
+     "w": "livre",
+     "start": 34.177,
+     "end": 34.481
+    }
+   ]
+  },
+  {
+   "id": "s009",
+   "text": "Si tu avais rencontré Ramzi en premier, est-ce que tu aurais quand même défendu Eren ?",
+   "chapter": 0,
+   "paragraph": 2,
+   "start": 35.081,
+   "end": 41.629,
+   "words": [
+    {
+     "w": "Si",
+     "start": 35.081,
+     "end": 35.384
+    },
+    {
+     "w": "tu",
+     "start": 35.384,
+     "end": 35.688
+    },
+    {
+     "w": "avais",
+     "start": 35.688,
+     "end": 36.181
+    },
+    {
+     "w": "rencontré",
+     "start": 36.181,
+     "end": 36.864
+    },
+    {
+     "w": "Ramzi",
+     "start": 36.864,
+     "end": 37.357
+    },
+    {
+     "w": "en",
+     "start": 37.357,
+     "end": 37.66
+    },
+    {
+     "w": "premier",
+     "start": 37.66,
+     "end": 38.153
+    },
+    {
+     "w": "est-ce",
+     "start": 38.253,
+     "end": 38.557
+    },
+    {
+     "w": "que",
+     "start": 38.557,
+     "end": 38.86
+    },
+    {
+     "w": "tu",
+     "start": 38.86,
+     "end": 39.164
+    },
+    {
+     "w": "aurais",
+     "start": 39.164,
+     "end": 39.657
+    },
+    {
+     "w": "quand",
+     "start": 39.657,
+     "end": 40.15
+    },
+    {
+     "w": "même",
+     "start": 40.15,
+     "end": 40.454
+    },
+    {
+     "w": "défendu",
+     "start": 40.454,
+     "end": 41.136
+    },
+    {
+     "w": "Eren",
+     "start": 41.136,
+     "end": 41.629
+    }
+   ]
+  },
+  {
+   "id": "s010",
+   "text": "Garde ta réponse.",
+   "chapter": 0,
+   "paragraph": 3,
+   "start": 43.229,
+   "end": 44.33,
+   "words": [
+    {
+     "w": "Garde",
+     "start": 43.229,
+     "end": 43.533
+    },
+    {
+     "w": "ta",
+     "start": 43.533,
+     "end": 43.836
+    },
+    {
+     "w": "réponse",
+     "start": 43.836,
+     "end": 44.33
+    }
+   ]
+  },
+  {
+   "id": "s011",
+   "text": "Pour ses cinquante ans, Walter White a droit à un « 50 » dessiné en bacon dans son assiette.",
+   "chapter": 1,
+   "paragraph": 4,
+   "start": 48.73,
+   "end": 55.695,
+   "words": [
+    {
+     "w": "Pour",
+     "start": 48.73,
+     "end": 49.033
+    },
+    {
+     "w": "ses",
+     "start": 49.033,
+     "end": 49.336
+    },
+    {
+     "w": "cinquante",
+     "start": 49.336,
+     "end": 50.019
+    },
+    {
+     "w": "ans",
+     "start": 50.019,
+     "end": 50.323
+    },
+    {
+     "w": "Walter",
+     "start": 50.423,
+     "end": 50.916
+    },
+    {
+     "w": "White",
+     "start": 50.916,
+     "end": 51.219
+    },
+    {
+     "w": "a",
+     "start": 51.219,
+     "end": 51.523
+    },
+    {
+     "w": "droit",
+     "start": 51.523,
+     "end": 51.826
+    },
+    {
+     "w": "à",
+     "start": 51.826,
+     "end": 52.13
+    },
+    {
+     "w": "un",
+     "start": 52.13,
+     "end": 52.433
+    },
+    {
+     "w": "50",
+     "start": 52.433,
+     "end": 53.116
+    },
+    {
+     "w": "dessiné",
+     "start": 53.116,
+     "end": 53.799
+    },
+    {
+     "w": "en",
+     "start": 53.799,
+     "end": 54.102
+    },
+    {
+     "w": "bacon",
+     "start": 54.102,
+     "end": 54.595
+    },
+    {
+     "w": "dans",
+     "start": 54.595,
+     "end": 54.899
+    },
+    {
+     "w": "son",
+     "start": 54.899,
+     "end": 55.202
+    },
+    {
+     "w": "assiette",
+     "start": 55.202,
+     "end": 55.695
+    }
+   ]
+  },
+  {
+   "id": "s012",
+   "text": "Du bacon végétal.",
+   "chapter": 1,
+   "paragraph": 4,
+   "start": 55.995,
+   "end": 57.475,
+   "words": [
+    {
+     "w": "Du",
+     "start": 55.995,
+     "end": 56.299
+    },
+    {
+     "w": "bacon",
+     "start": 56.299,
+     "end": 56.792
+    },
+    {
+     "w": "végétal",
+     "start": 56.792,
+     "end": 57.475
+    }
+   ]
+  },
+  {
+   "id": "s013",
+   "text": "Sa femme lui souhaite un bon anniversaire, son fils a franchement des réserves sur le menu, et tout le monde a l’air d’avoir déjà eu cette conversation quinze fois.",
+   "chapter": 1,
+   "paragraph": 4,
+   "start": 58.075,
+   "end": 69.541,
+   "words": [
+    {
+     "w": "Sa",
+     "start": 58.075,
+     "end": 58.378
+    },
+    {
+     "w": "femme",
+     "start": 58.378,
+     "end": 58.682
+    },
+    {
+     "w": "lui",
+     "start": 58.682,
+     "end": 58.985
+    },
+    {
+     "w": "souhaite",
+     "start": 58.985,
+     "end": 59.478
+    },
+    {
+     "w": "un",
+     "start": 59.478,
+     "end": 59.782
+    },
+    {
+     "w": "bon",
+     "start": 59.782,
+     "end": 60.085
+    },
+    {
+     "w": "anniversaire",
+     "start": 60.085,
+     "end": 60.958
+    },
+    {
+     "w": "son",
+     "start": 61.058,
+     "end": 61.361
+    },
+    {
+     "w": "fils",
+     "start": 61.361,
+     "end": 61.665
+    },
+    {
+     "w": "a",
+     "start": 61.665,
+     "end": 61.968
+    },
+    {
+     "w": "franchement",
+     "start": 61.968,
+     "end": 62.461
+    },
+    {
+     "w": "des",
+     "start": 62.461,
+     "end": 62.765
+    },
+    {
+     "w": "réserves",
+     "start": 62.765,
+     "end": 63.258
+    },
+    {
+     "w": "sur",
+     "start": 63.258,
+     "end": 63.561
+    },
+    {
+     "w": "le",
+     "start": 63.561,
+     "end": 63.865
+    },
+    {
+     "w": "menu",
+     "start": 63.865,
+     "end": 64.358
+    },
+    {
+     "w": "et",
+     "start": 64.458,
+     "end": 64.761
+    },
+    {
+     "w": "tout",
+     "start": 64.761,
+     "end": 65.065
+    },
+    {
+     "w": "le",
+     "start": 65.065,
+     "end": 65.368
+    },
+    {
+     "w": "monde",
+     "start": 65.368,
+     "end": 65.672
+    },
+    {
+     "w": "a",
+     "start": 65.672,
+     "end": 65.975
+    },
+    {
+     "w": "l’air",
+     "start": 65.975,
+     "end": 66.279
+    },
+    {
+     "w": "d’avoir",
+     "start": 66.279,
+     "end": 66.772
+    },
+    {
+     "w": "déjà",
+     "start": 66.772,
+     "end": 67.265
+    },
+    {
+     "w": "eu",
+     "start": 67.265,
+     "end": 67.568
+    },
+    {
+     "w": "cette",
+     "start": 67.568,
+     "end": 67.872
+    },
+    {
+     "w": "conversation",
+     "start": 67.872,
+     "end": 68.934
+    },
+    {
+     "w": "quinze",
+     "start": 68.934,
+     "end": 69.237
+    },
+    {
+     "w": "fois",
+     "start": 69.237,
+     "end": 69.541
+    }
+   ]
+  },
+  {
+   "id": "s014",
+   "text": "On vient à peine de rencontrer le futur Heisenberg, et on connaît déjà l’ambiance à table.",
+   "chapter": 1,
+   "paragraph": 4,
+   "start": 69.841,
+   "end": 76.503,
+   "words": [
+    {
+     "w": "On",
+     "start": 69.841,
+     "end": 70.144
+    },
+    {
+     "w": "vient",
+     "start": 70.144,
+     "end": 70.448
+    },
+    {
+     "w": "à",
+     "start": 70.448,
+     "end": 70.751
+    },
+    {
+     "w": "peine",
+     "start": 70.751,
+     "end": 71.055
+    },
+    {
+     "w": "de",
+     "start": 71.055,
+     "end": 71.358
+    },
+    {
+     "w": "rencontrer",
+     "start": 71.358,
+     "end": 72.041
+    },
+    {
+     "w": "le",
+     "start": 72.041,
+     "end": 72.345
+    },
+    {
+     "w": "futur",
+     "start": 72.345,
+     "end": 72.838
+    },
+    {
+     "w": "Heisenberg",
+     "start": 72.838,
+     "end": 73.52
+    },
+    {
+     "w": "et",
+     "start": 73.62,
+     "end": 73.924
+    },
+    {
+     "w": "on",
+     "start": 73.924,
+     "end": 74.227
+    },
+    {
+     "w": "connaît",
+     "start": 74.227,
+     "end": 74.72
+    },
+    {
+     "w": "déjà",
+     "start": 74.72,
+     "end": 75.214
+    },
+    {
+     "w": "l’ambiance",
+     "start": 75.214,
+     "end": 75.896
+    },
+    {
+     "w": "à",
+     "start": 75.896,
+     "end": 76.2
+    },
+    {
+     "w": "table",
+     "start": 76.2,
+     "end": 76.503
+    }
+   ]
+  },
+  {
+   "id": "s015",
+   "text": "Puis Walter apprend qu’il a un cancer du poumon.",
+   "chapter": 1,
+   "paragraph": 5,
+   "start": 77.103,
+   "end": 80.593,
+   "words": [
+    {
+     "w": "Puis",
+     "start": 77.103,
+     "end": 77.407
+    },
+    {
+     "w": "Walter",
+     "start": 77.407,
+     "end": 77.9
+    },
+    {
+     "w": "apprend",
+     "start": 77.9,
+     "end": 78.393
+    },
+    {
+     "w": "qu’il",
+     "start": 78.393,
+     "end": 78.697
+    },
+    {
+     "w": "a",
+     "start": 78.697,
+     "end": 79.0
+    },
+    {
+     "w": "un",
+     "start": 79.0,
+     "end": 79.303
+    },
+    {
+     "w": "cancer",
+     "start": 79.303,
+     "end": 79.797
+    },
+    {
+     "w": "du",
+     "start": 79.797,
+     "end": 80.1
+    },
+    {
+     "w": "poumon",
+     "start": 80.1,
+     "end": 80.593
+    }
+   ]
+  },
+  {
+   "id": "s016",
+   "text": "Il a un fils, sa femme est enceinte, et il s’inquiète de ce qu’il va leur laisser.",
+   "chapter": 1,
+   "paragraph": 5,
+   "start": 80.893,
+   "end": 87.011,
+   "words": [
+    {
+     "w": "Il",
+     "start": 80.893,
+     "end": 81.197
+    },
+    {
+     "w": "a",
+     "start": 81.197,
+     "end": 81.5
+    },
+    {
+     "w": "un",
+     "start": 81.5,
+     "end": 81.804
+    },
+    {
+     "w": "fils",
+     "start": 81.804,
+     "end": 82.107
+    },
+    {
+     "w": "sa",
+     "start": 82.207,
+     "end": 82.51
+    },
+    {
+     "w": "femme",
+     "start": 82.51,
+     "end": 82.814
+    },
+    {
+     "w": "est",
+     "start": 82.814,
+     "end": 83.117
+    },
+    {
+     "w": "enceinte",
+     "start": 83.117,
+     "end": 83.611
+    },
+    {
+     "w": "et",
+     "start": 83.711,
+     "end": 84.014
+    },
+    {
+     "w": "il",
+     "start": 84.014,
+     "end": 84.317
+    },
+    {
+     "w": "s’inquiète",
+     "start": 84.317,
+     "end": 85.0
+    },
+    {
+     "w": "de",
+     "start": 85.0,
+     "end": 85.304
+    },
+    {
+     "w": "ce",
+     "start": 85.304,
+     "end": 85.607
+    },
+    {
+     "w": "qu’il",
+     "start": 85.607,
+     "end": 85.911
+    },
+    {
+     "w": "va",
+     "start": 85.911,
+     "end": 86.214
+    },
+    {
+     "w": "leur",
+     "start": 86.214,
+     "end": 86.518
+    },
+    {
+     "w": "laisser",
+     "start": 86.518,
+     "end": 87.011
+    }
+   ]
+  },
+  {
+   "id": "s017",
+   "text": "Pourquoi se lance-t-il dans la fabrication de drogue ?",
+   "chapter": 1,
+   "paragraph": 5,
+   "start": 87.311,
+   "end": 91.256,
+   "words": [
+    {
+     "w": "Pourquoi",
+     "start": 87.311,
+     "end": 87.804
+    },
+    {
+     "w": "se",
+     "start": 87.804,
+     "end": 88.107
+    },
+    {
+     "w": "lance-t-il",
+     "start": 88.107,
+     "end": 88.79
+    },
+    {
+     "w": "dans",
+     "start": 88.79,
+     "end": 89.094
+    },
+    {
+     "w": "la",
+     "start": 89.094,
+     "end": 89.397
+    },
+    {
+     "w": "fabrication",
+     "start": 89.397,
+     "end": 90.459
+    },
+    {
+     "w": "de",
+     "start": 90.459,
+     "end": 90.763
+    },
+    {
+     "w": "drogue",
+     "start": 90.763,
+     "end": 91.256
+    }
+   ]
+  },
+  {
+   "id": "s018",
+   "text": "À ce stade, « pour mettre sa famille à l’abri » paraît une réponse raisonnable.",
+   "chapter": 1,
+   "paragraph": 5,
+   "start": 91.556,
+   "end": 96.739,
+   "words": [
+    {
+     "w": "À",
+     "start": 91.556,
+     "end": 91.859
+    },
+    {
+     "w": "ce",
+     "start": 91.859,
+     "end": 92.163
+    },
+    {
+     "w": "stade",
+     "start": 92.163,
+     "end": 92.466
+    },
+    {
+     "w": "pour",
+     "start": 92.566,
+     "end": 92.87
+    },
+    {
+     "w": "mettre",
+     "start": 92.87,
+     "end": 93.173
+    },
+    {
+     "w": "sa",
+     "start": 93.173,
+     "end": 93.477
+    },
+    {
+     "w": "famille",
+     "start": 93.477,
+     "end": 93.97
+    },
+    {
+     "w": "à",
+     "start": 93.97,
+     "end": 94.273
+    },
+    {
+     "w": "l’abri",
+     "start": 94.273,
+     "end": 94.766
+    },
+    {
+     "w": "paraît",
+     "start": 94.766,
+     "end": 95.259
+    },
+    {
+     "w": "une",
+     "start": 95.259,
+     "end": 95.563
+    },
+    {
+     "w": "réponse",
+     "start": 95.563,
+     "end": 96.056
+    },
+    {
+     "w": "raisonnable",
+     "start": 96.056,
+     "end": 96.739
+    }
+   ]
+  },
+  {
+   "id": "s019",
+   "text": "Quelques épisodes plus tard, le voilà dans le bureau de Tuco.",
+   "chapter": 1,
+   "paragraph": 6,
+   "start": 97.339,
+   "end": 101.915,
+   "words": [
+    {
+     "w": "Quelques",
+     "start": 97.339,
+     "end": 97.832
+    },
+    {
+     "w": "épisodes",
+     "start": 97.832,
+     "end": 98.515
+    },
+    {
+     "w": "plus",
+     "start": 98.515,
+     "end": 98.818
+    },
+    {
+     "w": "tard",
+     "start": 98.818,
+     "end": 99.122
+    },
+    {
+     "w": "le",
+     "start": 99.222,
+     "end": 99.525
+    },
+    {
+     "w": "voilà",
+     "start": 99.525,
+     "end": 100.018
+    },
+    {
+     "w": "dans",
+     "start": 100.018,
+     "end": 100.322
+    },
+    {
+     "w": "le",
+     "start": 100.322,
+     "end": 100.625
+    },
+    {
+     "w": "bureau",
+     "start": 100.625,
+     "end": 101.118
+    },
+    {
+     "w": "de",
+     "start": 101.118,
+     "end": 101.422
+    },
+    {
+     "w": "Tuco",
+     "start": 101.422,
+     "end": 101.915
+    }
+   ]
+  },
+  {
+   "id": "s020",
+   "text": "Jesse a été frappé.",
+   "chapter": 1,
+   "paragraph": 6,
+   "start": 102.215,
+   "end": 103.808,
+   "words": [
+    {
+     "w": "Jesse",
+     "start": 102.215,
+     "end": 102.518
+    },
+    {
+     "w": "a",
+     "start": 102.518,
+     "end": 102.822
+    },
+    {
+     "w": "été",
+     "start": 102.822,
+     "end": 103.315
+    },
+    {
+     "w": "frappé",
+     "start": 103.315,
+     "end": 103.808
+    }
+   ]
+  },
+  {
+   "id": "s021",
+   "text": "Walter est venu récupérer son argent.",
+   "chapter": 1,
+   "paragraph": 6,
+   "start": 104.108,
+   "end": 106.877,
+   "words": [
+    {
+     "w": "Walter",
+     "start": 104.108,
+     "end": 104.601
+    },
+    {
+     "w": "est",
+     "start": 104.601,
+     "end": 104.905
+    },
+    {
+     "w": "venu",
+     "start": 104.905,
+     "end": 105.398
+    },
+    {
+     "w": "récupérer",
+     "start": 105.398,
+     "end": 106.27
+    },
+    {
+     "w": "son",
+     "start": 106.27,
+     "end": 106.574
+    },
+    {
+     "w": "argent",
+     "start": 106.574,
+     "end": 106.877
+    }
+   ]
+  },
+  {
+   "id": "s022",
+   "text": "Il a le crâne rasé, il sort un cristal… et le lance.",
+   "chapter": 1,
+   "paragraph": 6,
+   "start": 107.177,
+   "end": 111.748,
+   "words": [
+    {
+     "w": "Il",
+     "start": 107.177,
+     "end": 107.481
+    },
+    {
+     "w": "a",
+     "start": 107.481,
+     "end": 107.784
+    },
+    {
+     "w": "le",
+     "start": 107.784,
+     "end": 108.088
+    },
+    {
+     "w": "crâne",
+     "start": 108.088,
+     "end": 108.391
+    },
+    {
+     "w": "rasé",
+     "start": 108.391,
+     "end": 108.884
+    },
+    {
+     "w": "il",
+     "start": 108.984,
+     "end": 109.288
+    },
+    {
+     "w": "sort",
+     "start": 109.288,
+     "end": 109.591
+    },
+    {
+     "w": "un",
+     "start": 109.591,
+     "end": 109.895
+    },
+    {
+     "w": "cristal",
+     "start": 109.895,
+     "end": 110.388
+    },
+    {
+     "w": "et",
+     "start": 110.838,
+     "end": 111.141
+    },
+    {
+     "w": "le",
+     "start": 111.141,
+     "end": 111.445
+    },
+    {
+     "w": "lance",
+     "start": 111.445,
+     "end": 111.748
+    }
+   ]
+  },
+  {
+   "id": "s023",
+   "text": "Les vitres explosent.",
+   "chapter": 1,
+   "paragraph": 6,
+   "start": 112.048,
+   "end": 113.148,
+   "words": [
+    {
+     "w": "Les",
+     "start": 112.048,
+     "end": 112.352
+    },
+    {
+     "w": "vitres",
+     "start": 112.352,
+     "end": 112.655
+    },
+    {
+     "w": "explosent",
+     "start": 112.655,
+     "end": 113.148
+    }
+   ]
+  },
+  {
+   "id": "s024",
+   "text": "Juste avant l’explosion, quelle question tu te posais ?",
+   "chapter": 1,
+   "paragraph": 7,
+   "start": 114.248,
+   "end": 118.104,
+   "words": [
+    {
+     "w": "Juste",
+     "start": 114.248,
+     "end": 114.552
+    },
+    {
+     "w": "avant",
+     "start": 114.552,
+     "end": 115.045
+    },
+    {
+     "w": "l’explosion",
+     "start": 115.045,
+     "end": 115.917
+    },
+    {
+     "w": "quelle",
+     "start": 116.017,
+     "end": 116.321
+    },
+    {
+     "w": "question",
+     "start": 116.321,
+     "end": 117.003
+    },
+    {
+     "w": "tu",
+     "start": 117.003,
+     "end": 117.307
+    },
+    {
+     "w": "te",
+     "start": 117.307,
+     "end": 117.61
+    },
+    {
+     "w": "posais",
+     "start": 117.61,
+     "end": 118.104
+    }
+   ]
+  },
+  {
+   "id": "s025",
+   "text": "Moi, c’était surtout : comment ce prof de chimie compte-t-il sortir vivant de cette pièce ?",
+   "chapter": 1,
+   "paragraph": 7,
+   "start": 118.404,
+   "end": 124.519,
+   "words": [
+    {
+     "w": "Moi",
+     "start": 118.404,
+     "end": 118.707
+    },
+    {
+     "w": "c’était",
+     "start": 118.807,
+     "end": 119.3
+    },
+    {
+     "w": "surtout",
+     "start": 119.3,
+     "end": 119.793
+    },
+    {
+     "w": "comment",
+     "start": 120.043,
+     "end": 120.347
+    },
+    {
+     "w": "ce",
+     "start": 120.347,
+     "end": 120.65
+    },
+    {
+     "w": "prof",
+     "start": 120.65,
+     "end": 120.954
+    },
+    {
+     "w": "de",
+     "start": 120.954,
+     "end": 121.257
+    },
+    {
+     "w": "chimie",
+     "start": 121.257,
+     "end": 121.75
+    },
+    {
+     "w": "compte-t-il",
+     "start": 121.75,
+     "end": 122.433
+    },
+    {
+     "w": "sortir",
+     "start": 122.433,
+     "end": 122.926
+    },
+    {
+     "w": "vivant",
+     "start": 122.926,
+     "end": 123.419
+    },
+    {
+     "w": "de",
+     "start": 123.419,
+     "end": 123.723
+    },
+    {
+     "w": "cette",
+     "start": 123.723,
+     "end": 124.026
+    },
+    {
+     "w": "pièce",
+     "start": 124.026,
+     "end": 124.519
+    }
+   ]
+  },
+  {
+   "id": "s026",
+   "text": "Et quand son plan fonctionne, je souffle.",
+   "chapter": 1,
+   "paragraph": 7,
+   "start": 124.819,
+   "end": 127.613,
+   "words": [
+    {
+     "w": "Et",
+     "start": 124.819,
+     "end": 125.123
+    },
+    {
+     "w": "quand",
+     "start": 125.123,
+     "end": 125.616
+    },
+    {
+     "w": "son",
+     "start": 125.616,
+     "end": 125.919
+    },
+    {
+     "w": "plan",
+     "start": 125.919,
+     "end": 126.223
+    },
+    {
+     "w": "fonctionne",
+     "start": 126.223,
+     "end": 126.906
+    },
+    {
+     "w": "je",
+     "start": 127.006,
+     "end": 127.309
+    },
+    {
+     "w": "souffle",
+     "start": 127.309,
+     "end": 127.613
+    }
+   ]
+  },
+  {
+   "id": "s027",
+   "text": "Je voulais qu’il s’en sorte.",
+   "chapter": 1,
+   "paragraph": 7,
+   "start": 127.913,
+   "end": 129.62,
+   "words": [
+    {
+     "w": "Je",
+     "start": 127.913,
+     "end": 128.216
+    },
+    {
+     "w": "voulais",
+     "start": 128.216,
+     "end": 128.709
+    },
+    {
+     "w": "qu’il",
+     "start": 128.709,
+     "end": 129.013
+    },
+    {
+     "w": "s’en",
+     "start": 129.013,
+     "end": 129.316
+    },
+    {
+     "w": "sorte",
+     "start": 129.316,
+     "end": 129.62
+    }
+   ]
+  },
+  {
+   "id": "s028",
+   "text": "Est-ce que j’avais pour autant décidé qu’il avait raison de venir ?",
+   "chapter": 1,
+   "paragraph": 7,
+   "start": 129.92,
+   "end": 134.585,
+   "words": [
+    {
+     "w": "Est-ce",
+     "start": 129.92,
+     "end": 130.223
+    },
+    {
+     "w": "que",
+     "start": 130.223,
+     "end": 130.527
+    },
+    {
+     "w": "j’avais",
+     "start": 130.527,
+     "end": 131.02
+    },
+    {
+     "w": "pour",
+     "start": 131.02,
+     "end": 131.323
+    },
+    {
+     "w": "autant",
+     "start": 131.323,
+     "end": 131.816
+    },
+    {
+     "w": "décidé",
+     "start": 131.816,
+     "end": 132.499
+    },
+    {
+     "w": "qu’il",
+     "start": 132.499,
+     "end": 132.803
+    },
+    {
+     "w": "avait",
+     "start": 132.803,
+     "end": 133.296
+    },
+    {
+     "w": "raison",
+     "start": 133.296,
+     "end": 133.789
+    },
+    {
+     "w": "de",
+     "start": 133.789,
+     "end": 134.092
+    },
+    {
+     "w": "venir",
+     "start": 134.092,
+     "end": 134.585
+    }
+   ]
+  },
+  {
+   "id": "s029",
+   "text": "Le glissement peut se faire un peu plus tard, quand on ressort cette petite phrase du début : « Il fait ça pour sa famille. »",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 135.185,
+   "end": 143.653,
+   "words": [
+    {
+     "w": "Le",
+     "start": 135.185,
+     "end": 135.489
+    },
+    {
+     "w": "glissement",
+     "start": 135.489,
+     "end": 135.982
+    },
+    {
+     "w": "peut",
+     "start": 135.982,
+     "end": 136.285
+    },
+    {
+     "w": "se",
+     "start": 136.285,
+     "end": 136.589
+    },
+    {
+     "w": "faire",
+     "start": 136.589,
+     "end": 136.892
+    },
+    {
+     "w": "un",
+     "start": 136.892,
+     "end": 137.196
+    },
+    {
+     "w": "peu",
+     "start": 137.196,
+     "end": 137.499
+    },
+    {
+     "w": "plus",
+     "start": 137.499,
+     "end": 137.803
+    },
+    {
+     "w": "tard",
+     "start": 137.803,
+     "end": 138.106
+    },
+    {
+     "w": "quand",
+     "start": 138.206,
+     "end": 138.699
+    },
+    {
+     "w": "on",
+     "start": 138.699,
+     "end": 139.003
+    },
+    {
+     "w": "ressort",
+     "start": 139.003,
+     "end": 139.496
+    },
+    {
+     "w": "cette",
+     "start": 139.496,
+     "end": 139.799
+    },
+    {
+     "w": "petite",
+     "start": 139.799,
+     "end": 140.293
+    },
+    {
+     "w": "phrase",
+     "start": 140.293,
+     "end": 140.596
+    },
+    {
+     "w": "du",
+     "start": 140.596,
+     "end": 140.899
+    },
+    {
+     "w": "début",
+     "start": 140.899,
+     "end": 141.393
+    },
+    {
+     "w": "Il",
+     "start": 141.643,
+     "end": 141.946
+    },
+    {
+     "w": "fait",
+     "start": 141.946,
+     "end": 142.25
+    },
+    {
+     "w": "ça",
+     "start": 142.25,
+     "end": 142.553
+    },
+    {
+     "w": "pour",
+     "start": 142.553,
+     "end": 142.856
+    },
+    {
+     "w": "sa",
+     "start": 142.856,
+     "end": 143.16
+    },
+    {
+     "w": "famille",
+     "start": 143.16,
+     "end": 143.653
+    }
+   ]
+  },
+  {
+   "id": "s030",
+   "text": "D’accord.",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 143.953,
+   "end": 144.446,
+   "words": [
+    {
+     "w": "D’accord",
+     "start": 143.953,
+     "end": 144.446
+    }
+   ]
+  },
+  {
+   "id": "s031",
+   "text": "Mais « ça », c’est quoi ?",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 144.746,
+   "end": 146.06,
+   "words": [
+    {
+     "w": "Mais",
+     "start": 144.746,
+     "end": 145.05
+    },
+    {
+     "w": "ça",
+     "start": 145.05,
+     "end": 145.353
+    },
+    {
+     "w": "c’est",
+     "start": 145.453,
+     "end": 145.757
+    },
+    {
+     "w": "quoi",
+     "start": 145.757,
+     "end": 146.06
+    }
+   ]
+  },
+  {
+   "id": "s032",
+   "text": "Laisser de l’argent à ses enfants ?",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 146.66,
+   "end": 148.86,
+   "words": [
+    {
+     "w": "Laisser",
+     "start": 146.66,
+     "end": 147.153
+    },
+    {
+     "w": "de",
+     "start": 147.153,
+     "end": 147.457
+    },
+    {
+     "w": "l’argent",
+     "start": 147.457,
+     "end": 147.76
+    },
+    {
+     "w": "à",
+     "start": 147.76,
+     "end": 148.064
+    },
+    {
+     "w": "ses",
+     "start": 148.064,
+     "end": 148.367
+    },
+    {
+     "w": "enfants",
+     "start": 148.367,
+     "end": 148.86
+    }
+   ]
+  },
+  {
+   "id": "s033",
+   "text": "Entrer chez Tuco ?",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 149.36,
+   "end": 150.65,
+   "words": [
+    {
+     "w": "Entrer",
+     "start": 149.36,
+     "end": 149.853
+    },
+    {
+     "w": "chez",
+     "start": 149.853,
+     "end": 150.157
+    },
+    {
+     "w": "Tuco",
+     "start": 150.157,
+     "end": 150.65
+    }
+   ]
+  },
+  {
+   "id": "s034",
+   "text": "Continuer à bâtir un empire ?",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 151.15,
+   "end": 153.426,
+   "words": [
+    {
+     "w": "Continuer",
+     "start": 151.15,
+     "end": 151.833
+    },
+    {
+     "w": "à",
+     "start": 151.833,
+     "end": 152.136
+    },
+    {
+     "w": "bâtir",
+     "start": 152.136,
+     "end": 152.629
+    },
+    {
+     "w": "un",
+     "start": 152.629,
+     "end": 152.933
+    },
+    {
+     "w": "empire",
+     "start": 152.933,
+     "end": 153.426
+    }
+   ]
+  },
+  {
+   "id": "s035",
+   "text": "À chaque fois, le mot « ça » couvre un peu plus de terrain.",
+   "chapter": 1,
+   "paragraph": 8,
+   "start": 154.026,
+   "end": 158.147,
+   "words": [
+    {
+     "w": "À",
+     "start": 154.026,
+     "end": 154.329
+    },
+    {
+     "w": "chaque",
+     "start": 154.329,
+     "end": 154.822
+    },
+    {
+     "w": "fois",
+     "start": 154.822,
+     "end": 155.126
+    },
+    {
+     "w": "le",
+     "start": 155.226,
+     "end": 155.529
+    },
+    {
+     "w": "mot",
+     "start": 155.529,
+     "end": 155.833
+    },
+    {
+     "w": "ça",
+     "start": 155.833,
+     "end": 156.136
+    },
+    {
+     "w": "couvre",
+     "start": 156.136,
+     "end": 156.44
+    },
+    {
+     "w": "un",
+     "start": 156.44,
+     "end": 156.743
+    },
+    {
+     "w": "peu",
+     "start": 156.743,
+     "end": 157.047
+    },
+    {
+     "w": "plus",
+     "start": 157.047,
+     "end": 157.35
+    },
+    {
+     "w": "de",
+     "start": 157.35,
+     "end": 157.654
+    },
+    {
+     "w": "terrain",
+     "start": 157.654,
+     "end": 158.147
+    }
+   ]
+  },
+  {
+   "id": "s036",
+   "text": "Et pourtant, avant même que Walter entre chez Tuco, il y a eu un coup de téléphone.",
+   "chapter": 1,
+   "paragraph": 9,
+   "start": 158.747,
+   "end": 165.244,
+   "words": [
+    {
+     "w": "Et",
+     "start": 158.747,
+     "end": 159.05
+    },
+    {
+     "w": "pourtant",
+     "start": 159.05,
+     "end": 159.543
+    },
+    {
+     "w": "avant",
+     "start": 159.643,
+     "end": 160.136
+    },
+    {
+     "w": "même",
+     "start": 160.136,
+     "end": 160.44
+    },
+    {
+     "w": "que",
+     "start": 160.44,
+     "end": 160.743
+    },
+    {
+     "w": "Walter",
+     "start": 160.743,
+     "end": 161.237
+    },
+    {
+     "w": "entre",
+     "start": 161.237,
+     "end": 161.54
+    },
+    {
+     "w": "chez",
+     "start": 161.54,
+     "end": 161.843
+    },
+    {
+     "w": "Tuco",
+     "start": 161.843,
+     "end": 162.337
+    },
+    {
+     "w": "il",
+     "start": 162.437,
+     "end": 162.74
+    },
+    {
+     "w": "y",
+     "start": 162.74,
+     "end": 163.044
+    },
+    {
+     "w": "a",
+     "start": 163.044,
+     "end": 163.347
+    },
+    {
+     "w": "eu",
+     "start": 163.347,
+     "end": 163.65
+    },
+    {
+     "w": "un",
+     "start": 163.65,
+     "end": 163.954
+    },
+    {
+     "w": "coup",
+     "start": 163.954,
+     "end": 164.257
+    },
+    {
+     "w": "de",
+     "start": 164.257,
+     "end": 164.561
+    },
+    {
+     "w": "téléphone",
+     "start": 164.561,
+     "end": 165.244
+    }
+   ]
+  },
+  {
+   "id": "s037",
+   "text": "Gretchen insiste : Elliott et elle veulent payer son traitement.",
+   "chapter": 1,
+   "paragraph": 9,
+   "start": 165.544,
+   "end": 169.473,
+   "words": [
+    {
+     "w": "Gretchen",
+     "start": 165.544,
+     "end": 166.037
+    },
+    {
+     "w": "insiste",
+     "start": 166.037,
+     "end": 166.53
+    },
+    {
+     "w": "Elliott",
+     "start": 166.78,
+     "end": 167.463
+    },
+    {
+     "w": "et",
+     "start": 167.463,
+     "end": 167.766
+    },
+    {
+     "w": "elle",
+     "start": 167.766,
+     "end": 168.07
+    },
+    {
+     "w": "veulent",
+     "start": 168.07,
+     "end": 168.373
+    },
+    {
+     "w": "payer",
+     "start": 168.373,
+     "end": 168.677
+    },
+    {
+     "w": "son",
+     "start": 168.677,
+     "end": 168.98
+    },
+    {
+     "w": "traitement",
+     "start": 168.98,
+     "end": 169.473
+    }
+   ]
+  },
+  {
+   "id": "s038",
+   "text": "Walter la remercie.",
+   "chapter": 1,
+   "paragraph": 9,
+   "start": 169.773,
+   "end": 171.253,
+   "words": [
+    {
+     "w": "Walter",
+     "start": 169.773,
+     "end": 170.266
+    },
+    {
+     "w": "la",
+     "start": 170.266,
+     "end": 170.57
+    },
+    {
+     "w": "remercie",
+     "start": 170.57,
+     "end": 171.253
+    }
+   ]
+  },
+  {
+   "id": "s039",
+   "text": "Il lui explique que, finalement, son assurance le prend en charge.",
+   "chapter": 1,
+   "paragraph": 9,
+   "start": 171.553,
+   "end": 176.229,
+   "words": [
+    {
+     "w": "Il",
+     "start": 171.553,
+     "end": 171.856
+    },
+    {
+     "w": "lui",
+     "start": 171.856,
+     "end": 172.159
+    },
+    {
+     "w": "explique",
+     "start": 172.159,
+     "end": 172.842
+    },
+    {
+     "w": "que",
+     "start": 172.842,
+     "end": 173.146
+    },
+    {
+     "w": "finalement",
+     "start": 173.246,
+     "end": 173.929
+    },
+    {
+     "w": "son",
+     "start": 174.029,
+     "end": 174.332
+    },
+    {
+     "w": "assurance",
+     "start": 174.332,
+     "end": 175.015
+    },
+    {
+     "w": "le",
+     "start": 175.015,
+     "end": 175.318
+    },
+    {
+     "w": "prend",
+     "start": 175.318,
+     "end": 175.622
+    },
+    {
+     "w": "en",
+     "start": 175.622,
+     "end": 175.925
+    },
+    {
+     "w": "charge",
+     "start": 175.925,
+     "end": 176.229
+    }
+   ]
+  },
+  {
+   "id": "s040",
+   "text": "C’est faux.",
+   "chapter": 1,
+   "paragraph": 9,
+   "start": 176.529,
+   "end": 177.136,
+   "words": [
+    {
+     "w": "C’est",
+     "start": 176.529,
+     "end": 176.832
+    },
+    {
+     "w": "faux",
+     "start": 176.832,
+     "end": 177.136
+    }
+   ]
+  },
+  {
+   "id": "s041",
+   "text": "Et juste après, il va retrouver Jesse pour lui proposer de reprendre la fabrication.",
+   "chapter": 1,
+   "paragraph": 9,
+   "start": 177.736,
+   "end": 183.981,
+   "words": [
+    {
+     "w": "Et",
+     "start": 177.736,
+     "end": 178.039
+    },
+    {
+     "w": "juste",
+     "start": 178.039,
+     "end": 178.342
+    },
+    {
+     "w": "après",
+     "start": 178.342,
+     "end": 178.836
+    },
+    {
+     "w": "il",
+     "start": 178.936,
+     "end": 179.239
+    },
+    {
+     "w": "va",
+     "start": 179.239,
+     "end": 179.543
+    },
+    {
+     "w": "retrouver",
+     "start": 179.543,
+     "end": 180.225
+    },
+    {
+     "w": "Jesse",
+     "start": 180.225,
+     "end": 180.529
+    },
+    {
+     "w": "pour",
+     "start": 180.529,
+     "end": 180.832
+    },
+    {
+     "w": "lui",
+     "start": 180.832,
+     "end": 181.136
+    },
+    {
+     "w": "proposer",
+     "start": 181.136,
+     "end": 181.819
+    },
+    {
+     "w": "de",
+     "start": 181.819,
+     "end": 182.122
+    },
+    {
+     "w": "reprendre",
+     "start": 182.122,
+     "end": 182.615
+    },
+    {
+     "w": "la",
+     "start": 182.615,
+     "end": 182.919
+    },
+    {
+     "w": "fabrication",
+     "start": 182.919,
+     "end": 183.981
+    }
+   ]
+  },
+  {
+   "id": "s042",
+   "text": "Bien sûr, payer son traitement et laisser de l’argent aux enfants, ce sont deux problèmes différents.",
+   "chapter": 1,
+   "paragraph": 10,
+   "start": 184.581,
+   "end": 190.774,
+   "words": [
+    {
+     "w": "Bien",
+     "start": 184.581,
+     "end": 184.884
+    },
+    {
+     "w": "sûr",
+     "start": 184.884,
+     "end": 185.188
+    },
+    {
+     "w": "payer",
+     "start": 185.288,
+     "end": 185.591
+    },
+    {
+     "w": "son",
+     "start": 185.591,
+     "end": 185.895
+    },
+    {
+     "w": "traitement",
+     "start": 185.895,
+     "end": 186.388
+    },
+    {
+     "w": "et",
+     "start": 186.388,
+     "end": 186.691
+    },
+    {
+     "w": "laisser",
+     "start": 186.691,
+     "end": 187.184
+    },
+    {
+     "w": "de",
+     "start": 187.184,
+     "end": 187.488
+    },
+    {
+     "w": "l’argent",
+     "start": 187.488,
+     "end": 187.791
+    },
+    {
+     "w": "aux",
+     "start": 187.791,
+     "end": 188.095
+    },
+    {
+     "w": "enfants",
+     "start": 188.095,
+     "end": 188.588
+    },
+    {
+     "w": "ce",
+     "start": 188.688,
+     "end": 188.991
+    },
+    {
+     "w": "sont",
+     "start": 188.991,
+     "end": 189.295
+    },
+    {
+     "w": "deux",
+     "start": 189.295,
+     "end": 189.598
+    },
+    {
+     "w": "problèmes",
+     "start": 189.598,
+     "end": 190.091
+    },
+    {
+     "w": "différents",
+     "start": 190.091,
+     "end": 190.774
+    }
+   ]
+  },
+  {
+   "id": "s043",
+   "text": "Mais pourquoi lui mentir ?",
+   "chapter": 1,
+   "paragraph": 10,
+   "start": 191.074,
+   "end": 192.667,
+   "words": [
+    {
+     "w": "Mais",
+     "start": 191.074,
+     "end": 191.378
+    },
+    {
+     "w": "pourquoi",
+     "start": 191.378,
+     "end": 191.871
+    },
+    {
+     "w": "lui",
+     "start": 191.871,
+     "end": 192.174
+    },
+    {
+     "w": "mentir",
+     "start": 192.174,
+     "end": 192.667
+    }
+   ]
+  },
+  {
+   "id": "s044",
+   "text": "Si ta première réaction, c’est « Oui, mais tu comprends, avec leur histoire, il ne pouvait pas accepter cet argent… », écoute ce que tu viens de faire.",
+   "chapter": 1,
+   "paragraph": 10,
+   "start": 192.967,
+   "end": 204.273,
+   "words": [
+    {
+     "w": "Si",
+     "start": 192.967,
+     "end": 193.271
+    },
+    {
+     "w": "ta",
+     "start": 193.271,
+     "end": 193.574
+    },
+    {
+     "w": "première",
+     "start": 193.574,
+     "end": 194.257
+    },
+    {
+     "w": "réaction",
+     "start": 194.257,
+     "end": 195.13
+    },
+    {
+     "w": "c’est",
+     "start": 195.23,
+     "end": 195.533
+    },
+    {
+     "w": "Oui",
+     "start": 195.533,
+     "end": 196.026
+    },
+    {
+     "w": "mais",
+     "start": 196.126,
+     "end": 196.43
+    },
+    {
+     "w": "tu",
+     "start": 196.43,
+     "end": 196.733
+    },
+    {
+     "w": "comprends",
+     "start": 196.733,
+     "end": 197.226
+    },
+    {
+     "w": "avec",
+     "start": 197.326,
+     "end": 197.819
+    },
+    {
+     "w": "leur",
+     "start": 197.819,
+     "end": 198.123
+    },
+    {
+     "w": "histoire",
+     "start": 198.123,
+     "end": 198.616
+    },
+    {
+     "w": "il",
+     "start": 198.716,
+     "end": 199.019
+    },
+    {
+     "w": "ne",
+     "start": 199.019,
+     "end": 199.323
+    },
+    {
+     "w": "pouvait",
+     "start": 199.323,
+     "end": 199.816
+    },
+    {
+     "w": "pas",
+     "start": 199.816,
+     "end": 200.119
+    },
+    {
+     "w": "accepter",
+     "start": 200.119,
+     "end": 200.802
+    },
+    {
+     "w": "cet",
+     "start": 200.802,
+     "end": 201.106
+    },
+    {
+     "w": "argent",
+     "start": 201.106,
+     "end": 201.409
+    },
+    {
+     "w": "écoute",
+     "start": 201.959,
+     "end": 202.452
+    },
+    {
+     "w": "ce",
+     "start": 202.452,
+     "end": 202.756
+    },
+    {
+     "w": "que",
+     "start": 202.756,
+     "end": 203.059
+    },
+    {
+     "w": "tu",
+     "start": 203.059,
+     "end": 203.363
+    },
+    {
+     "w": "viens",
+     "start": 203.363,
+     "end": 203.666
+    },
+    {
+     "w": "de",
+     "start": 203.666,
+     "end": 203.97
+    },
+    {
+     "w": "faire",
+     "start": 203.97,
+     "end": 204.273
+    }
+   ]
+  },
+  {
+   "id": "s045",
+   "text": "Walter a raccroché.",
+   "chapter": 1,
+   "paragraph": 10,
+   "start": 204.573,
+   "end": 206.052,
+   "words": [
+    {
+     "w": "Walter",
+     "start": 204.573,
+     "end": 205.066
+    },
+    {
+     "w": "a",
+     "start": 205.066,
+     "end": 205.37
+    },
+    {
+     "w": "raccroché",
+     "start": 205.37,
+     "end": 206.052
+    }
+   ]
+  },
+  {
+   "id": "s046",
+   "text": "C’est toi qui continues la conversation à sa place.",
+   "chapter": 1,
+   "paragraph": 10,
+   "start": 206.352,
+   "end": 210.222,
+   "words": [
+    {
+     "w": "C’est",
+     "start": 206.352,
+     "end": 206.656
+    },
+    {
+     "w": "toi",
+     "start": 206.656,
+     "end": 206.959
+    },
+    {
+     "w": "qui",
+     "start": 206.959,
+     "end": 207.263
+    },
+    {
+     "w": "continues",
+     "start": 207.263,
+     "end": 207.946
+    },
+    {
+     "w": "la",
+     "start": 207.946,
+     "end": 208.249
+    },
+    {
+     "w": "conversation",
+     "start": 208.249,
+     "end": 209.311
+    },
+    {
+     "w": "à",
+     "start": 209.311,
+     "end": 209.615
+    },
+    {
+     "w": "sa",
+     "start": 209.615,
+     "end": 209.918
+    },
+    {
+     "w": "place",
+     "start": 209.918,
+     "end": 210.222
+    }
+   ]
+  },
+  {
+   "id": "s047",
+   "text": "Dans le dernier épisode, Skyler connaît l’argument de la famille par cœur.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 210.822,
+   "end": 215.891,
+   "words": [
+    {
+     "w": "Dans",
+     "start": 210.822,
+     "end": 211.125
+    },
+    {
+     "w": "le",
+     "start": 211.125,
+     "end": 211.429
+    },
+    {
+     "w": "dernier",
+     "start": 211.429,
+     "end": 211.922
+    },
+    {
+     "w": "épisode",
+     "start": 211.922,
+     "end": 212.604
+    },
+    {
+     "w": "Skyler",
+     "start": 212.704,
+     "end": 213.198
+    },
+    {
+     "w": "connaît",
+     "start": 213.198,
+     "end": 213.691
+    },
+    {
+     "w": "l’argument",
+     "start": 213.691,
+     "end": 214.184
+    },
+    {
+     "w": "de",
+     "start": 214.184,
+     "end": 214.487
+    },
+    {
+     "w": "la",
+     "start": 214.487,
+     "end": 214.791
+    },
+    {
+     "w": "famille",
+     "start": 214.791,
+     "end": 215.284
+    },
+    {
+     "w": "par",
+     "start": 215.284,
+     "end": 215.587
+    },
+    {
+     "w": "cœur",
+     "start": 215.587,
+     "end": 215.891
+    }
+   ]
+  },
+  {
+   "id": "s048",
+   "text": "Quand Walter semble prêt à le lui servir une fois de plus, elle l’interrompt.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 216.191,
+   "end": 221.488,
+   "words": [
+    {
+     "w": "Quand",
+     "start": 216.191,
+     "end": 216.684
+    },
+    {
+     "w": "Walter",
+     "start": 216.684,
+     "end": 217.177
+    },
+    {
+     "w": "semble",
+     "start": 217.177,
+     "end": 217.481
+    },
+    {
+     "w": "prêt",
+     "start": 217.481,
+     "end": 217.784
+    },
+    {
+     "w": "à",
+     "start": 217.784,
+     "end": 218.087
+    },
+    {
+     "w": "le",
+     "start": 218.087,
+     "end": 218.391
+    },
+    {
+     "w": "lui",
+     "start": 218.391,
+     "end": 218.694
+    },
+    {
+     "w": "servir",
+     "start": 218.694,
+     "end": 219.188
+    },
+    {
+     "w": "une",
+     "start": 219.188,
+     "end": 219.491
+    },
+    {
+     "w": "fois",
+     "start": 219.491,
+     "end": 219.794
+    },
+    {
+     "w": "de",
+     "start": 219.794,
+     "end": 220.098
+    },
+    {
+     "w": "plus",
+     "start": 220.098,
+     "end": 220.401
+    },
+    {
+     "w": "elle",
+     "start": 220.501,
+     "end": 220.805
+    },
+    {
+     "w": "l’interrompt",
+     "start": 220.805,
+     "end": 221.488
+    }
+   ]
+  },
+  {
+   "id": "s049",
+   "text": "Cette fois, il lui donne une autre réponse.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 221.788,
+   "end": 224.505,
+   "words": [
+    {
+     "w": "Cette",
+     "start": 221.788,
+     "end": 222.091
+    },
+    {
+     "w": "fois",
+     "start": 222.091,
+     "end": 222.395
+    },
+    {
+     "w": "il",
+     "start": 222.495,
+     "end": 222.798
+    },
+    {
+     "w": "lui",
+     "start": 222.798,
+     "end": 223.102
+    },
+    {
+     "w": "donne",
+     "start": 223.102,
+     "end": 223.405
+    },
+    {
+     "w": "une",
+     "start": 223.405,
+     "end": 223.708
+    },
+    {
+     "w": "autre",
+     "start": 223.708,
+     "end": 224.012
+    },
+    {
+     "w": "réponse",
+     "start": 224.012,
+     "end": 224.505
+    }
+   ]
+  },
+  {
+   "id": "s050",
+   "text": "Il reconnaît qu’il l’a fait pour lui.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 224.805,
+   "end": 227.309,
+   "words": [
+    {
+     "w": "Il",
+     "start": 224.805,
+     "end": 225.109
+    },
+    {
+     "w": "reconnaît",
+     "start": 225.109,
+     "end": 225.791
+    },
+    {
+     "w": "qu’il",
+     "start": 225.791,
+     "end": 226.095
+    },
+    {
+     "w": "l’a",
+     "start": 226.095,
+     "end": 226.398
+    },
+    {
+     "w": "fait",
+     "start": 226.398,
+     "end": 226.702
+    },
+    {
+     "w": "pour",
+     "start": 226.702,
+     "end": 227.005
+    },
+    {
+     "w": "lui",
+     "start": 227.005,
+     "end": 227.309
+    }
+   ]
+  },
+  {
+   "id": "s051",
+   "text": "Il aimait ça.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 227.609,
+   "end": 228.709,
+   "words": [
+    {
+     "w": "Il",
+     "start": 227.609,
+     "end": 227.912
+    },
+    {
+     "w": "aimait",
+     "start": 227.912,
+     "end": 228.405
+    },
+    {
+     "w": "ça",
+     "start": 228.405,
+     "end": 228.709
+    }
+   ]
+  },
+  {
+   "id": "s052",
+   "text": "Il était doué.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 229.009,
+   "end": 230.298,
+   "words": [
+    {
+     "w": "Il",
+     "start": 229.009,
+     "end": 229.312
+    },
+    {
+     "w": "était",
+     "start": 229.312,
+     "end": 229.805
+    },
+    {
+     "w": "doué",
+     "start": 229.805,
+     "end": 230.298
+    }
+   ]
+  },
+  {
+   "id": "s053",
+   "text": "Il se sentait vivant.",
+   "chapter": 1,
+   "paragraph": 11,
+   "start": 230.598,
+   "end": 232.192,
+   "words": [
+    {
+     "w": "Il",
+     "start": 230.598,
+     "end": 230.902
+    },
+    {
+     "w": "se",
+     "start": 230.902,
+     "end": 231.205
+    },
+    {
+     "w": "sentait",
+     "start": 231.205,
+     "end": 231.698
+    },
+    {
+     "w": "vivant",
+     "start": 231.698,
+     "end": 232.192
+    }
+   ]
+  },
+  {
+   "id": "s054",
+   "text": "Ça donne envie de revoir le petit-déjeuner.",
+   "chapter": 1,
+   "paragraph": 12,
+   "start": 233.792,
+   "end": 237.054,
+   "words": [
+    {
+     "w": "Ça",
+     "start": 233.792,
+     "end": 234.095
+    },
+    {
+     "w": "donne",
+     "start": 234.095,
+     "end": 234.399
+    },
+    {
+     "w": "envie",
+     "start": 234.399,
+     "end": 234.892
+    },
+    {
+     "w": "de",
+     "start": 234.892,
+     "end": 235.195
+    },
+    {
+     "w": "revoir",
+     "start": 235.195,
+     "end": 235.688
+    },
+    {
+     "w": "le",
+     "start": 235.688,
+     "end": 235.992
+    },
+    {
+     "w": "petit-déjeuner",
+     "start": 235.992,
+     "end": 237.054
+    }
+   ]
+  },
+  {
+   "id": "s055",
+   "text": "On peut croire à la tendresse qu’il y avait autour de cette table.",
+   "chapter": 1,
+   "paragraph": 12,
+   "start": 237.354,
+   "end": 241.868,
+   "words": [
+    {
+     "w": "On",
+     "start": 237.354,
+     "end": 237.657
+    },
+    {
+     "w": "peut",
+     "start": 237.657,
+     "end": 237.961
+    },
+    {
+     "w": "croire",
+     "start": 237.961,
+     "end": 238.264
+    },
+    {
+     "w": "à",
+     "start": 238.264,
+     "end": 238.568
+    },
+    {
+     "w": "la",
+     "start": 238.568,
+     "end": 238.871
+    },
+    {
+     "w": "tendresse",
+     "start": 238.871,
+     "end": 239.364
+    },
+    {
+     "w": "qu’il",
+     "start": 239.364,
+     "end": 239.668
+    },
+    {
+     "w": "y",
+     "start": 239.668,
+     "end": 239.971
+    },
+    {
+     "w": "avait",
+     "start": 239.971,
+     "end": 240.464
+    },
+    {
+     "w": "autour",
+     "start": 240.464,
+     "end": 240.957
+    },
+    {
+     "w": "de",
+     "start": 240.957,
+     "end": 241.261
+    },
+    {
+     "w": "cette",
+     "start": 241.261,
+     "end": 241.564
+    },
+    {
+     "w": "table",
+     "start": 241.564,
+     "end": 241.868
+    }
+   ]
+  },
+  {
+   "id": "s056",
+   "text": "La question, c’est combien de temps on a continué, nous, à s’en servir pour défendre Walter.",
+   "chapter": 1,
+   "paragraph": 12,
+   "start": 242.168,
+   "end": 249.03,
+   "words": [
+    {
+     "w": "La",
+     "start": 242.168,
+     "end": 242.471
+    },
+    {
+     "w": "question",
+     "start": 242.471,
+     "end": 243.154
+    },
+    {
+     "w": "c’est",
+     "start": 243.254,
+     "end": 243.558
+    },
+    {
+     "w": "combien",
+     "start": 243.558,
+     "end": 244.051
+    },
+    {
+     "w": "de",
+     "start": 244.051,
+     "end": 244.354
+    },
+    {
+     "w": "temps",
+     "start": 244.354,
+     "end": 244.658
+    },
+    {
+     "w": "on",
+     "start": 244.658,
+     "end": 244.961
+    },
+    {
+     "w": "a",
+     "start": 244.961,
+     "end": 245.265
+    },
+    {
+     "w": "continué",
+     "start": 245.265,
+     "end": 246.137
+    },
+    {
+     "w": "nous",
+     "start": 246.237,
+     "end": 246.541
+    },
+    {
+     "w": "à",
+     "start": 246.641,
+     "end": 246.944
+    },
+    {
+     "w": "s’en",
+     "start": 246.944,
+     "end": 247.247
+    },
+    {
+     "w": "servir",
+     "start": 247.247,
+     "end": 247.741
+    },
+    {
+     "w": "pour",
+     "start": 247.741,
+     "end": 248.044
+    },
+    {
+     "w": "défendre",
+     "start": 248.044,
+     "end": 248.537
+    },
+    {
+     "w": "Walter",
+     "start": 248.537,
+     "end": 249.03
+    }
+   ]
+  },
+  {
+   "id": "s057",
+   "text": "Le psychologue Albert Bandura a étudié les raisonnements qui permettent de rendre ses propres actes acceptables à ses yeux.",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 249.63,
+   "end": 258.241,
+   "words": [
+    {
+     "w": "Le",
+     "start": 249.63,
+     "end": 249.934
+    },
+    {
+     "w": "psychologue",
+     "start": 249.934,
+     "end": 250.806
+    },
+    {
+     "w": "Albert",
+     "start": 250.806,
+     "end": 251.299
+    },
+    {
+     "w": "Bandura",
+     "start": 251.299,
+     "end": 251.982
+    },
+    {
+     "w": "a",
+     "start": 251.982,
+     "end": 252.286
+    },
+    {
+     "w": "étudié",
+     "start": 252.286,
+     "end": 253.158
+    },
+    {
+     "w": "les",
+     "start": 253.158,
+     "end": 253.462
+    },
+    {
+     "w": "raisonnements",
+     "start": 253.462,
+     "end": 254.334
+    },
+    {
+     "w": "qui",
+     "start": 254.334,
+     "end": 254.637
+    },
+    {
+     "w": "permettent",
+     "start": 254.637,
+     "end": 255.131
+    },
+    {
+     "w": "de",
+     "start": 255.131,
+     "end": 255.434
+    },
+    {
+     "w": "rendre",
+     "start": 255.434,
+     "end": 255.738
+    },
+    {
+     "w": "ses",
+     "start": 255.738,
+     "end": 256.041
+    },
+    {
+     "w": "propres",
+     "start": 256.041,
+     "end": 256.344
+    },
+    {
+     "w": "actes",
+     "start": 256.344,
+     "end": 256.648
+    },
+    {
+     "w": "acceptables",
+     "start": 256.648,
+     "end": 257.331
+    },
+    {
+     "w": "à",
+     "start": 257.331,
+     "end": 257.634
+    },
+    {
+     "w": "ses",
+     "start": 257.634,
+     "end": 257.938
+    },
+    {
+     "w": "yeux",
+     "start": 257.938,
+     "end": 258.241
+    }
+   ]
+  },
+  {
+   "id": "s058",
+   "text": "Il parle de désengagement moral.",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 258.541,
+   "end": 260.817,
+   "words": [
+    {
+     "w": "Il",
+     "start": 258.541,
+     "end": 258.845
+    },
+    {
+     "w": "parle",
+     "start": 258.845,
+     "end": 259.148
+    },
+    {
+     "w": "de",
+     "start": 259.148,
+     "end": 259.451
+    },
+    {
+     "w": "désengagement",
+     "start": 259.451,
+     "end": 260.324
+    },
+    {
+     "w": "moral",
+     "start": 260.324,
+     "end": 260.817
+    }
+   ]
+  },
+  {
+   "id": "s059",
+   "text": "L’un de ces raisonnements consiste à invoquer une cause qu’on juge bonne pour justifier le mal qu’on fait.",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 261.317,
+   "end": 268.297,
+   "words": [
+    {
+     "w": "L’un",
+     "start": 261.317,
+     "end": 261.621
+    },
+    {
+     "w": "de",
+     "start": 261.621,
+     "end": 261.924
+    },
+    {
+     "w": "ces",
+     "start": 261.924,
+     "end": 262.227
+    },
+    {
+     "w": "raisonnements",
+     "start": 262.227,
+     "end": 263.1
+    },
+    {
+     "w": "consiste",
+     "start": 263.1,
+     "end": 263.593
+    },
+    {
+     "w": "à",
+     "start": 263.593,
+     "end": 263.897
+    },
+    {
+     "w": "invoquer",
+     "start": 263.897,
+     "end": 264.579
+    },
+    {
+     "w": "une",
+     "start": 264.579,
+     "end": 264.883
+    },
+    {
+     "w": "cause",
+     "start": 264.883,
+     "end": 265.186
+    },
+    {
+     "w": "qu’on",
+     "start": 265.186,
+     "end": 265.49
+    },
+    {
+     "w": "juge",
+     "start": 265.49,
+     "end": 265.793
+    },
+    {
+     "w": "bonne",
+     "start": 265.793,
+     "end": 266.097
+    },
+    {
+     "w": "pour",
+     "start": 266.097,
+     "end": 266.4
+    },
+    {
+     "w": "justifier",
+     "start": 266.4,
+     "end": 267.083
+    },
+    {
+     "w": "le",
+     "start": 267.083,
+     "end": 267.386
+    },
+    {
+     "w": "mal",
+     "start": 267.386,
+     "end": 267.69
+    },
+    {
+     "w": "qu’on",
+     "start": 267.69,
+     "end": 267.993
+    },
+    {
+     "w": "fait",
+     "start": 267.993,
+     "end": 268.297
+    }
+   ]
+  },
+  {
+   "id": "s060",
+   "text": "C’est la justification morale.",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 268.597,
+   "end": 270.949,
+   "words": [
+    {
+     "w": "C’est",
+     "start": 268.597,
+     "end": 268.9
+    },
+    {
+     "w": "la",
+     "start": 268.9,
+     "end": 269.204
+    },
+    {
+     "w": "justification",
+     "start": 269.204,
+     "end": 270.455
+    },
+    {
+     "w": "morale",
+     "start": 270.455,
+     "end": 270.949
+    }
+   ]
+  },
+  {
+   "id": "s061",
+   "text": "Et devant une fiction, on peut se poser la question dans l’autre sens.",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 271.249,
+   "end": 276.432,
+   "words": [
+    {
+     "w": "Et",
+     "start": 271.249,
+     "end": 271.552
+    },
+    {
+     "w": "devant",
+     "start": 271.552,
+     "end": 272.045
+    },
+    {
+     "w": "une",
+     "start": 272.045,
+     "end": 272.349
+    },
+    {
+     "w": "fiction",
+     "start": 272.349,
+     "end": 273.031
+    },
+    {
+     "w": "on",
+     "start": 273.131,
+     "end": 273.435
+    },
+    {
+     "w": "peut",
+     "start": 273.435,
+     "end": 273.738
+    },
+    {
+     "w": "se",
+     "start": 273.738,
+     "end": 274.042
+    },
+    {
+     "w": "poser",
+     "start": 274.042,
+     "end": 274.535
+    },
+    {
+     "w": "la",
+     "start": 274.535,
+     "end": 274.838
+    },
+    {
+     "w": "question",
+     "start": 274.838,
+     "end": 275.521
+    },
+    {
+     "w": "dans",
+     "start": 275.521,
+     "end": 275.825
+    },
+    {
+     "w": "l’autre",
+     "start": 275.825,
+     "end": 276.128
+    },
+    {
+     "w": "sens",
+     "start": 276.128,
+     "end": 276.432
+    }
+   ]
+  },
+  {
+   "id": "s062",
+   "text": "Walter a fini par abandonner cet argument.",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 276.732,
+   "end": 279.994,
+   "words": [
+    {
+     "w": "Walter",
+     "start": 276.732,
+     "end": 277.225
+    },
+    {
+     "w": "a",
+     "start": 277.225,
+     "end": 277.528
+    },
+    {
+     "w": "fini",
+     "start": 277.528,
+     "end": 278.021
+    },
+    {
+     "w": "par",
+     "start": 278.021,
+     "end": 278.325
+    },
+    {
+     "w": "abandonner",
+     "start": 278.325,
+     "end": 279.197
+    },
+    {
+     "w": "cet",
+     "start": 279.197,
+     "end": 279.501
+    },
+    {
+     "w": "argument",
+     "start": 279.501,
+     "end": 279.994
+    }
+   ]
+  },
+  {
+   "id": "s063",
+   "text": "Qu’est-ce qui nous donnait encore envie de le plaider ?",
+   "chapter": 1,
+   "paragraph": 13,
+   "start": 280.294,
+   "end": 283.784,
+   "words": [
+    {
+     "w": "Qu’est-ce",
+     "start": 280.294,
+     "end": 280.597
+    },
+    {
+     "w": "qui",
+     "start": 280.597,
+     "end": 280.901
+    },
+    {
+     "w": "nous",
+     "start": 280.901,
+     "end": 281.204
+    },
+    {
+     "w": "donnait",
+     "start": 281.204,
+     "end": 281.697
+    },
+    {
+     "w": "encore",
+     "start": 281.697,
+     "end": 282.191
+    },
+    {
+     "w": "envie",
+     "start": 282.191,
+     "end": 282.684
+    },
+    {
+     "w": "de",
+     "start": 282.684,
+     "end": 282.987
+    },
+    {
+     "w": "le",
+     "start": 282.987,
+     "end": 283.291
+    },
+    {
+     "w": "plaider",
+     "start": 283.291,
+     "end": 283.784
+    }
+   ]
+  },
+  {
+   "id": "s064",
+   "text": "Avec Eren, on a presque un souvenir d’enfance en commun.",
+   "chapter": 2,
+   "paragraph": 14,
+   "start": 286.784,
+   "end": 291.246,
+   "words": [
+    {
+     "w": "Avec",
+     "start": 286.784,
+     "end": 287.277
+    },
+    {
+     "w": "Eren",
+     "start": 287.277,
+     "end": 287.77
+    },
+    {
+     "w": "on",
+     "start": 287.87,
+     "end": 288.173
+    },
+    {
+     "w": "a",
+     "start": 288.173,
+     "end": 288.477
+    },
+    {
+     "w": "presque",
+     "start": 288.477,
+     "end": 288.97
+    },
+    {
+     "w": "un",
+     "start": 288.97,
+     "end": 289.274
+    },
+    {
+     "w": "souvenir",
+     "start": 289.274,
+     "end": 289.956
+    },
+    {
+     "w": "d’enfance",
+     "start": 289.956,
+     "end": 290.449
+    },
+    {
+     "w": "en",
+     "start": 290.449,
+     "end": 290.753
+    },
+    {
+     "w": "commun",
+     "start": 290.753,
+     "end": 291.246
+    }
+   ]
+  },
+  {
+   "id": "s065",
+   "text": "On était là quand Armin a ouvert le livre.",
+   "chapter": 2,
+   "paragraph": 14,
+   "start": 291.546,
+   "end": 295.036,
+   "words": [
+    {
+     "w": "On",
+     "start": 291.546,
+     "end": 291.849
+    },
+    {
+     "w": "était",
+     "start": 291.849,
+     "end": 292.343
+    },
+    {
+     "w": "là",
+     "start": 292.343,
+     "end": 292.646
+    },
+    {
+     "w": "quand",
+     "start": 292.646,
+     "end": 293.139
+    },
+    {
+     "w": "Armin",
+     "start": 293.139,
+     "end": 293.632
+    },
+    {
+     "w": "a",
+     "start": 293.632,
+     "end": 293.936
+    },
+    {
+     "w": "ouvert",
+     "start": 293.936,
+     "end": 294.429
+    },
+    {
+     "w": "le",
+     "start": 294.429,
+     "end": 294.732
+    },
+    {
+     "w": "livre",
+     "start": 294.732,
+     "end": 295.036
+    }
+   ]
+  },
+  {
+   "id": "s066",
+   "text": "On était là quand Eren a vu sa mère mourir.",
+   "chapter": 2,
+   "paragraph": 14,
+   "start": 295.336,
+   "end": 299.129,
+   "words": [
+    {
+     "w": "On",
+     "start": 295.336,
+     "end": 295.639
+    },
+    {
+     "w": "était",
+     "start": 295.639,
+     "end": 296.132
+    },
+    {
+     "w": "là",
+     "start": 296.132,
+     "end": 296.436
+    },
+    {
+     "w": "quand",
+     "start": 296.436,
+     "end": 296.929
+    },
+    {
+     "w": "Eren",
+     "start": 296.929,
+     "end": 297.422
+    },
+    {
+     "w": "a",
+     "start": 297.422,
+     "end": 297.726
+    },
+    {
+     "w": "vu",
+     "start": 297.726,
+     "end": 298.029
+    },
+    {
+     "w": "sa",
+     "start": 298.029,
+     "end": 298.333
+    },
+    {
+     "w": "mère",
+     "start": 298.333,
+     "end": 298.636
+    },
+    {
+     "w": "mourir",
+     "start": 298.636,
+     "end": 299.129
+    }
+   ]
+  },
+  {
+   "id": "s067",
+   "text": "Et bien plus tard, quand Eren adulte apparaît dans un sous-sol face à Reiner, on reconnaît derrière ses cheveux longs le gamin à qui tout ça est arrivé.",
+   "chapter": 2,
+   "paragraph": 14,
+   "start": 299.429,
+   "end": 310.971,
+   "words": [
+    {
+     "w": "Et",
+     "start": 299.429,
+     "end": 299.733
+    },
+    {
+     "w": "bien",
+     "start": 299.733,
+     "end": 300.036
+    },
+    {
+     "w": "plus",
+     "start": 300.036,
+     "end": 300.34
+    },
+    {
+     "w": "tard",
+     "start": 300.34,
+     "end": 300.643
+    },
+    {
+     "w": "quand",
+     "start": 300.743,
+     "end": 301.236
+    },
+    {
+     "w": "Eren",
+     "start": 301.236,
+     "end": 301.729
+    },
+    {
+     "w": "adulte",
+     "start": 301.729,
+     "end": 302.222
+    },
+    {
+     "w": "apparaît",
+     "start": 302.222,
+     "end": 302.905
+    },
+    {
+     "w": "dans",
+     "start": 302.905,
+     "end": 303.209
+    },
+    {
+     "w": "un",
+     "start": 303.209,
+     "end": 303.512
+    },
+    {
+     "w": "sous-sol",
+     "start": 303.512,
+     "end": 304.005
+    },
+    {
+     "w": "face",
+     "start": 304.005,
+     "end": 304.309
+    },
+    {
+     "w": "à",
+     "start": 304.309,
+     "end": 304.612
+    },
+    {
+     "w": "Reiner",
+     "start": 304.612,
+     "end": 305.105
+    },
+    {
+     "w": "on",
+     "start": 305.205,
+     "end": 305.509
+    },
+    {
+     "w": "reconnaît",
+     "start": 305.509,
+     "end": 306.192
+    },
+    {
+     "w": "derrière",
+     "start": 306.192,
+     "end": 306.874
+    },
+    {
+     "w": "ses",
+     "start": 306.874,
+     "end": 307.178
+    },
+    {
+     "w": "cheveux",
+     "start": 307.178,
+     "end": 307.671
+    },
+    {
+     "w": "longs",
+     "start": 307.671,
+     "end": 307.974
+    },
+    {
+     "w": "le",
+     "start": 307.974,
+     "end": 308.278
+    },
+    {
+     "w": "gamin",
+     "start": 308.278,
+     "end": 308.771
+    },
+    {
+     "w": "à",
+     "start": 308.771,
+     "end": 309.075
+    },
+    {
+     "w": "qui",
+     "start": 309.075,
+     "end": 309.378
+    },
+    {
+     "w": "tout",
+     "start": 309.378,
+     "end": 309.681
+    },
+    {
+     "w": "ça",
+     "start": 309.681,
+     "end": 309.985
+    },
+    {
+     "w": "est",
+     "start": 309.985,
+     "end": 310.288
+    },
+    {
+     "w": "arrivé",
+     "start": 310.288,
+     "end": 310.971
+    }
+   ]
+  },
+  {
+   "id": "s068",
+   "text": "Reiner, lui, vient à peine de comprendre qui est assis en face de lui.",
+   "chapter": 2,
+   "paragraph": 14,
+   "start": 311.271,
+   "end": 316.289,
+   "words": [
+    {
+     "w": "Reiner",
+     "start": 311.271,
+     "end": 311.764
+    },
+    {
+     "w": "lui",
+     "start": 311.864,
+     "end": 312.168
+    },
+    {
+     "w": "vient",
+     "start": 312.268,
+     "end": 312.571
+    },
+    {
+     "w": "à",
+     "start": 312.571,
+     "end": 312.875
+    },
+    {
+     "w": "peine",
+     "start": 312.875,
+     "end": 313.178
+    },
+    {
+     "w": "de",
+     "start": 313.178,
+     "end": 313.482
+    },
+    {
+     "w": "comprendre",
+     "start": 313.482,
+     "end": 313.975
+    },
+    {
+     "w": "qui",
+     "start": 313.975,
+     "end": 314.278
+    },
+    {
+     "w": "est",
+     "start": 314.278,
+     "end": 314.582
+    },
+    {
+     "w": "assis",
+     "start": 314.582,
+     "end": 315.075
+    },
+    {
+     "w": "en",
+     "start": 315.075,
+     "end": 315.378
+    },
+    {
+     "w": "face",
+     "start": 315.378,
+     "end": 315.682
+    },
+    {
+     "w": "de",
+     "start": 315.682,
+     "end": 315.985
+    },
+    {
+     "w": "lui",
+     "start": 315.985,
+     "end": 316.289
+    }
+   ]
+  },
+  {
+   "id": "s069",
+   "text": "Le chercheur Jonathan Cohen décrit l’identification comme un moment où l’on adopte le point de vue d’un personnage, où l’on partage quelque chose de ses émotions ou de ses buts.",
+   "chapter": 2,
+   "paragraph": 15,
+   "start": 316.889,
+   "end": 329.696,
+   "words": [
+    {
+     "w": "Le",
+     "start": 316.889,
+     "end": 317.192
+    },
+    {
+     "w": "chercheur",
+     "start": 317.192,
+     "end": 317.685
+    },
+    {
+     "w": "Jonathan",
+     "start": 317.685,
+     "end": 318.368
+    },
+    {
+     "w": "Cohen",
+     "start": 318.368,
+     "end": 318.861
+    },
+    {
+     "w": "décrit",
+     "start": 318.861,
+     "end": 319.354
+    },
+    {
+     "w": "l’identification",
+     "start": 319.354,
+     "end": 320.796
+    },
+    {
+     "w": "comme",
+     "start": 320.796,
+     "end": 321.099
+    },
+    {
+     "w": "un",
+     "start": 321.099,
+     "end": 321.403
+    },
+    {
+     "w": "moment",
+     "start": 321.403,
+     "end": 321.706
+    },
+    {
+     "w": "où",
+     "start": 321.706,
+     "end": 322.01
+    },
+    {
+     "w": "l’on",
+     "start": 322.01,
+     "end": 322.313
+    },
+    {
+     "w": "adopte",
+     "start": 322.313,
+     "end": 322.806
+    },
+    {
+     "w": "le",
+     "start": 322.806,
+     "end": 323.11
+    },
+    {
+     "w": "point",
+     "start": 323.11,
+     "end": 323.413
+    },
+    {
+     "w": "de",
+     "start": 323.413,
+     "end": 323.717
+    },
+    {
+     "w": "vue",
+     "start": 323.717,
+     "end": 324.02
+    },
+    {
+     "w": "d’un",
+     "start": 324.02,
+     "end": 324.324
+    },
+    {
+     "w": "personnage",
+     "start": 324.324,
+     "end": 325.006
+    },
+    {
+     "w": "où",
+     "start": 325.106,
+     "end": 325.41
+    },
+    {
+     "w": "l’on",
+     "start": 325.41,
+     "end": 325.713
+    },
+    {
+     "w": "partage",
+     "start": 325.713,
+     "end": 326.206
+    },
+    {
+     "w": "quelque",
+     "start": 326.206,
+     "end": 326.7
+    },
+    {
+     "w": "chose",
+     "start": 326.7,
+     "end": 327.003
+    },
+    {
+     "w": "de",
+     "start": 327.003,
+     "end": 327.306
+    },
+    {
+     "w": "ses",
+     "start": 327.306,
+     "end": 327.61
+    },
+    {
+     "w": "émotions",
+     "start": 327.61,
+     "end": 328.482
+    },
+    {
+     "w": "ou",
+     "start": 328.482,
+     "end": 328.786
+    },
+    {
+     "w": "de",
+     "start": 328.786,
+     "end": 329.089
+    },
+    {
+     "w": "ses",
+     "start": 329.089,
+     "end": 329.393
+    },
+    {
+     "w": "buts",
+     "start": 329.393,
+     "end": 329.696
+    }
+   ]
+  },
+  {
+   "id": "s070",
+   "text": "Reprends le livre d’Armin.",
+   "chapter": 2,
+   "paragraph": 15,
+   "start": 329.996,
+   "end": 331.589,
+   "words": [
+    {
+     "w": "Reprends",
+     "start": 329.996,
+     "end": 330.489
+    },
+    {
+     "w": "le",
+     "start": 330.489,
+     "end": 330.793
+    },
+    {
+     "w": "livre",
+     "start": 330.793,
+     "end": 331.096
+    },
+    {
+     "w": "d’Armin",
+     "start": 331.096,
+     "end": 331.589
+    }
+   ]
+  },
+  {
+   "id": "s071",
+   "text": "Est-ce que tu t’es seulement demandé, à cet instant, si Eren t’était sympathique ?",
+   "chapter": 2,
+   "paragraph": 15,
+   "start": 331.889,
+   "end": 337.741,
+   "words": [
+    {
+     "w": "Est-ce",
+     "start": 331.889,
+     "end": 332.193
+    },
+    {
+     "w": "que",
+     "start": 332.193,
+     "end": 332.496
+    },
+    {
+     "w": "tu",
+     "start": 332.496,
+     "end": 332.8
+    },
+    {
+     "w": "t’es",
+     "start": 332.8,
+     "end": 333.103
+    },
+    {
+     "w": "seulement",
+     "start": 333.103,
+     "end": 333.596
+    },
+    {
+     "w": "demandé",
+     "start": 333.596,
+     "end": 334.279
+    },
+    {
+     "w": "à",
+     "start": 334.379,
+     "end": 334.683
+    },
+    {
+     "w": "cet",
+     "start": 334.683,
+     "end": 334.986
+    },
+    {
+     "w": "instant",
+     "start": 334.986,
+     "end": 335.479
+    },
+    {
+     "w": "si",
+     "start": 335.579,
+     "end": 335.883
+    },
+    {
+     "w": "Eren",
+     "start": 335.883,
+     "end": 336.376
+    },
+    {
+     "w": "t’était",
+     "start": 336.376,
+     "end": 336.869
+    },
+    {
+     "w": "sympathique",
+     "start": 336.869,
+     "end": 337.741
+    }
+   ]
+  },
+  {
+   "id": "s072",
+   "text": "Moi, ce que je voulais savoir, c’était ce qu’il y avait de l’autre côté du mur.",
+   "chapter": 2,
+   "paragraph": 15,
+   "start": 338.041,
+   "end": 344.045,
+   "words": [
+    {
+     "w": "Moi",
+     "start": 338.041,
+     "end": 338.345
+    },
+    {
+     "w": "ce",
+     "start": 338.445,
+     "end": 338.748
+    },
+    {
+     "w": "que",
+     "start": 338.748,
+     "end": 339.052
+    },
+    {
+     "w": "je",
+     "start": 339.052,
+     "end": 339.355
+    },
+    {
+     "w": "voulais",
+     "start": 339.355,
+     "end": 339.848
+    },
+    {
+     "w": "savoir",
+     "start": 339.848,
+     "end": 340.342
+    },
+    {
+     "w": "c’était",
+     "start": 340.442,
+     "end": 340.935
+    },
+    {
+     "w": "ce",
+     "start": 340.935,
+     "end": 341.238
+    },
+    {
+     "w": "qu’il",
+     "start": 341.238,
+     "end": 341.542
+    },
+    {
+     "w": "y",
+     "start": 341.542,
+     "end": 341.845
+    },
+    {
+     "w": "avait",
+     "start": 341.845,
+     "end": 342.338
+    },
+    {
+     "w": "de",
+     "start": 342.338,
+     "end": 342.642
+    },
+    {
+     "w": "l’autre",
+     "start": 342.642,
+     "end": 342.945
+    },
+    {
+     "w": "côté",
+     "start": 342.945,
+     "end": 343.438
+    },
+    {
+     "w": "du",
+     "start": 343.438,
+     "end": 343.742
+    },
+    {
+     "w": "mur",
+     "start": 343.742,
+     "end": 344.045
+    }
+   ]
+  },
+  {
+   "id": "s073",
+   "text": "Pendant quelques secondes, sa question était devenue la mienne.",
+   "chapter": 2,
+   "paragraph": 15,
+   "start": 344.345,
+   "end": 348.694,
+   "words": [
+    {
+     "w": "Pendant",
+     "start": 344.345,
+     "end": 344.838
+    },
+    {
+     "w": "quelques",
+     "start": 344.838,
+     "end": 345.331
+    },
+    {
+     "w": "secondes",
+     "start": 345.331,
+     "end": 345.825
+    },
+    {
+     "w": "sa",
+     "start": 345.925,
+     "end": 346.228
+    },
+    {
+     "w": "question",
+     "start": 346.228,
+     "end": 346.911
+    },
+    {
+     "w": "était",
+     "start": 346.911,
+     "end": 347.404
+    },
+    {
+     "w": "devenue",
+     "start": 347.404,
+     "end": 348.087
+    },
+    {
+     "w": "la",
+     "start": 348.087,
+     "end": 348.39
+    },
+    {
+     "w": "mienne",
+     "start": 348.39,
+     "end": 348.694
+    }
+   ]
+  },
+  {
+   "id": "s074",
+   "text": "Et puis il y a l’affection qu’on lui porte déjà.",
+   "chapter": 2,
+   "paragraph": 16,
+   "start": 349.694,
+   "end": 353.487,
+   "words": [
+    {
+     "w": "Et",
+     "start": 349.694,
+     "end": 349.997
+    },
+    {
+     "w": "puis",
+     "start": 349.997,
+     "end": 350.301
+    },
+    {
+     "w": "il",
+     "start": 350.301,
+     "end": 350.604
+    },
+    {
+     "w": "y",
+     "start": 350.604,
+     "end": 350.908
+    },
+    {
+     "w": "a",
+     "start": 350.908,
+     "end": 351.211
+    },
+    {
+     "w": "l’affection",
+     "start": 351.211,
+     "end": 352.083
+    },
+    {
+     "w": "qu’on",
+     "start": 352.083,
+     "end": 352.387
+    },
+    {
+     "w": "lui",
+     "start": 352.387,
+     "end": 352.69
+    },
+    {
+     "w": "porte",
+     "start": 352.69,
+     "end": 352.994
+    },
+    {
+     "w": "déjà",
+     "start": 352.994,
+     "end": 353.487
+    }
+   ]
+  },
+  {
+   "id": "s075",
+   "text": "Dans ses travaux sur la disposition affective, Arthur Raney propose que les sentiments qu’on a formés envers un personnage puissent peser sur la manière dont on juge ses actes par la suite.",
+   "chapter": 2,
+   "paragraph": 16,
+   "start": 353.787,
+   "end": 367.202,
+   "words": [
+    {
+     "w": "Dans",
+     "start": 353.787,
+     "end": 354.09
+    },
+    {
+     "w": "ses",
+     "start": 354.09,
+     "end": 354.394
+    },
+    {
+     "w": "travaux",
+     "start": 354.394,
+     "end": 354.887
+    },
+    {
+     "w": "sur",
+     "start": 354.887,
+     "end": 355.191
+    },
+    {
+     "w": "la",
+     "start": 355.191,
+     "end": 355.494
+    },
+    {
+     "w": "disposition",
+     "start": 355.494,
+     "end": 356.556
+    },
+    {
+     "w": "affective",
+     "start": 356.556,
+     "end": 357.239
+    },
+    {
+     "w": "Arthur",
+     "start": 357.339,
+     "end": 357.832
+    },
+    {
+     "w": "Raney",
+     "start": 357.832,
+     "end": 358.325
+    },
+    {
+     "w": "propose",
+     "start": 358.325,
+     "end": 358.818
+    },
+    {
+     "w": "que",
+     "start": 358.818,
+     "end": 359.122
+    },
+    {
+     "w": "les",
+     "start": 359.122,
+     "end": 359.425
+    },
+    {
+     "w": "sentiments",
+     "start": 359.425,
+     "end": 360.108
+    },
+    {
+     "w": "qu’on",
+     "start": 360.108,
+     "end": 360.411
+    },
+    {
+     "w": "a",
+     "start": 360.411,
+     "end": 360.715
+    },
+    {
+     "w": "formés",
+     "start": 360.715,
+     "end": 361.208
+    },
+    {
+     "w": "envers",
+     "start": 361.208,
+     "end": 361.701
+    },
+    {
+     "w": "un",
+     "start": 361.701,
+     "end": 362.005
+    },
+    {
+     "w": "personnage",
+     "start": 362.005,
+     "end": 362.687
+    },
+    {
+     "w": "puissent",
+     "start": 362.687,
+     "end": 362.991
+    },
+    {
+     "w": "peser",
+     "start": 362.991,
+     "end": 363.484
+    },
+    {
+     "w": "sur",
+     "start": 363.484,
+     "end": 363.788
+    },
+    {
+     "w": "la",
+     "start": 363.788,
+     "end": 364.091
+    },
+    {
+     "w": "manière",
+     "start": 364.091,
+     "end": 364.774
+    },
+    {
+     "w": "dont",
+     "start": 364.774,
+     "end": 365.077
+    },
+    {
+     "w": "on",
+     "start": 365.077,
+     "end": 365.381
+    },
+    {
+     "w": "juge",
+     "start": 365.381,
+     "end": 365.684
+    },
+    {
+     "w": "ses",
+     "start": 365.684,
+     "end": 365.988
+    },
+    {
+     "w": "actes",
+     "start": 365.988,
+     "end": 366.291
+    },
+    {
+     "w": "par",
+     "start": 366.291,
+     "end": 366.595
+    },
+    {
+     "w": "la",
+     "start": 366.595,
+     "end": 366.898
+    },
+    {
+     "w": "suite",
+     "start": 366.898,
+     "end": 367.202
+    }
+   ]
+  },
+  {
+   "id": "s076",
+   "text": "Quand un inconnu entre dans une pièce en faisant peur à tout le monde, tu peux très vite souhaiter que quelqu’un l’arrête.",
+   "chapter": 2,
+   "paragraph": 16,
+   "start": 367.502,
+   "end": 376.174,
+   "words": [
+    {
+     "w": "Quand",
+     "start": 367.502,
+     "end": 367.995
+    },
+    {
+     "w": "un",
+     "start": 367.995,
+     "end": 368.298
+    },
+    {
+     "w": "inconnu",
+     "start": 368.298,
+     "end": 368.981
+    },
+    {
+     "w": "entre",
+     "start": 368.981,
+     "end": 369.284
+    },
+    {
+     "w": "dans",
+     "start": 369.284,
+     "end": 369.588
+    },
+    {
+     "w": "une",
+     "start": 369.588,
+     "end": 369.891
+    },
+    {
+     "w": "pièce",
+     "start": 369.891,
+     "end": 370.384
+    },
+    {
+     "w": "en",
+     "start": 370.384,
+     "end": 370.688
+    },
+    {
+     "w": "faisant",
+     "start": 370.688,
+     "end": 371.181
+    },
+    {
+     "w": "peur",
+     "start": 371.181,
+     "end": 371.484
+    },
+    {
+     "w": "à",
+     "start": 371.484,
+     "end": 371.788
+    },
+    {
+     "w": "tout",
+     "start": 371.788,
+     "end": 372.091
+    },
+    {
+     "w": "le",
+     "start": 372.091,
+     "end": 372.395
+    },
+    {
+     "w": "monde",
+     "start": 372.395,
+     "end": 372.698
+    },
+    {
+     "w": "tu",
+     "start": 372.798,
+     "end": 373.102
+    },
+    {
+     "w": "peux",
+     "start": 373.102,
+     "end": 373.405
+    },
+    {
+     "w": "très",
+     "start": 373.405,
+     "end": 373.709
+    },
+    {
+     "w": "vite",
+     "start": 373.709,
+     "end": 374.012
+    },
+    {
+     "w": "souhaiter",
+     "start": 374.012,
+     "end": 374.695
+    },
+    {
+     "w": "que",
+     "start": 374.695,
+     "end": 374.998
+    },
+    {
+     "w": "quelqu’un",
+     "start": 374.998,
+     "end": 375.681
+    },
+    {
+     "w": "l’arrête",
+     "start": 375.681,
+     "end": 376.174
+    }
+   ]
+  },
+  {
+   "id": "s077",
+   "text": "Quand c’est Eren, tu voudras peut-être d’abord entendre ce qu’il a à dire.",
+   "chapter": 2,
+   "paragraph": 16,
+   "start": 376.474,
+   "end": 381.657,
+   "words": [
+    {
+     "w": "Quand",
+     "start": 376.474,
+     "end": 376.968
+    },
+    {
+     "w": "c’est",
+     "start": 376.968,
+     "end": 377.271
+    },
+    {
+     "w": "Eren",
+     "start": 377.271,
+     "end": 377.764
+    },
+    {
+     "w": "tu",
+     "start": 377.864,
+     "end": 378.168
+    },
+    {
+     "w": "voudras",
+     "start": 378.168,
+     "end": 378.661
+    },
+    {
+     "w": "peut-être",
+     "start": 378.661,
+     "end": 379.154
+    },
+    {
+     "w": "d’abord",
+     "start": 379.154,
+     "end": 379.647
+    },
+    {
+     "w": "entendre",
+     "start": 379.647,
+     "end": 380.14
+    },
+    {
+     "w": "ce",
+     "start": 380.14,
+     "end": 380.444
+    },
+    {
+     "w": "qu’il",
+     "start": 380.444,
+     "end": 380.747
+    },
+    {
+     "w": "a",
+     "start": 380.747,
+     "end": 381.05
+    },
+    {
+     "w": "à",
+     "start": 381.05,
+     "end": 381.354
+    },
+    {
+     "w": "dire",
+     "start": 381.354,
+     "end": 381.657
+    }
+   ]
+  },
+  {
+   "id": "s078",
+   "text": "Tu lui accordes le temps de s’expliquer.",
+   "chapter": 2,
+   "paragraph": 16,
+   "start": 381.957,
+   "end": 384.651,
+   "words": [
+    {
+     "w": "Tu",
+     "start": 381.957,
+     "end": 382.261
+    },
+    {
+     "w": "lui",
+     "start": 382.261,
+     "end": 382.564
+    },
+    {
+     "w": "accordes",
+     "start": 382.564,
+     "end": 383.057
+    },
+    {
+     "w": "le",
+     "start": 383.057,
+     "end": 383.361
+    },
+    {
+     "w": "temps",
+     "start": 383.361,
+     "end": 383.664
+    },
+    {
+     "w": "de",
+     "start": 383.664,
+     "end": 383.968
+    },
+    {
+     "w": "s’expliquer",
+     "start": 383.968,
+     "end": 384.651
+    }
+   ]
+  },
+  {
+   "id": "s079",
+   "text": "Reviens maintenant à Ramzi.",
+   "chapter": 2,
+   "paragraph": 17,
+   "start": 385.251,
+   "end": 387.223,
+   "words": [
+    {
+     "w": "Reviens",
+     "start": 385.251,
+     "end": 385.744
+    },
+    {
+     "w": "maintenant",
+     "start": 385.744,
+     "end": 386.427
+    },
+    {
+     "w": "à",
+     "start": 386.427,
+     "end": 386.73
+    },
+    {
+     "w": "Ramzi",
+     "start": 386.73,
+     "end": 387.223
+    }
+   ]
+  },
+  {
+   "id": "s080",
+   "text": "Lui aussi a quelqu’un à protéger.",
+   "chapter": 2,
+   "paragraph": 17,
+   "start": 387.523,
+   "end": 390.292,
+   "words": [
+    {
+     "w": "Lui",
+     "start": 387.523,
+     "end": 387.827
+    },
+    {
+     "w": "aussi",
+     "start": 387.827,
+     "end": 388.32
+    },
+    {
+     "w": "a",
+     "start": 388.32,
+     "end": 388.623
+    },
+    {
+     "w": "quelqu’un",
+     "start": 388.623,
+     "end": 389.306
+    },
+    {
+     "w": "à",
+     "start": 389.306,
+     "end": 389.609
+    },
+    {
+     "w": "protéger",
+     "start": 389.609,
+     "end": 390.292
+    }
+   ]
+  },
+  {
+   "id": "s081",
+   "text": "Halil court à côté de lui.",
+   "chapter": 2,
+   "paragraph": 17,
+   "start": 390.592,
+   "end": 392.792,
+   "words": [
+    {
+     "w": "Halil",
+     "start": 390.592,
+     "end": 391.085
+    },
+    {
+     "w": "court",
+     "start": 391.085,
+     "end": 391.389
+    },
+    {
+     "w": "à",
+     "start": 391.389,
+     "end": 391.692
+    },
+    {
+     "w": "côté",
+     "start": 391.692,
+     "end": 392.185
+    },
+    {
+     "w": "de",
+     "start": 392.185,
+     "end": 392.489
+    },
+    {
+     "w": "lui",
+     "start": 392.489,
+     "end": 392.792
+    }
+   ]
+  },
+  {
+   "id": "s082",
+   "text": "Sauf que nous, ça fait à peine quelques instants qu’on les suit.",
+   "chapter": 2,
+   "paragraph": 17,
+   "start": 393.092,
+   "end": 397.213,
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 393.092,
+     "end": 393.396
+    },
+    {
+     "w": "que",
+     "start": 393.396,
+     "end": 393.699
+    },
+    {
+     "w": "nous",
+     "start": 393.699,
+     "end": 394.003
+    },
+    {
+     "w": "ça",
+     "start": 394.103,
+     "end": 394.406
+    },
+    {
+     "w": "fait",
+     "start": 394.406,
+     "end": 394.71
+    },
+    {
+     "w": "à",
+     "start": 394.71,
+     "end": 395.013
+    },
+    {
+     "w": "peine",
+     "start": 395.013,
+     "end": 395.317
+    },
+    {
+     "w": "quelques",
+     "start": 395.317,
+     "end": 395.81
+    },
+    {
+     "w": "instants",
+     "start": 395.81,
+     "end": 396.303
+    },
+    {
+     "w": "qu’on",
+     "start": 396.303,
+     "end": 396.606
+    },
+    {
+     "w": "les",
+     "start": 396.606,
+     "end": 396.91
+    },
+    {
+     "w": "suit",
+     "start": 396.91,
+     "end": 397.213
+    }
+   ]
+  },
+  {
+   "id": "s083",
+   "text": "Et pour eux, la question qui se pose est toute simple.",
+   "chapter": 2,
+   "paragraph": 17,
+   "start": 397.513,
+   "end": 401.331,
+   "words": [
+    {
+     "w": "Et",
+     "start": 397.513,
+     "end": 397.817
+    },
+    {
+     "w": "pour",
+     "start": 397.817,
+     "end": 398.12
+    },
+    {
+     "w": "eux",
+     "start": 398.12,
+     "end": 398.424
+    },
+    {
+     "w": "la",
+     "start": 398.524,
+     "end": 398.827
+    },
+    {
+     "w": "question",
+     "start": 398.827,
+     "end": 399.51
+    },
+    {
+     "w": "qui",
+     "start": 399.51,
+     "end": 399.813
+    },
+    {
+     "w": "se",
+     "start": 399.813,
+     "end": 400.117
+    },
+    {
+     "w": "pose",
+     "start": 400.117,
+     "end": 400.42
+    },
+    {
+     "w": "est",
+     "start": 400.42,
+     "end": 400.724
+    },
+    {
+     "w": "toute",
+     "start": 400.724,
+     "end": 401.027
+    },
+    {
+     "w": "simple",
+     "start": 401.027,
+     "end": 401.331
+    }
+   ]
+  },
+  {
+   "id": "s084",
+   "text": "Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?",
+   "chapter": 2,
+   "paragraph": 17,
+   "start": 401.631,
+   "end": 406.928,
+   "words": [
+    {
+     "w": "Si",
+     "start": 401.631,
+     "end": 401.934
+    },
+    {
+     "w": "même",
+     "start": 401.934,
+     "end": 402.238
+    },
+    {
+     "w": "la",
+     "start": 402.238,
+     "end": 402.541
+    },
+    {
+     "w": "montagne",
+     "start": 402.541,
+     "end": 403.034
+    },
+    {
+     "w": "n’arrête",
+     "start": 403.034,
+     "end": 403.527
+    },
+    {
+     "w": "pas",
+     "start": 403.527,
+     "end": 403.831
+    },
+    {
+     "w": "les",
+     "start": 403.831,
+     "end": 404.134
+    },
+    {
+     "w": "Titans",
+     "start": 404.134,
+     "end": 404.627
+    },
+    {
+     "w": "où",
+     "start": 404.727,
+     "end": 405.031
+    },
+    {
+     "w": "est-ce",
+     "start": 405.031,
+     "end": 405.334
+    },
+    {
+     "w": "qu’on",
+     "start": 405.334,
+     "end": 405.638
+    },
+    {
+     "w": "est",
+     "start": 405.638,
+     "end": 405.941
+    },
+    {
+     "w": "censé",
+     "start": 405.941,
+     "end": 406.434
+    },
+    {
+     "w": "courir",
+     "start": 406.434,
+     "end": 406.928
+    }
+   ]
+  },
+  {
+   "id": "s085",
+   "text": "C’est là qu’une autre défense mérite qu’on s’y arrête.",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 408.128,
+   "end": 411.428,
+   "words": [
+    {
+     "w": "C’est",
+     "start": 408.128,
+     "end": 408.431
+    },
+    {
+     "w": "là",
+     "start": 408.431,
+     "end": 408.734
+    },
+    {
+     "w": "qu’une",
+     "start": 408.734,
+     "end": 409.038
+    },
+    {
+     "w": "autre",
+     "start": 409.038,
+     "end": 409.341
+    },
+    {
+     "w": "défense",
+     "start": 409.341,
+     "end": 409.835
+    },
+    {
+     "w": "mérite",
+     "start": 409.835,
+     "end": 410.328
+    },
+    {
+     "w": "qu’on",
+     "start": 410.328,
+     "end": 410.631
+    },
+    {
+     "w": "s’y",
+     "start": 410.631,
+     "end": 410.935
+    },
+    {
+     "w": "arrête",
+     "start": 410.935,
+     "end": 411.428
+    }
+   ]
+  },
+  {
+   "id": "s086",
+   "text": "« Oui, mais regarde ce que l’autre camp a fait aux siens. »",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 411.728,
+   "end": 415.545,
+   "words": [
+    {
+     "w": "Oui",
+     "start": 411.728,
+     "end": 412.221
+    },
+    {
+     "w": "mais",
+     "start": 412.321,
+     "end": 412.624
+    },
+    {
+     "w": "regarde",
+     "start": 412.624,
+     "end": 413.117
+    },
+    {
+     "w": "ce",
+     "start": 413.117,
+     "end": 413.421
+    },
+    {
+     "w": "que",
+     "start": 413.421,
+     "end": 413.724
+    },
+    {
+     "w": "l’autre",
+     "start": 413.724,
+     "end": 414.028
+    },
+    {
+     "w": "camp",
+     "start": 414.028,
+     "end": 414.331
+    },
+    {
+     "w": "a",
+     "start": 414.331,
+     "end": 414.635
+    },
+    {
+     "w": "fait",
+     "start": 414.635,
+     "end": 414.938
+    },
+    {
+     "w": "aux",
+     "start": 414.938,
+     "end": 415.242
+    },
+    {
+     "w": "siens",
+     "start": 415.242,
+     "end": 415.545
+    }
+   ]
+  },
+  {
+   "id": "s087",
+   "text": "Bandura parle de comparaison avantageuse quand on rend un acte plus acceptable en le rapprochant d’un autre qu’on juge pire.",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 415.845,
+   "end": 424.38,
+   "words": [
+    {
+     "w": "Bandura",
+     "start": 415.845,
+     "end": 416.528
+    },
+    {
+     "w": "parle",
+     "start": 416.528,
+     "end": 416.831
+    },
+    {
+     "w": "de",
+     "start": 416.831,
+     "end": 417.135
+    },
+    {
+     "w": "comparaison",
+     "start": 417.135,
+     "end": 418.007
+    },
+    {
+     "w": "avantageuse",
+     "start": 418.007,
+     "end": 418.88
+    },
+    {
+     "w": "quand",
+     "start": 418.88,
+     "end": 419.373
+    },
+    {
+     "w": "on",
+     "start": 419.373,
+     "end": 419.676
+    },
+    {
+     "w": "rend",
+     "start": 419.676,
+     "end": 419.98
+    },
+    {
+     "w": "un",
+     "start": 419.98,
+     "end": 420.283
+    },
+    {
+     "w": "acte",
+     "start": 420.283,
+     "end": 420.587
+    },
+    {
+     "w": "plus",
+     "start": 420.587,
+     "end": 420.89
+    },
+    {
+     "w": "acceptable",
+     "start": 420.89,
+     "end": 421.573
+    },
+    {
+     "w": "en",
+     "start": 421.573,
+     "end": 421.877
+    },
+    {
+     "w": "le",
+     "start": 421.877,
+     "end": 422.18
+    },
+    {
+     "w": "rapprochant",
+     "start": 422.18,
+     "end": 422.863
+    },
+    {
+     "w": "d’un",
+     "start": 422.863,
+     "end": 423.166
+    },
+    {
+     "w": "autre",
+     "start": 423.166,
+     "end": 423.47
+    },
+    {
+     "w": "qu’on",
+     "start": 423.47,
+     "end": 423.773
+    },
+    {
+     "w": "juge",
+     "start": 423.773,
+     "end": 424.077
+    },
+    {
+     "w": "pire",
+     "start": 424.077,
+     "end": 424.38
+    }
+   ]
+  },
+  {
+   "id": "s088",
+   "text": "Comparer les responsabilités peut être indispensable pour comprendre une guerre.",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 424.68,
+   "end": 429.801,
+   "words": [
+    {
+     "w": "Comparer",
+     "start": 424.68,
+     "end": 425.363
+    },
+    {
+     "w": "les",
+     "start": 425.363,
+     "end": 425.666
+    },
+    {
+     "w": "responsabilités",
+     "start": 425.666,
+     "end": 426.918
+    },
+    {
+     "w": "peut",
+     "start": 426.918,
+     "end": 427.222
+    },
+    {
+     "w": "être",
+     "start": 427.222,
+     "end": 427.525
+    },
+    {
+     "w": "indispensable",
+     "start": 427.525,
+     "end": 428.398
+    },
+    {
+     "w": "pour",
+     "start": 428.398,
+     "end": 428.701
+    },
+    {
+     "w": "comprendre",
+     "start": 428.701,
+     "end": 429.194
+    },
+    {
+     "w": "une",
+     "start": 429.194,
+     "end": 429.498
+    },
+    {
+     "w": "guerre",
+     "start": 429.498,
+     "end": 429.801
+    }
+   ]
+  },
+  {
+   "id": "s089",
+   "text": "Mais écoute ce qui vient d’arriver à Ramzi dans notre conversation.",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 430.101,
+   "end": 434.957,
+   "words": [
+    {
+     "w": "Mais",
+     "start": 430.101,
+     "end": 430.405
+    },
+    {
+     "w": "écoute",
+     "start": 430.405,
+     "end": 430.898
+    },
+    {
+     "w": "ce",
+     "start": 430.898,
+     "end": 431.201
+    },
+    {
+     "w": "qui",
+     "start": 431.201,
+     "end": 431.505
+    },
+    {
+     "w": "vient",
+     "start": 431.505,
+     "end": 431.808
+    },
+    {
+     "w": "d’arriver",
+     "start": 431.808,
+     "end": 432.491
+    },
+    {
+     "w": "à",
+     "start": 432.491,
+     "end": 432.794
+    },
+    {
+     "w": "Ramzi",
+     "start": 432.794,
+     "end": 433.287
+    },
+    {
+     "w": "dans",
+     "start": 433.287,
+     "end": 433.591
+    },
+    {
+     "w": "notre",
+     "start": 433.591,
+     "end": 433.894
+    },
+    {
+     "w": "conversation",
+     "start": 433.894,
+     "end": 434.957
+    }
+   ]
+  },
+  {
+   "id": "s090",
+   "text": "Il était devant nous une seconde plus tôt.",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 435.257,
+   "end": 438.253,
+   "words": [
+    {
+     "w": "Il",
+     "start": 435.257,
+     "end": 435.56
+    },
+    {
+     "w": "était",
+     "start": 435.56,
+     "end": 436.053
+    },
+    {
+     "w": "devant",
+     "start": 436.053,
+     "end": 436.546
+    },
+    {
+     "w": "nous",
+     "start": 436.546,
+     "end": 436.85
+    },
+    {
+     "w": "une",
+     "start": 436.85,
+     "end": 437.153
+    },
+    {
+     "w": "seconde",
+     "start": 437.153,
+     "end": 437.646
+    },
+    {
+     "w": "plus",
+     "start": 437.646,
+     "end": 437.95
+    },
+    {
+     "w": "tôt",
+     "start": 437.95,
+     "end": 438.253
+    }
+   ]
+  },
+  {
+   "id": "s091",
+   "text": "Maintenant, on est en train de dresser la liste des crimes d’autres personnes.",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 438.553,
+   "end": 443.357,
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 438.553,
+     "end": 439.236
+    },
+    {
+     "w": "on",
+     "start": 439.336,
+     "end": 439.639
+    },
+    {
+     "w": "est",
+     "start": 439.639,
+     "end": 439.943
+    },
+    {
+     "w": "en",
+     "start": 439.943,
+     "end": 440.246
+    },
+    {
+     "w": "train",
+     "start": 440.246,
+     "end": 440.55
+    },
+    {
+     "w": "de",
+     "start": 440.55,
+     "end": 440.853
+    },
+    {
+     "w": "dresser",
+     "start": 440.853,
+     "end": 441.346
+    },
+    {
+     "w": "la",
+     "start": 441.346,
+     "end": 441.65
+    },
+    {
+     "w": "liste",
+     "start": 441.65,
+     "end": 441.953
+    },
+    {
+     "w": "des",
+     "start": 441.953,
+     "end": 442.257
+    },
+    {
+     "w": "crimes",
+     "start": 442.257,
+     "end": 442.56
+    },
+    {
+     "w": "d’autres",
+     "start": 442.56,
+     "end": 442.864
+    },
+    {
+     "w": "personnes",
+     "start": 442.864,
+     "end": 443.357
+    }
+   ]
+  },
+  {
+   "id": "s092",
+   "text": "Qu’a fait cet enfant pour se retrouver du côté des accusés ?",
+   "chapter": 2,
+   "paragraph": 18,
+   "start": 443.657,
+   "end": 448.133,
+   "words": [
+    {
+     "w": "Qu’a",
+     "start": 443.657,
+     "end": 443.96
+    },
+    {
+     "w": "fait",
+     "start": 443.96,
+     "end": 444.264
+    },
+    {
+     "w": "cet",
+     "start": 444.264,
+     "end": 444.567
+    },
+    {
+     "w": "enfant",
+     "start": 444.567,
+     "end": 445.06
+    },
+    {
+     "w": "pour",
+     "start": 445.06,
+     "end": 445.364
+    },
+    {
+     "w": "se",
+     "start": 445.364,
+     "end": 445.667
+    },
+    {
+     "w": "retrouver",
+     "start": 445.667,
+     "end": 446.35
+    },
+    {
+     "w": "du",
+     "start": 446.35,
+     "end": 446.654
+    },
+    {
+     "w": "côté",
+     "start": 446.654,
+     "end": 447.147
+    },
+    {
+     "w": "des",
+     "start": 447.147,
+     "end": 447.45
+    },
+    {
+     "w": "accusés",
+     "start": 447.45,
+     "end": 448.133
+    }
+   ]
+  },
+  {
+   "id": "s093",
+   "text": "La série nous montre aussi leur rencontre, avant le Grand Terrassement.",
+   "chapter": 2,
+   "paragraph": 19,
+   "start": 449.733,
+   "end": 454.309,
+   "words": [
+    {
+     "w": "La",
+     "start": 449.733,
+     "end": 450.036
+    },
+    {
+     "w": "série",
+     "start": 450.036,
+     "end": 450.53
+    },
+    {
+     "w": "nous",
+     "start": 450.53,
+     "end": 450.833
+    },
+    {
+     "w": "montre",
+     "start": 450.833,
+     "end": 451.137
+    },
+    {
+     "w": "aussi",
+     "start": 451.137,
+     "end": 451.63
+    },
+    {
+     "w": "leur",
+     "start": 451.63,
+     "end": 451.933
+    },
+    {
+     "w": "rencontre",
+     "start": 451.933,
+     "end": 452.426
+    },
+    {
+     "w": "avant",
+     "start": 452.526,
+     "end": 453.019
+    },
+    {
+     "w": "le",
+     "start": 453.019,
+     "end": 453.323
+    },
+    {
+     "w": "Grand",
+     "start": 453.323,
+     "end": 453.626
+    },
+    {
+     "w": "Terrassement",
+     "start": 453.626,
+     "end": 454.309
+    }
+   ]
+  },
+  {
+   "id": "s094",
+   "text": "Eren est en larmes devant Ramzi.",
+   "chapter": 2,
+   "paragraph": 19,
+   "start": 454.609,
+   "end": 456.999,
+   "words": [
+    {
+     "w": "Eren",
+     "start": 454.609,
+     "end": 455.102
+    },
+    {
+     "w": "est",
+     "start": 455.102,
+     "end": 455.406
+    },
+    {
+     "w": "en",
+     "start": 455.406,
+     "end": 455.709
+    },
+    {
+     "w": "larmes",
+     "start": 455.709,
+     "end": 456.013
+    },
+    {
+     "w": "devant",
+     "start": 456.013,
+     "end": 456.506
+    },
+    {
+     "w": "Ramzi",
+     "start": 456.506,
+     "end": 456.999
+    }
+   ]
+  },
+  {
+   "id": "s095",
+   "text": "À qui va ta compassion, sur ce plan ?",
+   "chapter": 2,
+   "paragraph": 19,
+   "start": 457.299,
+   "end": 460.396,
+   "words": [
+    {
+     "w": "À",
+     "start": 457.299,
+     "end": 457.602
+    },
+    {
+     "w": "qui",
+     "start": 457.602,
+     "end": 457.906
+    },
+    {
+     "w": "va",
+     "start": 457.906,
+     "end": 458.209
+    },
+    {
+     "w": "ta",
+     "start": 458.209,
+     "end": 458.513
+    },
+    {
+     "w": "compassion",
+     "start": 458.513,
+     "end": 459.385
+    },
+    {
+     "w": "sur",
+     "start": 459.485,
+     "end": 459.789
+    },
+    {
+     "w": "ce",
+     "start": 459.789,
+     "end": 460.092
+    },
+    {
+     "w": "plan",
+     "start": 460.092,
+     "end": 460.396
+    }
+   ]
+  },
+  {
+   "id": "s096",
+   "text": "Tu peux être touché de voir Eren pleurer, espérer qu’il renonce, et savoir exactement qui tu voudrais mettre à l’abri.",
+   "chapter": 2,
+   "paragraph": 19,
+   "start": 460.696,
+   "end": 469.051,
+   "words": [
+    {
+     "w": "Tu",
+     "start": 460.696,
+     "end": 460.999
+    },
+    {
+     "w": "peux",
+     "start": 460.999,
+     "end": 461.303
+    },
+    {
+     "w": "être",
+     "start": 461.303,
+     "end": 461.606
+    },
+    {
+     "w": "touché",
+     "start": 461.606,
+     "end": 462.099
+    },
+    {
+     "w": "de",
+     "start": 462.099,
+     "end": 462.403
+    },
+    {
+     "w": "voir",
+     "start": 462.403,
+     "end": 462.706
+    },
+    {
+     "w": "Eren",
+     "start": 462.706,
+     "end": 463.199
+    },
+    {
+     "w": "pleurer",
+     "start": 463.199,
+     "end": 463.692
+    },
+    {
+     "w": "espérer",
+     "start": 463.792,
+     "end": 464.475
+    },
+    {
+     "w": "qu’il",
+     "start": 464.475,
+     "end": 464.779
+    },
+    {
+     "w": "renonce",
+     "start": 464.779,
+     "end": 465.272
+    },
+    {
+     "w": "et",
+     "start": 465.372,
+     "end": 465.675
+    },
+    {
+     "w": "savoir",
+     "start": 465.675,
+     "end": 466.168
+    },
+    {
+     "w": "exactement",
+     "start": 466.168,
+     "end": 466.851
+    },
+    {
+     "w": "qui",
+     "start": 466.851,
+     "end": 467.155
+    },
+    {
+     "w": "tu",
+     "start": 467.155,
+     "end": 467.458
+    },
+    {
+     "w": "voudrais",
+     "start": 467.458,
+     "end": 467.951
+    },
+    {
+     "w": "mettre",
+     "start": 467.951,
+     "end": 468.255
+    },
+    {
+     "w": "à",
+     "start": 468.255,
+     "end": 468.558
+    },
+    {
+     "w": "l’abri",
+     "start": 468.558,
+     "end": 469.051
+    }
+   ]
+  },
+  {
+   "id": "s097",
+   "text": "Pour défendre Anakin, il suffit parfois de prononcer un nom.",
+   "chapter": 3,
+   "paragraph": 20,
+   "start": 472.051,
+   "end": 476.514,
+   "words": [
+    {
+     "w": "Pour",
+     "start": 472.051,
+     "end": 472.355
+    },
+    {
+     "w": "défendre",
+     "start": 472.355,
+     "end": 472.848
+    },
+    {
+     "w": "Anakin",
+     "start": 472.848,
+     "end": 473.531
+    },
+    {
+     "w": "il",
+     "start": 473.631,
+     "end": 473.934
+    },
+    {
+     "w": "suffit",
+     "start": 473.934,
+     "end": 474.427
+    },
+    {
+     "w": "parfois",
+     "start": 474.427,
+     "end": 474.92
+    },
+    {
+     "w": "de",
+     "start": 474.92,
+     "end": 475.224
+    },
+    {
+     "w": "prononcer",
+     "start": 475.224,
+     "end": 475.907
+    },
+    {
+     "w": "un",
+     "start": 475.907,
+     "end": 476.21
+    },
+    {
+     "w": "nom",
+     "start": 476.21,
+     "end": 476.514
+    }
+   ]
+  },
+  {
+   "id": "s098",
+   "text": "Palpatine.",
+   "chapter": 3,
+   "paragraph": 20,
+   "start": 476.814,
+   "end": 477.496,
+   "words": [
+    {
+     "w": "Palpatine",
+     "start": 476.814,
+     "end": 477.496
+    }
+   ]
+  },
+  {
+   "id": "s099",
+   "text": "Regarde comment ils sont assis à l’opéra.",
+   "chapter": 3,
+   "paragraph": 21,
+   "start": 478.296,
+   "end": 481.179,
+   "words": [
+    {
+     "w": "Regarde",
+     "start": 478.296,
+     "end": 478.789
+    },
+    {
+     "w": "comment",
+     "start": 478.789,
+     "end": 479.093
+    },
+    {
+     "w": "ils",
+     "start": 479.093,
+     "end": 479.396
+    },
+    {
+     "w": "sont",
+     "start": 479.396,
+     "end": 479.7
+    },
+    {
+     "w": "assis",
+     "start": 479.7,
+     "end": 480.193
+    },
+    {
+     "w": "à",
+     "start": 480.193,
+     "end": 480.496
+    },
+    {
+     "w": "l’opéra",
+     "start": 480.496,
+     "end": 481.179
+    }
+   ]
+  },
+  {
+   "id": "s100",
+   "text": "Côte à côte, presque immobiles.",
+   "chapter": 3,
+   "paragraph": 21,
+   "start": 481.479,
+   "end": 483.666,
+   "words": [
+    {
+     "w": "Côte",
+     "start": 481.479,
+     "end": 481.783
+    },
+    {
+     "w": "à",
+     "start": 481.783,
+     "end": 482.086
+    },
+    {
+     "w": "côte",
+     "start": 482.086,
+     "end": 482.39
+    },
+    {
+     "w": "presque",
+     "start": 482.49,
+     "end": 482.983
+    },
+    {
+     "w": "immobiles",
+     "start": 482.983,
+     "end": 483.666
+    }
+   ]
+  },
+  {
+   "id": "s101",
+   "text": "Anakin a peur de perdre Padmé.",
+   "chapter": 3,
+   "paragraph": 21,
+   "start": 483.966,
+   "end": 486.355,
+   "words": [
+    {
+     "w": "Anakin",
+     "start": 483.966,
+     "end": 484.648
+    },
+    {
+     "w": "a",
+     "start": 484.648,
+     "end": 484.952
+    },
+    {
+     "w": "peur",
+     "start": 484.952,
+     "end": 485.255
+    },
+    {
+     "w": "de",
+     "start": 485.255,
+     "end": 485.559
+    },
+    {
+     "w": "perdre",
+     "start": 485.559,
+     "end": 485.862
+    },
+    {
+     "w": "Padmé",
+     "start": 485.862,
+     "end": 486.355
+    }
+   ]
+  },
+  {
+   "id": "s102",
+   "text": "Et voilà que Palpatine lui raconte l’histoire d’un seigneur Sith qui aurait su garder en vie ceux qu’il aimait.",
+   "chapter": 3,
+   "paragraph": 21,
+   "start": 486.655,
+   "end": 494.128,
+   "words": [
+    {
+     "w": "Et",
+     "start": 486.655,
+     "end": 486.959
+    },
+    {
+     "w": "voilà",
+     "start": 486.959,
+     "end": 487.452
+    },
+    {
+     "w": "que",
+     "start": 487.452,
+     "end": 487.755
+    },
+    {
+     "w": "Palpatine",
+     "start": 487.755,
+     "end": 488.438
+    },
+    {
+     "w": "lui",
+     "start": 488.438,
+     "end": 488.742
+    },
+    {
+     "w": "raconte",
+     "start": 488.742,
+     "end": 489.235
+    },
+    {
+     "w": "l’histoire",
+     "start": 489.235,
+     "end": 489.728
+    },
+    {
+     "w": "d’un",
+     "start": 489.728,
+     "end": 490.031
+    },
+    {
+     "w": "seigneur",
+     "start": 490.031,
+     "end": 490.525
+    },
+    {
+     "w": "Sith",
+     "start": 490.525,
+     "end": 490.828
+    },
+    {
+     "w": "qui",
+     "start": 490.828,
+     "end": 491.131
+    },
+    {
+     "w": "aurait",
+     "start": 491.131,
+     "end": 491.625
+    },
+    {
+     "w": "su",
+     "start": 491.625,
+     "end": 491.928
+    },
+    {
+     "w": "garder",
+     "start": 491.928,
+     "end": 492.421
+    },
+    {
+     "w": "en",
+     "start": 492.421,
+     "end": 492.725
+    },
+    {
+     "w": "vie",
+     "start": 492.725,
+     "end": 493.028
+    },
+    {
+     "w": "ceux",
+     "start": 493.028,
+     "end": 493.332
+    },
+    {
+     "w": "qu’il",
+     "start": 493.332,
+     "end": 493.635
+    },
+    {
+     "w": "aimait",
+     "start": 493.635,
+     "end": 494.128
+    }
+   ]
+  },
+  {
+   "id": "s103",
+   "text": "À la place d’Anakin, on comprend très bien pourquoi on resterait assis pour entendre la fin de cette histoire.",
+   "chapter": 3,
+   "paragraph": 21,
+   "start": 494.428,
+   "end": 502.001,
+   "words": [
+    {
+     "w": "À",
+     "start": 494.428,
+     "end": 494.732
+    },
+    {
+     "w": "la",
+     "start": 494.732,
+     "end": 495.035
+    },
+    {
+     "w": "place",
+     "start": 495.035,
+     "end": 495.339
+    },
+    {
+     "w": "d’Anakin",
+     "start": 495.339,
+     "end": 496.021
+    },
+    {
+     "w": "on",
+     "start": 496.121,
+     "end": 496.425
+    },
+    {
+     "w": "comprend",
+     "start": 496.425,
+     "end": 496.918
+    },
+    {
+     "w": "très",
+     "start": 496.918,
+     "end": 497.221
+    },
+    {
+     "w": "bien",
+     "start": 497.221,
+     "end": 497.525
+    },
+    {
+     "w": "pourquoi",
+     "start": 497.525,
+     "end": 498.018
+    },
+    {
+     "w": "on",
+     "start": 498.018,
+     "end": 498.321
+    },
+    {
+     "w": "resterait",
+     "start": 498.321,
+     "end": 499.004
+    },
+    {
+     "w": "assis",
+     "start": 499.004,
+     "end": 499.497
+    },
+    {
+     "w": "pour",
+     "start": 499.497,
+     "end": 499.801
+    },
+    {
+     "w": "entendre",
+     "start": 499.801,
+     "end": 500.294
+    },
+    {
+     "w": "la",
+     "start": 500.294,
+     "end": 500.597
+    },
+    {
+     "w": "fin",
+     "start": 500.597,
+     "end": 500.901
+    },
+    {
+     "w": "de",
+     "start": 500.901,
+     "end": 501.204
+    },
+    {
+     "w": "cette",
+     "start": 501.204,
+     "end": 501.508
+    },
+    {
+     "w": "histoire",
+     "start": 501.508,
+     "end": 502.001
+    }
+   ]
+  },
+  {
+   "id": "s104",
+   "text": "Sur Mustafar, regarde leurs mains.",
+   "chapter": 3,
+   "paragraph": 22,
+   "start": 502.601,
+   "end": 504.787,
+   "words": [
+    {
+     "w": "Sur",
+     "start": 502.601,
+     "end": 502.904
+    },
+    {
+     "w": "Mustafar",
+     "start": 502.904,
+     "end": 503.587
+    },
+    {
+     "w": "regarde",
+     "start": 503.687,
+     "end": 504.18
+    },
+    {
+     "w": "leurs",
+     "start": 504.18,
+     "end": 504.484
+    },
+    {
+     "w": "mains",
+     "start": 504.484,
+     "end": 504.787
+    }
+   ]
+  },
+  {
+   "id": "s105",
+   "text": "Anakin lève la sienne.",
+   "chapter": 3,
+   "paragraph": 22,
+   "start": 505.087,
+   "end": 506.68,
+   "words": [
+    {
+     "w": "Anakin",
+     "start": 505.087,
+     "end": 505.77
+    },
+    {
+     "w": "lève",
+     "start": 505.77,
+     "end": 506.074
+    },
+    {
+     "w": "la",
+     "start": 506.074,
+     "end": 506.377
+    },
+    {
+     "w": "sienne",
+     "start": 506.377,
+     "end": 506.68
+    }
+   ]
+  },
+  {
+   "id": "s106",
+   "text": "Padmé porte les siennes à sa gorge.",
+   "chapter": 3,
+   "paragraph": 22,
+   "start": 506.98,
+   "end": 509.294,
+   "words": [
+    {
+     "w": "Padmé",
+     "start": 506.98,
+     "end": 507.474
+    },
+    {
+     "w": "porte",
+     "start": 507.474,
+     "end": 507.777
+    },
+    {
+     "w": "les",
+     "start": 507.777,
+     "end": 508.081
+    },
+    {
+     "w": "siennes",
+     "start": 508.081,
+     "end": 508.384
+    },
+    {
+     "w": "à",
+     "start": 508.384,
+     "end": 508.687
+    },
+    {
+     "w": "sa",
+     "start": 508.687,
+     "end": 508.991
+    },
+    {
+     "w": "gorge",
+     "start": 508.991,
+     "end": 509.294
+    }
+   ]
+  },
+  {
+   "id": "s107",
+   "text": "Si je fige l’image ici et que je te demande qui agit sur qui, ta réponse tient en quelques mots.",
+   "chapter": 3,
+   "paragraph": 22,
+   "start": 509.594,
+   "end": 516.902,
+   "words": [
+    {
+     "w": "Si",
+     "start": 509.594,
+     "end": 509.898
+    },
+    {
+     "w": "je",
+     "start": 509.898,
+     "end": 510.201
+    },
+    {
+     "w": "fige",
+     "start": 510.201,
+     "end": 510.505
+    },
+    {
+     "w": "l’image",
+     "start": 510.505,
+     "end": 510.998
+    },
+    {
+     "w": "ici",
+     "start": 510.998,
+     "end": 511.491
+    },
+    {
+     "w": "et",
+     "start": 511.491,
+     "end": 511.794
+    },
+    {
+     "w": "que",
+     "start": 511.794,
+     "end": 512.098
+    },
+    {
+     "w": "je",
+     "start": 512.098,
+     "end": 512.401
+    },
+    {
+     "w": "te",
+     "start": 512.401,
+     "end": 512.705
+    },
+    {
+     "w": "demande",
+     "start": 512.705,
+     "end": 513.198
+    },
+    {
+     "w": "qui",
+     "start": 513.198,
+     "end": 513.501
+    },
+    {
+     "w": "agit",
+     "start": 513.501,
+     "end": 513.995
+    },
+    {
+     "w": "sur",
+     "start": 513.995,
+     "end": 514.298
+    },
+    {
+     "w": "qui",
+     "start": 514.298,
+     "end": 514.602
+    },
+    {
+     "w": "ta",
+     "start": 514.702,
+     "end": 515.005
+    },
+    {
+     "w": "réponse",
+     "start": 515.005,
+     "end": 515.498
+    },
+    {
+     "w": "tient",
+     "start": 515.498,
+     "end": 515.802
+    },
+    {
+     "w": "en",
+     "start": 515.802,
+     "end": 516.105
+    },
+    {
+     "w": "quelques",
+     "start": 516.105,
+     "end": 516.598
+    },
+    {
+     "w": "mots",
+     "start": 516.598,
+     "end": 516.902
+    }
+   ]
+  },
+  {
+   "id": "s108",
+   "text": "Si je remets la scène de l’opéra, ta réponse devient peut-être plus longue.",
+   "chapter": 3,
+   "paragraph": 23,
+   "start": 517.502,
+   "end": 522.874,
+   "words": [
+    {
+     "w": "Si",
+     "start": 517.502,
+     "end": 517.805
+    },
+    {
+     "w": "je",
+     "start": 517.805,
+     "end": 518.109
+    },
+    {
+     "w": "remets",
+     "start": 518.109,
+     "end": 518.602
+    },
+    {
+     "w": "la",
+     "start": 518.602,
+     "end": 518.905
+    },
+    {
+     "w": "scène",
+     "start": 518.905,
+     "end": 519.209
+    },
+    {
+     "w": "de",
+     "start": 519.209,
+     "end": 519.512
+    },
+    {
+     "w": "l’opéra",
+     "start": 519.512,
+     "end": 520.195
+    },
+    {
+     "w": "ta",
+     "start": 520.295,
+     "end": 520.598
+    },
+    {
+     "w": "réponse",
+     "start": 520.598,
+     "end": 521.091
+    },
+    {
+     "w": "devient",
+     "start": 521.091,
+     "end": 521.585
+    },
+    {
+     "w": "peut-être",
+     "start": 521.585,
+     "end": 522.078
+    },
+    {
+     "w": "plus",
+     "start": 522.078,
+     "end": 522.381
+    },
+    {
+     "w": "longue",
+     "start": 522.381,
+     "end": 522.874
+    }
+   ]
+  },
+  {
+   "id": "s109",
+   "text": "Tu vas parler de la peur d’Anakin, de l’influence de Palpatine, de cette promesse de sauver Padmé.",
+   "chapter": 3,
+   "paragraph": 23,
+   "start": 523.174,
+   "end": 530.24,
+   "words": [
+    {
+     "w": "Tu",
+     "start": 523.174,
+     "end": 523.478
+    },
+    {
+     "w": "vas",
+     "start": 523.478,
+     "end": 523.781
+    },
+    {
+     "w": "parler",
+     "start": 523.781,
+     "end": 524.274
+    },
+    {
+     "w": "de",
+     "start": 524.274,
+     "end": 524.578
+    },
+    {
+     "w": "la",
+     "start": 524.578,
+     "end": 524.881
+    },
+    {
+     "w": "peur",
+     "start": 524.881,
+     "end": 525.185
+    },
+    {
+     "w": "d’Anakin",
+     "start": 525.185,
+     "end": 525.868
+    },
+    {
+     "w": "de",
+     "start": 525.968,
+     "end": 526.271
+    },
+    {
+     "w": "l’influence",
+     "start": 526.271,
+     "end": 526.764
+    },
+    {
+     "w": "de",
+     "start": 526.764,
+     "end": 527.068
+    },
+    {
+     "w": "Palpatine",
+     "start": 527.068,
+     "end": 527.75
+    },
+    {
+     "w": "de",
+     "start": 527.85,
+     "end": 528.154
+    },
+    {
+     "w": "cette",
+     "start": 528.154,
+     "end": 528.457
+    },
+    {
+     "w": "promesse",
+     "start": 528.457,
+     "end": 528.951
+    },
+    {
+     "w": "de",
+     "start": 528.951,
+     "end": 529.254
+    },
+    {
+     "w": "sauver",
+     "start": 529.254,
+     "end": 529.747
+    },
+    {
+     "w": "Padmé",
+     "start": 529.747,
+     "end": 530.24
+    }
+   ]
+  },
+  {
+   "id": "s110",
+   "text": "Tout ça compte pour comprendre comment il en est arrivé là.",
+   "chapter": 3,
+   "paragraph": 23,
+   "start": 530.54,
+   "end": 534.447,
+   "words": [
+    {
+     "w": "Tout",
+     "start": 530.54,
+     "end": 530.844
+    },
+    {
+     "w": "ça",
+     "start": 530.844,
+     "end": 531.147
+    },
+    {
+     "w": "compte",
+     "start": 531.147,
+     "end": 531.451
+    },
+    {
+     "w": "pour",
+     "start": 531.451,
+     "end": 531.754
+    },
+    {
+     "w": "comprendre",
+     "start": 531.754,
+     "end": 532.247
+    },
+    {
+     "w": "comment",
+     "start": 532.247,
+     "end": 532.551
+    },
+    {
+     "w": "il",
+     "start": 532.551,
+     "end": 532.854
+    },
+    {
+     "w": "en",
+     "start": 532.854,
+     "end": 533.158
+    },
+    {
+     "w": "est",
+     "start": 533.158,
+     "end": 533.461
+    },
+    {
+     "w": "arrivé",
+     "start": 533.461,
+     "end": 534.144
+    },
+    {
+     "w": "là",
+     "start": 534.144,
+     "end": 534.447
+    }
+   ]
+  },
+  {
+   "id": "s111",
+   "text": "Maintenant, reviens à l’image.",
+   "chapter": 3,
+   "paragraph": 24,
+   "start": 535.047,
+   "end": 537.12,
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 535.047,
+     "end": 535.73
+    },
+    {
+     "w": "reviens",
+     "start": 535.83,
+     "end": 536.323
+    },
+    {
+     "w": "à",
+     "start": 536.323,
+     "end": 536.627
+    },
+    {
+     "w": "l’image",
+     "start": 536.627,
+     "end": 537.12
+    }
+   ]
+  },
+  {
+   "id": "s112",
+   "text": "Qui a levé la main ?",
+   "chapter": 3,
+   "paragraph": 24,
+   "start": 537.42,
+   "end": 539.127,
+   "words": [
+    {
+     "w": "Qui",
+     "start": 537.42,
+     "end": 537.723
+    },
+    {
+     "w": "a",
+     "start": 537.723,
+     "end": 538.027
+    },
+    {
+     "w": "levé",
+     "start": 538.027,
+     "end": 538.52
+    },
+    {
+     "w": "la",
+     "start": 538.52,
+     "end": 538.823
+    },
+    {
+     "w": "main",
+     "start": 538.823,
+     "end": 539.127
+    }
+   ]
+  },
+  {
+   "id": "s113",
+   "text": "« Palpatine l’a manipulé », c’est une explication de sa trajectoire.",
+   "chapter": 3,
+   "paragraph": 25,
+   "start": 540.527,
+   "end": 545.444,
+   "words": [
+    {
+     "w": "Palpatine",
+     "start": 540.527,
+     "end": 541.21
+    },
+    {
+     "w": "l’a",
+     "start": 541.21,
+     "end": 541.513
+    },
+    {
+     "w": "manipulé",
+     "start": 541.513,
+     "end": 542.386
+    },
+    {
+     "w": "c’est",
+     "start": 542.486,
+     "end": 542.789
+    },
+    {
+     "w": "une",
+     "start": 542.789,
+     "end": 543.092
+    },
+    {
+     "w": "explication",
+     "start": 543.092,
+     "end": 544.155
+    },
+    {
+     "w": "de",
+     "start": 544.155,
+     "end": 544.458
+    },
+    {
+     "w": "sa",
+     "start": 544.458,
+     "end": 544.762
+    },
+    {
+     "w": "trajectoire",
+     "start": 544.762,
+     "end": 545.444
+    }
+   ]
+  },
+  {
+   "id": "s114",
+   "text": "« Donc Anakin n’y est pour rien », ça ajoute une conclusion.",
+   "chapter": 3,
+   "paragraph": 25,
+   "start": 545.744,
+   "end": 550.017,
+   "words": [
+    {
+     "w": "Donc",
+     "start": 545.744,
+     "end": 546.048
+    },
+    {
+     "w": "Anakin",
+     "start": 546.048,
+     "end": 546.731
+    },
+    {
+     "w": "n’y",
+     "start": 546.731,
+     "end": 547.034
+    },
+    {
+     "w": "est",
+     "start": 547.034,
+     "end": 547.338
+    },
+    {
+     "w": "pour",
+     "start": 547.338,
+     "end": 547.641
+    },
+    {
+     "w": "rien",
+     "start": 547.641,
+     "end": 547.944
+    },
+    {
+     "w": "ça",
+     "start": 548.044,
+     "end": 548.348
+    },
+    {
+     "w": "ajoute",
+     "start": 548.348,
+     "end": 548.841
+    },
+    {
+     "w": "une",
+     "start": 548.841,
+     "end": 549.145
+    },
+    {
+     "w": "conclusion",
+     "start": 549.145,
+     "end": 550.017
+    }
+   ]
+  },
+  {
+   "id": "s115",
+   "text": "Ce passage de l’une à l’autre ressemble à ce que Bandura appelle le déplacement de responsabilité.",
+   "chapter": 3,
+   "paragraph": 25,
+   "start": 550.317,
+   "end": 557.448,
+   "words": [
+    {
+     "w": "Ce",
+     "start": 550.317,
+     "end": 550.62
+    },
+    {
+     "w": "passage",
+     "start": 550.62,
+     "end": 551.114
+    },
+    {
+     "w": "de",
+     "start": 551.114,
+     "end": 551.417
+    },
+    {
+     "w": "l’une",
+     "start": 551.417,
+     "end": 551.721
+    },
+    {
+     "w": "à",
+     "start": 551.721,
+     "end": 552.024
+    },
+    {
+     "w": "l’autre",
+     "start": 552.024,
+     "end": 552.327
+    },
+    {
+     "w": "ressemble",
+     "start": 552.327,
+     "end": 552.821
+    },
+    {
+     "w": "à",
+     "start": 552.821,
+     "end": 553.124
+    },
+    {
+     "w": "ce",
+     "start": 553.124,
+     "end": 553.427
+    },
+    {
+     "w": "que",
+     "start": 553.427,
+     "end": 553.731
+    },
+    {
+     "w": "Bandura",
+     "start": 553.731,
+     "end": 554.414
+    },
+    {
+     "w": "appelle",
+     "start": 554.414,
+     "end": 554.907
+    },
+    {
+     "w": "le",
+     "start": 554.907,
+     "end": 555.21
+    },
+    {
+     "w": "déplacement",
+     "start": 555.21,
+     "end": 555.893
+    },
+    {
+     "w": "de",
+     "start": 555.893,
+     "end": 556.197
+    },
+    {
+     "w": "responsabilité",
+     "start": 556.197,
+     "end": 557.448
+    }
+   ]
+  },
+  {
+   "id": "s116",
+   "text": "Écoute simplement le sujet de nos phrases.",
+   "chapter": 3,
+   "paragraph": 25,
+   "start": 557.748,
+   "end": 560.442,
+   "words": [
+    {
+     "w": "Écoute",
+     "start": 557.748,
+     "end": 558.242
+    },
+    {
+     "w": "simplement",
+     "start": 558.242,
+     "end": 558.735
+    },
+    {
+     "w": "le",
+     "start": 558.735,
+     "end": 559.038
+    },
+    {
+     "w": "sujet",
+     "start": 559.038,
+     "end": 559.531
+    },
+    {
+     "w": "de",
+     "start": 559.531,
+     "end": 559.835
+    },
+    {
+     "w": "nos",
+     "start": 559.835,
+     "end": 560.138
+    },
+    {
+     "w": "phrases",
+     "start": 560.138,
+     "end": 560.442
+    }
+   ]
+  },
+  {
+   "id": "s117",
+   "text": "À l’image, Anakin vient de lever la main.",
+   "chapter": 3,
+   "paragraph": 25,
+   "start": 560.742,
+   "end": 564.028,
+   "words": [
+    {
+     "w": "À",
+     "start": 560.742,
+     "end": 561.045
+    },
+    {
+     "w": "l’image",
+     "start": 561.045,
+     "end": 561.538
+    },
+    {
+     "w": "Anakin",
+     "start": 561.638,
+     "end": 562.321
+    },
+    {
+     "w": "vient",
+     "start": 562.321,
+     "end": 562.624
+    },
+    {
+     "w": "de",
+     "start": 562.624,
+     "end": 562.928
+    },
+    {
+     "w": "lever",
+     "start": 562.928,
+     "end": 563.421
+    },
+    {
+     "w": "la",
+     "start": 563.421,
+     "end": 563.725
+    },
+    {
+     "w": "main",
+     "start": 563.725,
+     "end": 564.028
+    }
+   ]
+  },
+  {
+   "id": "s118",
+   "text": "Dans notre plaidoyer, toutes les phrases commencent désormais par « Palpatine ».",
+   "chapter": 3,
+   "paragraph": 25,
+   "start": 564.328,
+   "end": 568.601,
+   "words": [
+    {
+     "w": "Dans",
+     "start": 564.328,
+     "end": 564.631
+    },
+    {
+     "w": "notre",
+     "start": 564.631,
+     "end": 564.935
+    },
+    {
+     "w": "plaidoyer",
+     "start": 564.935,
+     "end": 565.428
+    },
+    {
+     "w": "toutes",
+     "start": 565.528,
+     "end": 565.832
+    },
+    {
+     "w": "les",
+     "start": 565.832,
+     "end": 566.135
+    },
+    {
+     "w": "phrases",
+     "start": 566.135,
+     "end": 566.438
+    },
+    {
+     "w": "commencent",
+     "start": 566.438,
+     "end": 566.932
+    },
+    {
+     "w": "désormais",
+     "start": 566.932,
+     "end": 567.614
+    },
+    {
+     "w": "par",
+     "start": 567.614,
+     "end": 567.918
+    },
+    {
+     "w": "Palpatine",
+     "start": 567.918,
+     "end": 568.601
+    }
+   ]
+  },
+  {
+   "id": "s119",
+   "text": "Et puis il y a Obi-Wan.",
+   "chapter": 3,
+   "paragraph": 26,
+   "start": 569.201,
+   "end": 571.401,
+   "words": [
+    {
+     "w": "Et",
+     "start": 569.201,
+     "end": 569.504
+    },
+    {
+     "w": "puis",
+     "start": 569.504,
+     "end": 569.808
+    },
+    {
+     "w": "il",
+     "start": 569.808,
+     "end": 570.111
+    },
+    {
+     "w": "y",
+     "start": 570.111,
+     "end": 570.415
+    },
+    {
+     "w": "a",
+     "start": 570.415,
+     "end": 570.718
+    },
+    {
+     "w": "Obi-Wan",
+     "start": 570.718,
+     "end": 571.401
+    }
+   ]
+  },
+  {
+   "id": "s120",
+   "text": "À la fin du duel, quand il parle à Anakin au bord de la lave, moi, j’en reviens toujours à la même question.",
+   "chapter": 3,
+   "paragraph": 26,
+   "start": 571.701,
+   "end": 580.308,
+   "words": [
+    {
+     "w": "À",
+     "start": 571.701,
+     "end": 572.004
+    },
+    {
+     "w": "la",
+     "start": 572.004,
+     "end": 572.308
+    },
+    {
+     "w": "fin",
+     "start": 572.308,
+     "end": 572.611
+    },
+    {
+     "w": "du",
+     "start": 572.611,
+     "end": 572.915
+    },
+    {
+     "w": "duel",
+     "start": 572.915,
+     "end": 573.218
+    },
+    {
+     "w": "quand",
+     "start": 573.318,
+     "end": 573.811
+    },
+    {
+     "w": "il",
+     "start": 573.811,
+     "end": 574.115
+    },
+    {
+     "w": "parle",
+     "start": 574.115,
+     "end": 574.418
+    },
+    {
+     "w": "à",
+     "start": 574.418,
+     "end": 574.722
+    },
+    {
+     "w": "Anakin",
+     "start": 574.722,
+     "end": 575.404
+    },
+    {
+     "w": "au",
+     "start": 575.404,
+     "end": 575.708
+    },
+    {
+     "w": "bord",
+     "start": 575.708,
+     "end": 576.011
+    },
+    {
+     "w": "de",
+     "start": 576.011,
+     "end": 576.315
+    },
+    {
+     "w": "la",
+     "start": 576.315,
+     "end": 576.618
+    },
+    {
+     "w": "lave",
+     "start": 576.618,
+     "end": 576.922
+    },
+    {
+     "w": "moi",
+     "start": 577.022,
+     "end": 577.325
+    },
+    {
+     "w": "j’en",
+     "start": 577.425,
+     "end": 577.729
+    },
+    {
+     "w": "reviens",
+     "start": 577.729,
+     "end": 578.222
+    },
+    {
+     "w": "toujours",
+     "start": 578.222,
+     "end": 578.715
+    },
+    {
+     "w": "à",
+     "start": 578.715,
+     "end": 579.018
+    },
+    {
+     "w": "la",
+     "start": 579.018,
+     "end": 579.322
+    },
+    {
+     "w": "même",
+     "start": 579.322,
+     "end": 579.625
+    },
+    {
+     "w": "question",
+     "start": 579.625,
+     "end": 580.308
+    }
+   ]
+  },
+  {
+   "id": "s121",
+   "text": "À quel moment Anakin aurait-il encore pu s’arrêter ?",
+   "chapter": 3,
+   "paragraph": 26,
+   "start": 580.608,
+   "end": 584.363,
+   "words": [
+    {
+     "w": "À",
+     "start": 580.608,
+     "end": 580.912
+    },
+    {
+     "w": "quel",
+     "start": 580.912,
+     "end": 581.215
+    },
+    {
+     "w": "moment",
+     "start": 581.215,
+     "end": 581.519
+    },
+    {
+     "w": "Anakin",
+     "start": 581.519,
+     "end": 582.201
+    },
+    {
+     "w": "aurait-il",
+     "start": 582.201,
+     "end": 582.884
+    },
+    {
+     "w": "encore",
+     "start": 582.884,
+     "end": 583.377
+    },
+    {
+     "w": "pu",
+     "start": 583.377,
+     "end": 583.681
+    },
+    {
+     "w": "s’arrêter",
+     "start": 583.681,
+     "end": 584.363
+    }
+   ]
+  },
+  {
+   "id": "s122",
+   "text": "On connaît ses choix.",
+   "chapter": 3,
+   "paragraph": 26,
+   "start": 584.663,
+   "end": 586.067,
+   "words": [
+    {
+     "w": "On",
+     "start": 584.663,
+     "end": 584.967
+    },
+    {
+     "w": "connaît",
+     "start": 584.967,
+     "end": 585.46
+    },
+    {
+     "w": "ses",
+     "start": 585.46,
+     "end": 585.764
+    },
+    {
+     "w": "choix",
+     "start": 585.764,
+     "end": 586.067
+    }
+   ]
+  },
+  {
+   "id": "s123",
+   "text": "On connaît même la suite de sa vie.",
+   "chapter": 3,
+   "paragraph": 26,
+   "start": 586.367,
+   "end": 588.984,
+   "words": [
+    {
+     "w": "On",
+     "start": 586.367,
+     "end": 586.67
+    },
+    {
+     "w": "connaît",
+     "start": 586.67,
+     "end": 587.164
+    },
+    {
+     "w": "même",
+     "start": 587.164,
+     "end": 587.467
+    },
+    {
+     "w": "la",
+     "start": 587.467,
+     "end": 587.771
+    },
+    {
+     "w": "suite",
+     "start": 587.771,
+     "end": 588.074
+    },
+    {
+     "w": "de",
+     "start": 588.074,
+     "end": 588.377
+    },
+    {
+     "w": "sa",
+     "start": 588.377,
+     "end": 588.681
+    },
+    {
+     "w": "vie",
+     "start": 588.681,
+     "end": 588.984
+    }
+   ]
+  },
+  {
+   "id": "s124",
+   "text": "Et pourtant, pendant qu’Obi-Wan lui parle, on cherche encore une issue pour le garçon qu’il a formé.",
+   "chapter": 3,
+   "paragraph": 26,
+   "start": 589.284,
+   "end": 596.161,
+   "words": [
+    {
+     "w": "Et",
+     "start": 589.284,
+     "end": 589.588
+    },
+    {
+     "w": "pourtant",
+     "start": 589.588,
+     "end": 590.081
+    },
+    {
+     "w": "pendant",
+     "start": 590.181,
+     "end": 590.674
+    },
+    {
+     "w": "qu’Obi-Wan",
+     "start": 590.674,
+     "end": 591.357
+    },
+    {
+     "w": "lui",
+     "start": 591.357,
+     "end": 591.66
+    },
+    {
+     "w": "parle",
+     "start": 591.66,
+     "end": 591.964
+    },
+    {
+     "w": "on",
+     "start": 592.064,
+     "end": 592.367
+    },
+    {
+     "w": "cherche",
+     "start": 592.367,
+     "end": 592.671
+    },
+    {
+     "w": "encore",
+     "start": 592.671,
+     "end": 593.164
+    },
+    {
+     "w": "une",
+     "start": 593.164,
+     "end": 593.467
+    },
+    {
+     "w": "issue",
+     "start": 593.467,
+     "end": 593.96
+    },
+    {
+     "w": "pour",
+     "start": 593.96,
+     "end": 594.264
+    },
+    {
+     "w": "le",
+     "start": 594.264,
+     "end": 594.567
+    },
+    {
+     "w": "garçon",
+     "start": 594.567,
+     "end": 595.061
+    },
+    {
+     "w": "qu’il",
+     "start": 595.061,
+     "end": 595.364
+    },
+    {
+     "w": "a",
+     "start": 595.364,
+     "end": 595.667
+    },
+    {
+     "w": "formé",
+     "start": 595.667,
+     "end": 596.161
+    }
+   ]
+  },
+  {
+   "id": "s125",
+   "text": "Reprenons le geste sur Mustafar.",
+   "chapter": 4,
+   "paragraph": 27,
+   "start": 599.161,
+   "end": 601.437,
+   "words": [
+    {
+     "w": "Reprenons",
+     "start": 599.161,
+     "end": 599.843
+    },
+    {
+     "w": "le",
+     "start": 599.843,
+     "end": 600.147
+    },
+    {
+     "w": "geste",
+     "start": 600.147,
+     "end": 600.45
+    },
+    {
+     "w": "sur",
+     "start": 600.45,
+     "end": 600.754
+    },
+    {
+     "w": "Mustafar",
+     "start": 600.754,
+     "end": 601.437
+    }
+   ]
+  },
+  {
+   "id": "s126",
+   "text": "La première fois, regarde Anakin.",
+   "chapter": 4,
+   "paragraph": 27,
+   "start": 601.737,
+   "end": 604.302,
+   "words": [
+    {
+     "w": "La",
+     "start": 601.737,
+     "end": 602.04
+    },
+    {
+     "w": "première",
+     "start": 602.04,
+     "end": 602.723
+    },
+    {
+     "w": "fois",
+     "start": 602.723,
+     "end": 603.026
+    },
+    {
+     "w": "regarde",
+     "start": 603.126,
+     "end": 603.619
+    },
+    {
+     "w": "Anakin",
+     "start": 603.619,
+     "end": 604.302
+    }
+   ]
+  },
+  {
+   "id": "s127",
+   "text": "Qu’est-ce qu’il croit être en train de perdre ?",
+   "chapter": 4,
+   "paragraph": 27,
+   "start": 604.602,
+   "end": 607.03,
+   "words": [
+    {
+     "w": "Qu’est-ce",
+     "start": 604.602,
+     "end": 604.906
+    },
+    {
+     "w": "qu’il",
+     "start": 604.906,
+     "end": 605.209
+    },
+    {
+     "w": "croit",
+     "start": 605.209,
+     "end": 605.513
+    },
+    {
+     "w": "être",
+     "start": 605.513,
+     "end": 605.816
+    },
+    {
+     "w": "en",
+     "start": 605.816,
+     "end": 606.12
+    },
+    {
+     "w": "train",
+     "start": 606.12,
+     "end": 606.423
+    },
+    {
+     "w": "de",
+     "start": 606.423,
+     "end": 606.726
+    },
+    {
+     "w": "perdre",
+     "start": 606.726,
+     "end": 607.03
+    }
+   ]
+  },
+  {
+   "id": "s128",
+   "text": "Maintenant, même image.",
+   "chapter": 4,
+   "paragraph": 28,
+   "start": 611.23,
+   "end": 612.809,
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 611.23,
+     "end": 611.913
+    },
+    {
+     "w": "même",
+     "start": 612.013,
+     "end": 612.316
+    },
+    {
+     "w": "image",
+     "start": 612.316,
+     "end": 612.809
+    }
+   ]
+  },
+  {
+   "id": "s129",
+   "text": "Regarde Padmé.",
+   "chapter": 4,
+   "paragraph": 28,
+   "start": 613.109,
+   "end": 614.096,
+   "words": [
+    {
+     "w": "Regarde",
+     "start": 613.109,
+     "end": 613.602
+    },
+    {
+     "w": "Padmé",
+     "start": 613.602,
+     "end": 614.096
+    }
+   ]
+  },
+  {
+   "id": "s130",
+   "text": "Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?",
+   "chapter": 4,
+   "paragraph": 28,
+   "start": 614.396,
+   "end": 617.62,
+   "words": [
+    {
+     "w": "Qu’est-ce",
+     "start": 614.396,
+     "end": 614.699
+    },
+    {
+     "w": "qu’elle",
+     "start": 614.699,
+     "end": 615.003
+    },
+    {
+     "w": "vient",
+     "start": 615.003,
+     "end": 615.306
+    },
+    {
+     "w": "de",
+     "start": 615.306,
+     "end": 615.609
+    },
+    {
+     "w": "comprendre",
+     "start": 615.609,
+     "end": 616.103
+    },
+    {
+     "w": "sur",
+     "start": 616.103,
+     "end": 616.406
+    },
+    {
+     "w": "l’homme",
+     "start": 616.406,
+     "end": 616.71
+    },
+    {
+     "w": "en",
+     "start": 616.71,
+     "end": 617.013
+    },
+    {
+     "w": "face",
+     "start": 617.013,
+     "end": 617.316
+    },
+    {
+     "w": "d’elle",
+     "start": 617.316,
+     "end": 617.62
+    }
+   ]
+  },
+  {
+   "id": "s131",
+   "text": "Est-ce que tu as regardé la même chose les deux fois ?",
+   "chapter": 4,
+   "paragraph": 29,
+   "start": 621.82,
+   "end": 625.537,
+   "words": [
+    {
+     "w": "Est-ce",
+     "start": 621.82,
+     "end": 622.123
+    },
+    {
+     "w": "que",
+     "start": 622.123,
+     "end": 622.427
+    },
+    {
+     "w": "tu",
+     "start": 622.427,
+     "end": 622.73
+    },
+    {
+     "w": "as",
+     "start": 622.73,
+     "end": 623.034
+    },
+    {
+     "w": "regardé",
+     "start": 623.034,
+     "end": 623.717
+    },
+    {
+     "w": "la",
+     "start": 623.717,
+     "end": 624.02
+    },
+    {
+     "w": "même",
+     "start": 624.02,
+     "end": 624.323
+    },
+    {
+     "w": "chose",
+     "start": 624.323,
+     "end": 624.627
+    },
+    {
+     "w": "les",
+     "start": 624.627,
+     "end": 624.93
+    },
+    {
+     "w": "deux",
+     "start": 624.93,
+     "end": 625.234
+    },
+    {
+     "w": "fois",
+     "start": 625.234,
+     "end": 625.537
+    }
+   ]
+  },
+  {
+   "id": "s132",
+   "text": "En 1975, Regan et Totten ont étudié une question voisine.",
+   "chapter": 4,
+   "paragraph": 30,
+   "start": 627.137,
+   "end": 632.927,
+   "words": [
+    {
+     "w": "En",
+     "start": 627.137,
+     "end": 627.441
+    },
+    {
+     "w": "1975",
+     "start": 627.441,
+     "end": 628.882
+    },
+    {
+     "w": "Regan",
+     "start": 628.982,
+     "end": 629.475
+    },
+    {
+     "w": "et",
+     "start": 629.475,
+     "end": 629.779
+    },
+    {
+     "w": "Totten",
+     "start": 629.779,
+     "end": 630.272
+    },
+    {
+     "w": "ont",
+     "start": 630.272,
+     "end": 630.575
+    },
+    {
+     "w": "étudié",
+     "start": 630.575,
+     "end": 631.448
+    },
+    {
+     "w": "une",
+     "start": 631.448,
+     "end": 631.751
+    },
+    {
+     "w": "question",
+     "start": 631.751,
+     "end": 632.434
+    },
+    {
+     "w": "voisine",
+     "start": 632.434,
+     "end": 632.927
+    }
+   ]
+  },
+  {
+   "id": "s133",
+   "text": "Dans leur expérience, des participants regardaient l’enregistrement de deux personnes en train de faire connaissance.",
+   "chapter": 4,
+   "paragraph": 30,
+   "start": 633.227,
+   "end": 640.345,
+   "words": [
+    {
+     "w": "Dans",
+     "start": 633.227,
+     "end": 633.531
+    },
+    {
+     "w": "leur",
+     "start": 633.531,
+     "end": 633.834
+    },
+    {
+     "w": "expérience",
+     "start": 633.834,
+     "end": 634.517
+    },
+    {
+     "w": "des",
+     "start": 634.617,
+     "end": 634.92
+    },
+    {
+     "w": "participants",
+     "start": 634.92,
+     "end": 635.793
+    },
+    {
+     "w": "regardaient",
+     "start": 635.793,
+     "end": 636.476
+    },
+    {
+     "w": "l’enregistrement",
+     "start": 636.476,
+     "end": 637.348
+    },
+    {
+     "w": "de",
+     "start": 637.348,
+     "end": 637.652
+    },
+    {
+     "w": "deux",
+     "start": 637.652,
+     "end": 637.955
+    },
+    {
+     "w": "personnes",
+     "start": 637.955,
+     "end": 638.448
+    },
+    {
+     "w": "en",
+     "start": 638.448,
+     "end": 638.752
+    },
+    {
+     "w": "train",
+     "start": 638.752,
+     "end": 639.055
+    },
+    {
+     "w": "de",
+     "start": 639.055,
+     "end": 639.359
+    },
+    {
+     "w": "faire",
+     "start": 639.359,
+     "end": 639.662
+    },
+    {
+     "w": "connaissance",
+     "start": 639.662,
+     "end": 640.345
+    }
+   ]
+  },
+  {
+   "id": "s134",
+   "text": "Tout le monde voyait la même conversation et devait s’intéresser à la même personne.",
+   "chapter": 4,
+   "paragraph": 30,
+   "start": 640.645,
+   "end": 646.6,
+   "words": [
+    {
+     "w": "Tout",
+     "start": 640.645,
+     "end": 640.948
+    },
+    {
+     "w": "le",
+     "start": 640.948,
+     "end": 641.252
+    },
+    {
+     "w": "monde",
+     "start": 641.252,
+     "end": 641.555
+    },
+    {
+     "w": "voyait",
+     "start": 641.555,
+     "end": 641.859
+    },
+    {
+     "w": "la",
+     "start": 641.859,
+     "end": 642.162
+    },
+    {
+     "w": "même",
+     "start": 642.162,
+     "end": 642.466
+    },
+    {
+     "w": "conversation",
+     "start": 642.466,
+     "end": 643.528
+    },
+    {
+     "w": "et",
+     "start": 643.528,
+     "end": 643.831
+    },
+    {
+     "w": "devait",
+     "start": 643.831,
+     "end": 644.324
+    },
+    {
+     "w": "s’intéresser",
+     "start": 644.324,
+     "end": 645.197
+    },
+    {
+     "w": "à",
+     "start": 645.197,
+     "end": 645.5
+    },
+    {
+     "w": "la",
+     "start": 645.5,
+     "end": 645.804
+    },
+    {
+     "w": "même",
+     "start": 645.804,
+     "end": 646.107
+    },
+    {
+     "w": "personne",
+     "start": 646.107,
+     "end": 646.6
+    }
+   ]
+  },
+  {
+   "id": "s135",
+   "text": "Ce qui changeait d’un groupe à l’autre, c’était la consigne.",
+   "chapter": 4,
+   "paragraph": 30,
+   "start": 646.9,
+   "end": 650.604,
+   "words": [
+    {
+     "w": "Ce",
+     "start": 646.9,
+     "end": 647.204
+    },
+    {
+     "w": "qui",
+     "start": 647.204,
+     "end": 647.507
+    },
+    {
+     "w": "changeait",
+     "start": 647.507,
+     "end": 648.0
+    },
+    {
+     "w": "d’un",
+     "start": 648.0,
+     "end": 648.304
+    },
+    {
+     "w": "groupe",
+     "start": 648.304,
+     "end": 648.607
+    },
+    {
+     "w": "à",
+     "start": 648.607,
+     "end": 648.911
+    },
+    {
+     "w": "l’autre",
+     "start": 648.911,
+     "end": 649.214
+    },
+    {
+     "w": "c’était",
+     "start": 649.314,
+     "end": 649.807
+    },
+    {
+     "w": "la",
+     "start": 649.807,
+     "end": 650.111
+    },
+    {
+     "w": "consigne",
+     "start": 650.111,
+     "end": 650.604
+    }
+   ]
+  },
+  {
+   "id": "s136",
+   "text": "Les uns devaient l’observer.",
+   "chapter": 4,
+   "paragraph": 30,
+   "start": 650.904,
+   "end": 652.687,
+   "words": [
+    {
+     "w": "Les",
+     "start": 650.904,
+     "end": 651.208
+    },
+    {
+     "w": "uns",
+     "start": 651.208,
+     "end": 651.511
+    },
+    {
+     "w": "devaient",
+     "start": 651.511,
+     "end": 652.004
+    },
+    {
+     "w": "l’observer",
+     "start": 652.004,
+     "end": 652.687
+    }
+   ]
+  },
+  {
+   "id": "s137",
+   "text": "Les autres, essayer de se mettre à sa place.",
+   "chapter": 4,
+   "paragraph": 30,
+   "start": 652.987,
+   "end": 656.008,
+   "words": [
+    {
+     "w": "Les",
+     "start": 652.987,
+     "end": 653.29
+    },
+    {
+     "w": "autres",
+     "start": 653.29,
+     "end": 653.594
+    },
+    {
+     "w": "essayer",
+     "start": 653.694,
+     "end": 654.187
+    },
+    {
+     "w": "de",
+     "start": 654.187,
+     "end": 654.49
+    },
+    {
+     "w": "se",
+     "start": 654.49,
+     "end": 654.794
+    },
+    {
+     "w": "mettre",
+     "start": 654.794,
+     "end": 655.097
+    },
+    {
+     "w": "à",
+     "start": 655.097,
+     "end": 655.401
+    },
+    {
+     "w": "sa",
+     "start": 655.401,
+     "end": 655.704
+    },
+    {
+     "w": "place",
+     "start": 655.704,
+     "end": 656.008
+    }
+   ]
+  },
+  {
+   "id": "s138",
+   "text": "Ensuite, on leur demandait d’expliquer son comportement.",
+   "chapter": 4,
+   "paragraph": 31,
+   "start": 656.908,
+   "end": 660.46,
+   "words": [
+    {
+     "w": "Ensuite",
+     "start": 656.908,
+     "end": 657.401
+    },
+    {
+     "w": "on",
+     "start": 657.501,
+     "end": 657.804
+    },
+    {
+     "w": "leur",
+     "start": 657.804,
+     "end": 658.108
+    },
+    {
+     "w": "demandait",
+     "start": 658.108,
+     "end": 658.791
+    },
+    {
+     "w": "d’expliquer",
+     "start": 658.791,
+     "end": 659.473
+    },
+    {
+     "w": "son",
+     "start": 659.473,
+     "end": 659.777
+    },
+    {
+     "w": "comportement",
+     "start": 659.777,
+     "end": 660.46
+    }
+   ]
+  },
+  {
+   "id": "s139",
+   "text": "Ceux qui avaient essayé de se mettre à sa place accordaient davantage de poids à la situation, et moins à sa personnalité, que ceux qui l’avaient simplement observée.",
+   "chapter": 4,
+   "paragraph": 31,
+   "start": 660.76,
+   "end": 672.871,
+   "words": [
+    {
+     "w": "Ceux",
+     "start": 660.76,
+     "end": 661.063
+    },
+    {
+     "w": "qui",
+     "start": 661.063,
+     "end": 661.367
+    },
+    {
+     "w": "avaient",
+     "start": 661.367,
+     "end": 661.86
+    },
+    {
+     "w": "essayé",
+     "start": 661.86,
+     "end": 662.353
+    },
+    {
+     "w": "de",
+     "start": 662.353,
+     "end": 662.656
+    },
+    {
+     "w": "se",
+     "start": 662.656,
+     "end": 662.96
+    },
+    {
+     "w": "mettre",
+     "start": 662.96,
+     "end": 663.263
+    },
+    {
+     "w": "à",
+     "start": 663.263,
+     "end": 663.567
+    },
+    {
+     "w": "sa",
+     "start": 663.567,
+     "end": 663.87
+    },
+    {
+     "w": "place",
+     "start": 663.87,
+     "end": 664.174
+    },
+    {
+     "w": "accordaient",
+     "start": 664.174,
+     "end": 664.856
+    },
+    {
+     "w": "davantage",
+     "start": 664.856,
+     "end": 665.539
+    },
+    {
+     "w": "de",
+     "start": 665.539,
+     "end": 665.843
+    },
+    {
+     "w": "poids",
+     "start": 665.843,
+     "end": 666.146
+    },
+    {
+     "w": "à",
+     "start": 666.146,
+     "end": 666.45
+    },
+    {
+     "w": "la",
+     "start": 666.45,
+     "end": 666.753
+    },
+    {
+     "w": "situation",
+     "start": 666.753,
+     "end": 667.815
+    },
+    {
+     "w": "et",
+     "start": 667.915,
+     "end": 668.219
+    },
+    {
+     "w": "moins",
+     "start": 668.219,
+     "end": 668.522
+    },
+    {
+     "w": "à",
+     "start": 668.522,
+     "end": 668.826
+    },
+    {
+     "w": "sa",
+     "start": 668.826,
+     "end": 669.129
+    },
+    {
+     "w": "personnalité",
+     "start": 669.129,
+     "end": 670.191
+    },
+    {
+     "w": "que",
+     "start": 670.291,
+     "end": 670.595
+    },
+    {
+     "w": "ceux",
+     "start": 670.595,
+     "end": 670.898
+    },
+    {
+     "w": "qui",
+     "start": 670.898,
+     "end": 671.202
+    },
+    {
+     "w": "l’avaient",
+     "start": 671.202,
+     "end": 671.695
+    },
+    {
+     "w": "simplement",
+     "start": 671.695,
+     "end": 672.188
+    },
+    {
+     "w": "observée",
+     "start": 672.188,
+     "end": 672.871
+    }
+   ]
+  },
+  {
+   "id": "s140",
+   "text": "Ce que les chercheurs ont recueilli, ce sont des explications.",
+   "chapter": 4,
+   "paragraph": 32,
+   "start": 673.471,
+   "end": 677.933,
+   "words": [
+    {
+     "w": "Ce",
+     "start": 673.471,
+     "end": 673.774
+    },
+    {
+     "w": "que",
+     "start": 673.774,
+     "end": 674.078
+    },
+    {
+     "w": "les",
+     "start": 674.078,
+     "end": 674.381
+    },
+    {
+     "w": "chercheurs",
+     "start": 674.381,
+     "end": 674.874
+    },
+    {
+     "w": "ont",
+     "start": 674.874,
+     "end": 675.178
+    },
+    {
+     "w": "recueilli",
+     "start": 675.178,
+     "end": 675.86
+    },
+    {
+     "w": "ce",
+     "start": 675.96,
+     "end": 676.264
+    },
+    {
+     "w": "sont",
+     "start": 676.264,
+     "end": 676.567
+    },
+    {
+     "w": "des",
+     "start": 676.567,
+     "end": 676.871
+    },
+    {
+     "w": "explications",
+     "start": 676.871,
+     "end": 677.933
+    }
+   ]
+  },
+  {
+   "id": "s141",
+   "text": "Personne n’avait à rendre de verdict.",
+   "chapter": 4,
+   "paragraph": 32,
+   "start": 678.233,
+   "end": 680.623,
+   "words": [
+    {
+     "w": "Personne",
+     "start": 678.233,
+     "end": 678.726
+    },
+    {
+     "w": "n’avait",
+     "start": 678.726,
+     "end": 679.219
+    },
+    {
+     "w": "à",
+     "start": 679.219,
+     "end": 679.523
+    },
+    {
+     "w": "rendre",
+     "start": 679.523,
+     "end": 679.826
+    },
+    {
+     "w": "de",
+     "start": 679.826,
+     "end": 680.13
+    },
+    {
+     "w": "verdict",
+     "start": 680.13,
+     "end": 680.623
+    }
+   ]
+  },
+  {
+   "id": "s142",
+   "text": "Alors reviens un instant à l’opéra.",
+   "chapter": 4,
+   "paragraph": 32,
+   "start": 681.523,
+   "end": 684.292,
+   "words": [
+    {
+     "w": "Alors",
+     "start": 681.523,
+     "end": 682.016
+    },
+    {
+     "w": "reviens",
+     "start": 682.016,
+     "end": 682.509
+    },
+    {
+     "w": "un",
+     "start": 682.509,
+     "end": 682.812
+    },
+    {
+     "w": "instant",
+     "start": 682.812,
+     "end": 683.306
+    },
+    {
+     "w": "à",
+     "start": 683.306,
+     "end": 683.609
+    },
+    {
+     "w": "l’opéra",
+     "start": 683.609,
+     "end": 684.292
+    }
+   ]
+  },
+  {
+   "id": "s143",
+   "text": "Si cette scène t’a aidé à comprendre la peur d’Anakin, est-ce qu’elle a changé ton avis sur sa responsabilité ?",
+   "chapter": 4,
+   "paragraph": 32,
+   "start": 684.592,
+   "end": 692.544,
+   "words": [
+    {
+     "w": "Si",
+     "start": 684.592,
+     "end": 684.895
+    },
+    {
+     "w": "cette",
+     "start": 684.895,
+     "end": 685.199
+    },
+    {
+     "w": "scène",
+     "start": 685.199,
+     "end": 685.502
+    },
+    {
+     "w": "t’a",
+     "start": 685.502,
+     "end": 685.806
+    },
+    {
+     "w": "aidé",
+     "start": 685.806,
+     "end": 686.299
+    },
+    {
+     "w": "à",
+     "start": 686.299,
+     "end": 686.602
+    },
+    {
+     "w": "comprendre",
+     "start": 686.602,
+     "end": 687.095
+    },
+    {
+     "w": "la",
+     "start": 687.095,
+     "end": 687.399
+    },
+    {
+     "w": "peur",
+     "start": 687.399,
+     "end": 687.702
+    },
+    {
+     "w": "d’Anakin",
+     "start": 687.702,
+     "end": 688.385
+    },
+    {
+     "w": "est-ce",
+     "start": 688.485,
+     "end": 688.789
+    },
+    {
+     "w": "qu’elle",
+     "start": 688.789,
+     "end": 689.092
+    },
+    {
+     "w": "a",
+     "start": 689.092,
+     "end": 689.396
+    },
+    {
+     "w": "changé",
+     "start": 689.396,
+     "end": 689.889
+    },
+    {
+     "w": "ton",
+     "start": 689.889,
+     "end": 690.192
+    },
+    {
+     "w": "avis",
+     "start": 690.192,
+     "end": 690.685
+    },
+    {
+     "w": "sur",
+     "start": 690.685,
+     "end": 690.989
+    },
+    {
+     "w": "sa",
+     "start": 690.989,
+     "end": 691.292
+    },
+    {
+     "w": "responsabilité",
+     "start": 691.292,
+     "end": 692.544
+    }
+   ]
+  },
+  {
+   "id": "s144",
+   "text": "Ou est-ce que tu sais simplement mieux raconter comment il en est arrivé là ?",
+   "chapter": 4,
+   "paragraph": 32,
+   "start": 692.844,
+   "end": 698.041,
+   "words": [
+    {
+     "w": "Ou",
+     "start": 692.844,
+     "end": 693.147
+    },
+    {
+     "w": "est-ce",
+     "start": 693.147,
+     "end": 693.451
+    },
+    {
+     "w": "que",
+     "start": 693.451,
+     "end": 693.754
+    },
+    {
+     "w": "tu",
+     "start": 693.754,
+     "end": 694.058
+    },
+    {
+     "w": "sais",
+     "start": 694.058,
+     "end": 694.361
+    },
+    {
+     "w": "simplement",
+     "start": 694.361,
+     "end": 694.854
+    },
+    {
+     "w": "mieux",
+     "start": 694.854,
+     "end": 695.158
+    },
+    {
+     "w": "raconter",
+     "start": 695.158,
+     "end": 695.841
+    },
+    {
+     "w": "comment",
+     "start": 695.841,
+     "end": 696.144
+    },
+    {
+     "w": "il",
+     "start": 696.144,
+     "end": 696.448
+    },
+    {
+     "w": "en",
+     "start": 696.448,
+     "end": 696.751
+    },
+    {
+     "w": "est",
+     "start": 696.751,
+     "end": 697.055
+    },
+    {
+     "w": "arrivé",
+     "start": 697.055,
+     "end": 697.737
+    },
+    {
+     "w": "là",
+     "start": 697.737,
+     "end": 698.041
+    }
+   ]
+  },
+  {
+   "id": "s145",
+   "text": "Il reste une dernière possibilité.",
+   "chapter": 5,
+   "paragraph": 33,
+   "start": 701.041,
+   "end": 703.696,
+   "words": [
+    {
+     "w": "Il",
+     "start": 701.041,
+     "end": 701.344
+    },
+    {
+     "w": "reste",
+     "start": 701.344,
+     "end": 701.648
+    },
+    {
+     "w": "une",
+     "start": 701.648,
+     "end": 701.951
+    },
+    {
+     "w": "dernière",
+     "start": 701.951,
+     "end": 702.634
+    },
+    {
+     "w": "possibilité",
+     "start": 702.634,
+     "end": 703.696
+    }
+   ]
+  },
+  {
+   "id": "s146",
+   "text": "Peut-être qu’on t’accuse de défendre Walter alors que, toi, tu as juste dit que tu adorais Breaking Bad.",
+   "chapter": 5,
+   "paragraph": 33,
+   "start": 703.996,
+   "end": 711.176,
+   "words": [
+    {
+     "w": "Peut-être",
+     "start": 703.996,
+     "end": 704.489
+    },
+    {
+     "w": "qu’on",
+     "start": 704.489,
+     "end": 704.793
+    },
+    {
+     "w": "t’accuse",
+     "start": 704.793,
+     "end": 705.286
+    },
+    {
+     "w": "de",
+     "start": 705.286,
+     "end": 705.589
+    },
+    {
+     "w": "défendre",
+     "start": 705.589,
+     "end": 706.082
+    },
+    {
+     "w": "Walter",
+     "start": 706.082,
+     "end": 706.576
+    },
+    {
+     "w": "alors",
+     "start": 706.576,
+     "end": 707.069
+    },
+    {
+     "w": "que",
+     "start": 707.069,
+     "end": 707.372
+    },
+    {
+     "w": "toi",
+     "start": 707.472,
+     "end": 707.776
+    },
+    {
+     "w": "tu",
+     "start": 707.876,
+     "end": 708.179
+    },
+    {
+     "w": "as",
+     "start": 708.179,
+     "end": 708.483
+    },
+    {
+     "w": "juste",
+     "start": 708.483,
+     "end": 708.786
+    },
+    {
+     "w": "dit",
+     "start": 708.786,
+     "end": 709.089
+    },
+    {
+     "w": "que",
+     "start": 709.089,
+     "end": 709.393
+    },
+    {
+     "w": "tu",
+     "start": 709.393,
+     "end": 709.696
+    },
+    {
+     "w": "adorais",
+     "start": 709.696,
+     "end": 710.379
+    },
+    {
+     "w": "Breaking",
+     "start": 710.379,
+     "end": 710.872
+    },
+    {
+     "w": "Bad",
+     "start": 710.872,
+     "end": 711.176
+    }
+   ]
+  },
+  {
+   "id": "s147",
+   "text": "Dans une expérience publiée en 2023, Jordan Wylie et Ana Gantman donnaient un choix aux participants.",
+   "chapter": 5,
+   "paragraph": 34,
+   "start": 711.776,
+   "end": 719.576,
+   "words": [
+    {
+     "w": "Dans",
+     "start": 711.776,
+     "end": 712.079
+    },
+    {
+     "w": "une",
+     "start": 712.079,
+     "end": 712.383
+    },
+    {
+     "w": "expérience",
+     "start": 712.383,
+     "end": 713.066
+    },
+    {
+     "w": "publiée",
+     "start": 713.066,
+     "end": 713.559
+    },
+    {
+     "w": "en",
+     "start": 713.559,
+     "end": 713.862
+    },
+    {
+     "w": "2023",
+     "start": 713.862,
+     "end": 714.924
+    },
+    {
+     "w": "Jordan",
+     "start": 715.024,
+     "end": 715.517
+    },
+    {
+     "w": "Wylie",
+     "start": 715.517,
+     "end": 716.01
+    },
+    {
+     "w": "et",
+     "start": 716.01,
+     "end": 716.314
+    },
+    {
+     "w": "Ana",
+     "start": 716.314,
+     "end": 716.807
+    },
+    {
+     "w": "Gantman",
+     "start": 716.807,
+     "end": 717.3
+    },
+    {
+     "w": "donnaient",
+     "start": 717.3,
+     "end": 717.793
+    },
+    {
+     "w": "un",
+     "start": 717.793,
+     "end": 718.097
+    },
+    {
+     "w": "choix",
+     "start": 718.097,
+     "end": 718.4
+    },
+    {
+     "w": "aux",
+     "start": 718.4,
+     "end": 718.704
+    },
+    {
+     "w": "participants",
+     "start": 718.704,
+     "end": 719.576
+    }
+   ]
+  },
+  {
+   "id": "s148",
+   "text": "Ils pouvaient découvrir à quoi ressemblait une personne, ou en apprendre davantage sur ce qu’elle avait vécu et fait.",
+   "chapter": 5,
+   "paragraph": 34,
+   "start": 719.876,
+   "end": 727.828,
+   "words": [
+    {
+     "w": "Ils",
+     "start": 719.876,
+     "end": 720.18
+    },
+    {
+     "w": "pouvaient",
+     "start": 720.18,
+     "end": 720.673
+    },
+    {
+     "w": "découvrir",
+     "start": 720.673,
+     "end": 721.356
+    },
+    {
+     "w": "à",
+     "start": 721.356,
+     "end": 721.659
+    },
+    {
+     "w": "quoi",
+     "start": 721.659,
+     "end": 721.963
+    },
+    {
+     "w": "ressemblait",
+     "start": 721.963,
+     "end": 722.645
+    },
+    {
+     "w": "une",
+     "start": 722.645,
+     "end": 722.949
+    },
+    {
+     "w": "personne",
+     "start": 722.949,
+     "end": 723.442
+    },
+    {
+     "w": "ou",
+     "start": 723.542,
+     "end": 723.845
+    },
+    {
+     "w": "en",
+     "start": 723.845,
+     "end": 724.149
+    },
+    {
+     "w": "apprendre",
+     "start": 724.149,
+     "end": 724.642
+    },
+    {
+     "w": "davantage",
+     "start": 724.642,
+     "end": 725.325
+    },
+    {
+     "w": "sur",
+     "start": 725.325,
+     "end": 725.628
+    },
+    {
+     "w": "ce",
+     "start": 725.628,
+     "end": 725.932
+    },
+    {
+     "w": "qu’elle",
+     "start": 725.932,
+     "end": 726.235
+    },
+    {
+     "w": "avait",
+     "start": 726.235,
+     "end": 726.728
+    },
+    {
+     "w": "vécu",
+     "start": 726.728,
+     "end": 727.221
+    },
+    {
+     "w": "et",
+     "start": 727.221,
+     "end": 727.525
+    },
+    {
+     "w": "fait",
+     "start": 727.525,
+     "end": 727.828
+    }
+   ]
+  },
+  {
+   "id": "s149",
+   "text": "Quand la personne leur était présentée comme immorale, ils choisissaient plus souvent de découvrir son histoire que lorsqu’elle leur était présentée comme quelqu’un de bien.",
+   "chapter": 5,
+   "paragraph": 34,
+   "start": 728.128,
+   "end": 739.419,
+   "words": [
+    {
+     "w": "Quand",
+     "start": 728.128,
+     "end": 728.621
+    },
+    {
+     "w": "la",
+     "start": 728.621,
+     "end": 728.925
+    },
+    {
+     "w": "personne",
+     "start": 728.925,
+     "end": 729.418
+    },
+    {
+     "w": "leur",
+     "start": 729.418,
+     "end": 729.722
+    },
+    {
+     "w": "était",
+     "start": 729.722,
+     "end": 730.215
+    },
+    {
+     "w": "présentée",
+     "start": 730.215,
+     "end": 730.897
+    },
+    {
+     "w": "comme",
+     "start": 730.897,
+     "end": 731.201
+    },
+    {
+     "w": "immorale",
+     "start": 731.201,
+     "end": 731.884
+    },
+    {
+     "w": "ils",
+     "start": 731.984,
+     "end": 732.287
+    },
+    {
+     "w": "choisissaient",
+     "start": 732.287,
+     "end": 732.97
+    },
+    {
+     "w": "plus",
+     "start": 732.97,
+     "end": 733.273
+    },
+    {
+     "w": "souvent",
+     "start": 733.273,
+     "end": 733.577
+    },
+    {
+     "w": "de",
+     "start": 733.577,
+     "end": 733.88
+    },
+    {
+     "w": "découvrir",
+     "start": 733.88,
+     "end": 734.563
+    },
+    {
+     "w": "son",
+     "start": 734.563,
+     "end": 734.867
+    },
+    {
+     "w": "histoire",
+     "start": 734.867,
+     "end": 735.36
+    },
+    {
+     "w": "que",
+     "start": 735.36,
+     "end": 735.663
+    },
+    {
+     "w": "lorsqu’elle",
+     "start": 735.663,
+     "end": 736.346
+    },
+    {
+     "w": "leur",
+     "start": 736.346,
+     "end": 736.649
+    },
+    {
+     "w": "était",
+     "start": 736.649,
+     "end": 737.143
+    },
+    {
+     "w": "présentée",
+     "start": 737.143,
+     "end": 737.825
+    },
+    {
+     "w": "comme",
+     "start": 737.825,
+     "end": 738.129
+    },
+    {
+     "w": "quelqu’un",
+     "start": 738.129,
+     "end": 738.812
+    },
+    {
+     "w": "de",
+     "start": 738.812,
+     "end": 739.115
+    },
+    {
+     "w": "bien",
+     "start": 739.115,
+     "end": 739.419
+    }
+   ]
+  },
+  {
+   "id": "s150",
+   "text": "Et je trouve que ça décrit assez bien un plaisir qu’on peut prendre devant Breaking Bad.",
+   "chapter": 5,
+   "paragraph": 35,
+   "start": 740.019,
+   "end": 745.822,
+   "words": [
+    {
+     "w": "Et",
+     "start": 740.019,
+     "end": 740.322
+    },
+    {
+     "w": "je",
+     "start": 740.322,
+     "end": 740.626
+    },
+    {
+     "w": "trouve",
+     "start": 740.626,
+     "end": 740.929
+    },
+    {
+     "w": "que",
+     "start": 740.929,
+     "end": 741.232
+    },
+    {
+     "w": "ça",
+     "start": 741.232,
+     "end": 741.536
+    },
+    {
+     "w": "décrit",
+     "start": 741.536,
+     "end": 742.029
+    },
+    {
+     "w": "assez",
+     "start": 742.029,
+     "end": 742.522
+    },
+    {
+     "w": "bien",
+     "start": 742.522,
+     "end": 742.826
+    },
+    {
+     "w": "un",
+     "start": 742.826,
+     "end": 743.129
+    },
+    {
+     "w": "plaisir",
+     "start": 743.129,
+     "end": 743.622
+    },
+    {
+     "w": "qu’on",
+     "start": 743.622,
+     "end": 743.926
+    },
+    {
+     "w": "peut",
+     "start": 743.926,
+     "end": 744.229
+    },
+    {
+     "w": "prendre",
+     "start": 744.229,
+     "end": 744.533
+    },
+    {
+     "w": "devant",
+     "start": 744.533,
+     "end": 745.026
+    },
+    {
+     "w": "Breaking",
+     "start": 745.026,
+     "end": 745.519
+    },
+    {
+     "w": "Bad",
+     "start": 745.519,
+     "end": 745.822
+    }
+   ]
+  },
+  {
+   "id": "s151",
+   "text": "Comment on passe du type qui mange du bacon végétal en famille au type qui fait sauter le bureau de Tuco ?",
+   "chapter": 5,
+   "paragraph": 35,
+   "start": 746.122,
+   "end": 753.823,
+   "words": [
+    {
+     "w": "Comment",
+     "start": 746.122,
+     "end": 746.426
+    },
+    {
+     "w": "on",
+     "start": 746.426,
+     "end": 746.729
+    },
+    {
+     "w": "passe",
+     "start": 746.729,
+     "end": 747.033
+    },
+    {
+     "w": "du",
+     "start": 747.033,
+     "end": 747.336
+    },
+    {
+     "w": "type",
+     "start": 747.336,
+     "end": 747.64
+    },
+    {
+     "w": "qui",
+     "start": 747.64,
+     "end": 747.943
+    },
+    {
+     "w": "mange",
+     "start": 747.943,
+     "end": 748.247
+    },
+    {
+     "w": "du",
+     "start": 748.247,
+     "end": 748.55
+    },
+    {
+     "w": "bacon",
+     "start": 748.55,
+     "end": 749.043
+    },
+    {
+     "w": "végétal",
+     "start": 749.043,
+     "end": 749.726
+    },
+    {
+     "w": "en",
+     "start": 749.726,
+     "end": 750.029
+    },
+    {
+     "w": "famille",
+     "start": 750.029,
+     "end": 750.523
+    },
+    {
+     "w": "au",
+     "start": 750.523,
+     "end": 750.826
+    },
+    {
+     "w": "type",
+     "start": 750.826,
+     "end": 751.13
+    },
+    {
+     "w": "qui",
+     "start": 751.13,
+     "end": 751.433
+    },
+    {
+     "w": "fait",
+     "start": 751.433,
+     "end": 751.736
+    },
+    {
+     "w": "sauter",
+     "start": 751.736,
+     "end": 752.23
+    },
+    {
+     "w": "le",
+     "start": 752.23,
+     "end": 752.533
+    },
+    {
+     "w": "bureau",
+     "start": 752.533,
+     "end": 753.026
+    },
+    {
+     "w": "de",
+     "start": 753.026,
+     "end": 753.33
+    },
+    {
+     "w": "Tuco",
+     "start": 753.33,
+     "end": 753.823
+    }
+   ]
+  },
+  {
+   "id": "s152",
+   "text": "Rien que pour comprendre le trajet, j’ai envie de lancer l’épisode suivant.",
+   "chapter": 5,
+   "paragraph": 35,
+   "start": 754.123,
+   "end": 759.192,
+   "words": [
+    {
+     "w": "Rien",
+     "start": 754.123,
+     "end": 754.426
+    },
+    {
+     "w": "que",
+     "start": 754.426,
+     "end": 754.73
+    },
+    {
+     "w": "pour",
+     "start": 754.73,
+     "end": 755.033
+    },
+    {
+     "w": "comprendre",
+     "start": 755.033,
+     "end": 755.526
+    },
+    {
+     "w": "le",
+     "start": 755.526,
+     "end": 755.83
+    },
+    {
+     "w": "trajet",
+     "start": 755.83,
+     "end": 756.323
+    },
+    {
+     "w": "j’ai",
+     "start": 756.423,
+     "end": 756.726
+    },
+    {
+     "w": "envie",
+     "start": 756.726,
+     "end": 757.219
+    },
+    {
+     "w": "de",
+     "start": 757.219,
+     "end": 757.523
+    },
+    {
+     "w": "lancer",
+     "start": 757.523,
+     "end": 758.016
+    },
+    {
+     "w": "l’épisode",
+     "start": 758.016,
+     "end": 758.699
+    },
+    {
+     "w": "suivant",
+     "start": 758.699,
+     "end": 759.192
+    }
+   ]
+  },
+  {
+   "id": "s153",
+   "text": "Essaie de répondre à ces trois questions sur Walter.",
+   "chapter": 5,
+   "paragraph": 36,
+   "start": 759.792,
+   "end": 763.471,
+   "words": [
+    {
+     "w": "Essaie",
+     "start": 759.792,
+     "end": 760.285
+    },
+    {
+     "w": "de",
+     "start": 760.285,
+     "end": 760.589
+    },
+    {
+     "w": "répondre",
+     "start": 760.589,
+     "end": 761.082
+    },
+    {
+     "w": "à",
+     "start": 761.082,
+     "end": 761.385
+    },
+    {
+     "w": "ces",
+     "start": 761.385,
+     "end": 761.689
+    },
+    {
+     "w": "trois",
+     "start": 761.689,
+     "end": 761.992
+    },
+    {
+     "w": "questions",
+     "start": 761.992,
+     "end": 762.675
+    },
+    {
+     "w": "sur",
+     "start": 762.675,
+     "end": 762.978
+    },
+    {
+     "w": "Walter",
+     "start": 762.978,
+     "end": 763.471
+    }
+   ]
+  },
+  {
+   "id": "s154",
+   "text": "Est-ce que tu voulais connaître la suite de son plan chez Tuco ?",
+   "chapter": 5,
+   "paragraph": 37,
+   "start": 764.071,
+   "end": 768.282,
+   "words": [
+    {
+     "w": "Est-ce",
+     "start": 764.071,
+     "end": 764.375
+    },
+    {
+     "w": "que",
+     "start": 764.375,
+     "end": 764.678
+    },
+    {
+     "w": "tu",
+     "start": 764.678,
+     "end": 764.982
+    },
+    {
+     "w": "voulais",
+     "start": 764.982,
+     "end": 765.475
+    },
+    {
+     "w": "connaître",
+     "start": 765.475,
+     "end": 765.968
+    },
+    {
+     "w": "la",
+     "start": 765.968,
+     "end": 766.272
+    },
+    {
+     "w": "suite",
+     "start": 766.272,
+     "end": 766.575
+    },
+    {
+     "w": "de",
+     "start": 766.575,
+     "end": 766.879
+    },
+    {
+     "w": "son",
+     "start": 766.879,
+     "end": 767.182
+    },
+    {
+     "w": "plan",
+     "start": 767.182,
+     "end": 767.485
+    },
+    {
+     "w": "chez",
+     "start": 767.485,
+     "end": 767.789
+    },
+    {
+     "w": "Tuco",
+     "start": 767.789,
+     "end": 768.282
+    }
+   ]
+  },
+  {
+   "id": "s155",
+   "text": "Est-ce que tu voulais qu’il rentre chez lui vivant ?",
+   "chapter": 5,
+   "paragraph": 38,
+   "start": 770.282,
+   "end": 773.393,
+   "words": [
+    {
+     "w": "Est-ce",
+     "start": 770.282,
+     "end": 770.586
+    },
+    {
+     "w": "que",
+     "start": 770.586,
+     "end": 770.889
+    },
+    {
+     "w": "tu",
+     "start": 770.889,
+     "end": 771.192
+    },
+    {
+     "w": "voulais",
+     "start": 771.192,
+     "end": 771.686
+    },
+    {
+     "w": "qu’il",
+     "start": 771.686,
+     "end": 771.989
+    },
+    {
+     "w": "rentre",
+     "start": 771.989,
+     "end": 772.293
+    },
+    {
+     "w": "chez",
+     "start": 772.293,
+     "end": 772.596
+    },
+    {
+     "w": "lui",
+     "start": 772.596,
+     "end": 772.899
+    },
+    {
+     "w": "vivant",
+     "start": 772.899,
+     "end": 773.393
+    }
+   ]
+  },
+  {
+   "id": "s156",
+   "text": "Est-ce que tu aurais trouvé sa conduite acceptable si tu avais été assis dans le bureau d’à côté ?",
+   "chapter": 5,
+   "paragraph": 39,
+   "start": 775.393,
+   "end": 782.752,
+   "words": [
+    {
+     "w": "Est-ce",
+     "start": 775.393,
+     "end": 775.696
+    },
+    {
+     "w": "que",
+     "start": 775.696,
+     "end": 776.0
+    },
+    {
+     "w": "tu",
+     "start": 776.0,
+     "end": 776.303
+    },
+    {
+     "w": "aurais",
+     "start": 776.303,
+     "end": 776.796
+    },
+    {
+     "w": "trouvé",
+     "start": 776.796,
+     "end": 777.289
+    },
+    {
+     "w": "sa",
+     "start": 777.289,
+     "end": 777.593
+    },
+    {
+     "w": "conduite",
+     "start": 777.593,
+     "end": 778.086
+    },
+    {
+     "w": "acceptable",
+     "start": 778.086,
+     "end": 778.769
+    },
+    {
+     "w": "si",
+     "start": 778.769,
+     "end": 779.072
+    },
+    {
+     "w": "tu",
+     "start": 779.072,
+     "end": 779.376
+    },
+    {
+     "w": "avais",
+     "start": 779.376,
+     "end": 779.869
+    },
+    {
+     "w": "été",
+     "start": 779.869,
+     "end": 780.362
+    },
+    {
+     "w": "assis",
+     "start": 780.362,
+     "end": 780.855
+    },
+    {
+     "w": "dans",
+     "start": 780.855,
+     "end": 781.158
+    },
+    {
+     "w": "le",
+     "start": 781.158,
+     "end": 781.462
+    },
+    {
+     "w": "bureau",
+     "start": 781.462,
+     "end": 781.955
+    },
+    {
+     "w": "d’à",
+     "start": 781.955,
+     "end": 782.258
+    },
+    {
+     "w": "côté",
+     "start": 782.258,
+     "end": 782.752
+    }
+   ]
+  },
+  {
+   "id": "s157",
+   "text": "Tu peux répondre oui, oui, non.",
+   "chapter": 5,
+   "paragraph": 40,
+   "start": 785.352,
+   "end": 787.941,
+   "words": [
+    {
+     "w": "Tu",
+     "start": 785.352,
+     "end": 785.655
+    },
+    {
+     "w": "peux",
+     "start": 785.655,
+     "end": 785.959
+    },
+    {
+     "w": "répondre",
+     "start": 785.959,
+     "end": 786.452
+    },
+    {
+     "w": "oui",
+     "start": 786.452,
+     "end": 786.945
+    },
+    {
+     "w": "oui",
+     "start": 787.045,
+     "end": 787.538
+    },
+    {
+     "w": "non",
+     "start": 787.638,
+     "end": 787.941
+    }
+   ]
+  },
+  {
+   "id": "s158",
+   "text": "La curiosité, l’attachement et le jugement moral n’ont pas besoin d’aller dans le même sens.",
+   "chapter": 5,
+   "paragraph": 41,
+   "start": 788.841,
+   "end": 795.39,
+   "words": [
+    {
+     "w": "La",
+     "start": 788.841,
+     "end": 789.145
+    },
+    {
+     "w": "curiosité",
+     "start": 789.145,
+     "end": 790.207
+    },
+    {
+     "w": "l’attachement",
+     "start": 790.307,
+     "end": 790.99
+    },
+    {
+     "w": "et",
+     "start": 790.99,
+     "end": 791.293
+    },
+    {
+     "w": "le",
+     "start": 791.293,
+     "end": 791.597
+    },
+    {
+     "w": "jugement",
+     "start": 791.597,
+     "end": 792.09
+    },
+    {
+     "w": "moral",
+     "start": 792.09,
+     "end": 792.583
+    },
+    {
+     "w": "n’ont",
+     "start": 792.583,
+     "end": 792.886
+    },
+    {
+     "w": "pas",
+     "start": 792.886,
+     "end": 793.19
+    },
+    {
+     "w": "besoin",
+     "start": 793.19,
+     "end": 793.683
+    },
+    {
+     "w": "d’aller",
+     "start": 793.683,
+     "end": 794.176
+    },
+    {
+     "w": "dans",
+     "start": 794.176,
+     "end": 794.48
+    },
+    {
+     "w": "le",
+     "start": 794.48,
+     "end": 794.783
+    },
+    {
+     "w": "même",
+     "start": 794.783,
+     "end": 795.087
+    },
+    {
+     "w": "sens",
+     "start": 795.087,
+     "end": 795.39
+    }
+   ]
+  },
+  {
+   "id": "s159",
+   "text": "Je te laisse avec le livre d’Armin.",
+   "chapter": 6,
+   "paragraph": 42,
+   "start": 798.39,
+   "end": 800.894,
+   "words": [
+    {
+     "w": "Je",
+     "start": 798.39,
+     "end": 798.693
+    },
+    {
+     "w": "te",
+     "start": 798.693,
+     "end": 798.997
+    },
+    {
+     "w": "laisse",
+     "start": 798.997,
+     "end": 799.3
+    },
+    {
+     "w": "avec",
+     "start": 799.3,
+     "end": 799.794
+    },
+    {
+     "w": "le",
+     "start": 799.794,
+     "end": 800.097
+    },
+    {
+     "w": "livre",
+     "start": 800.097,
+     "end": 800.4
+    },
+    {
+     "w": "d’Armin",
+     "start": 800.4,
+     "end": 800.894
+    }
+   ]
+  },
+  {
+   "id": "s160",
+   "text": "Tu peux toujours souhaiter à ces deux gamins de voir la mer.",
+   "chapter": 6,
+   "paragraph": 42,
+   "start": 801.194,
+   "end": 805.594,
+   "words": [
+    {
+     "w": "Tu",
+     "start": 801.194,
+     "end": 801.497
+    },
+    {
+     "w": "peux",
+     "start": 801.497,
+     "end": 801.801
+    },
+    {
+     "w": "toujours",
+     "start": 801.801,
+     "end": 802.294
+    },
+    {
+     "w": "souhaiter",
+     "start": 802.294,
+     "end": 802.976
+    },
+    {
+     "w": "à",
+     "start": 802.976,
+     "end": 803.28
+    },
+    {
+     "w": "ces",
+     "start": 803.28,
+     "end": 803.583
+    },
+    {
+     "w": "deux",
+     "start": 803.583,
+     "end": 803.887
+    },
+    {
+     "w": "gamins",
+     "start": 803.887,
+     "end": 804.38
+    },
+    {
+     "w": "de",
+     "start": 804.38,
+     "end": 804.683
+    },
+    {
+     "w": "voir",
+     "start": 804.683,
+     "end": 804.987
+    },
+    {
+     "w": "la",
+     "start": 804.987,
+     "end": 805.29
+    },
+    {
+     "w": "mer",
+     "start": 805.29,
+     "end": 805.594
+    }
+   ]
+  },
+  {
+   "id": "s161",
+   "text": "Maintenant, tu connais aussi le visage de l’enfant qui a vu les Titans passer la montagne.",
+   "chapter": 6,
+   "paragraph": 42,
+   "start": 805.894,
+   "end": 812.556,
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 805.894,
+     "end": 806.577
+    },
+    {
+     "w": "tu",
+     "start": 806.677,
+     "end": 806.98
+    },
+    {
+     "w": "connais",
+     "start": 806.98,
+     "end": 807.473
+    },
+    {
+     "w": "aussi",
+     "start": 807.473,
+     "end": 807.966
+    },
+    {
+     "w": "le",
+     "start": 807.966,
+     "end": 808.27
+    },
+    {
+     "w": "visage",
+     "start": 808.27,
+     "end": 808.763
+    },
+    {
+     "w": "de",
+     "start": 808.763,
+     "end": 809.066
+    },
+    {
+     "w": "l’enfant",
+     "start": 809.066,
+     "end": 809.56
+    },
+    {
+     "w": "qui",
+     "start": 809.56,
+     "end": 809.863
+    },
+    {
+     "w": "a",
+     "start": 809.863,
+     "end": 810.166
+    },
+    {
+     "w": "vu",
+     "start": 810.166,
+     "end": 810.47
+    },
+    {
+     "w": "les",
+     "start": 810.47,
+     "end": 810.773
+    },
+    {
+     "w": "Titans",
+     "start": 810.773,
+     "end": 811.267
+    },
+    {
+     "w": "passer",
+     "start": 811.267,
+     "end": 811.76
+    },
+    {
+     "w": "la",
+     "start": 811.76,
+     "end": 812.063
+    },
+    {
+     "w": "montagne",
+     "start": 812.063,
+     "end": 812.556
+    }
+   ]
+  },
+  {
+   "id": "s162",
+   "text": "Si L’Attaque des Titans t’avait présenté Ramzi en premier, et qu’Eren était entré dans ton histoire seulement à ce moment-là… est-ce que tu l’aurais défendu de la même manière ?",
+   "chapter": 6,
+   "paragraph": 43,
+   "start": 813.556,
+   "end": 826.7,
+   "words": [
+    {
+     "w": "Si",
+     "start": 813.556,
+     "end": 813.86
+    },
+    {
+     "w": "L’Attaque",
+     "start": 813.86,
+     "end": 814.542
+    },
+    {
+     "w": "des",
+     "start": 814.542,
+     "end": 814.846
+    },
+    {
+     "w": "Titans",
+     "start": 814.846,
+     "end": 815.339
+    },
+    {
+     "w": "t’avait",
+     "start": 815.339,
+     "end": 815.832
+    },
+    {
+     "w": "présenté",
+     "start": 815.832,
+     "end": 816.515
+    },
+    {
+     "w": "Ramzi",
+     "start": 816.515,
+     "end": 817.008
+    },
+    {
+     "w": "en",
+     "start": 817.008,
+     "end": 817.312
+    },
+    {
+     "w": "premier",
+     "start": 817.312,
+     "end": 817.805
+    },
+    {
+     "w": "et",
+     "start": 817.905,
+     "end": 818.208
+    },
+    {
+     "w": "qu’Eren",
+     "start": 818.208,
+     "end": 818.701
+    },
+    {
+     "w": "était",
+     "start": 818.701,
+     "end": 819.194
+    },
+    {
+     "w": "entré",
+     "start": 819.194,
+     "end": 819.688
+    },
+    {
+     "w": "dans",
+     "start": 819.688,
+     "end": 819.991
+    },
+    {
+     "w": "ton",
+     "start": 819.991,
+     "end": 820.295
+    },
+    {
+     "w": "histoire",
+     "start": 820.295,
+     "end": 820.788
+    },
+    {
+     "w": "seulement",
+     "start": 820.788,
+     "end": 821.281
+    },
+    {
+     "w": "à",
+     "start": 821.281,
+     "end": 821.584
+    },
+    {
+     "w": "ce",
+     "start": 821.584,
+     "end": 821.888
+    },
+    {
+     "w": "moment-là",
+     "start": 821.888,
+     "end": 822.57
+    },
+    {
+     "w": "est-ce",
+     "start": 823.02,
+     "end": 823.324
+    },
+    {
+     "w": "que",
+     "start": 823.324,
+     "end": 823.627
+    },
+    {
+     "w": "tu",
+     "start": 823.627,
+     "end": 823.931
+    },
+    {
+     "w": "l’aurais",
+     "start": 823.931,
+     "end": 824.424
+    },
+    {
+     "w": "défendu",
+     "start": 824.424,
+     "end": 825.107
+    },
+    {
+     "w": "de",
+     "start": 825.107,
+     "end": 825.41
+    },
+    {
+     "w": "la",
+     "start": 825.41,
+     "end": 825.714
+    },
+    {
+     "w": "même",
+     "start": 825.714,
+     "end": 826.017
+    },
+    {
+     "w": "manière",
+     "start": 826.017,
+     "end": 826.7
+    }
+   ]
+  }
+ ],
+ "pauses_imposees": [
+  {
+   "apres": "s009",
+   "texte": "Si tu avais rencontré Ramzi en premier, est-ce que tu aurais quand même défendu Eren ?",
+   "silence": 1.6,
+   "minimum": 1.6,
+   "ok": true,
+   "raison": "la question s’installe avant « Garde ta réponse. »"
+  },
+  {
+   "apres": "s010",
+   "texte": "Garde ta réponse.",
+   "silence": 4.4,
+   "minimum": 2.0,
+   "ok": true,
+   "raison": "laisser un temps avant le « 50 » en bacon"
+  },
+  {
+   "apres": "s012",
+   "texte": "Du bacon végétal.",
+   "silence": 0.6,
+   "minimum": 0.6,
+   "ok": true,
+   "raison": "le gag respire"
+  },
+  {
+   "apres": "s023",
+   "texte": "Les vitres explosent.",
+   "silence": 1.1,
+   "minimum": 1.1,
+   "ok": true,
+   "raison": "l’explosion, brève, puis le souffle"
+  },
+  {
+   "apres": "s031",
+   "texte": "Mais « ça », c’est quoi ?",
+   "silence": 0.6,
+   "minimum": 0.6,
+   "ok": true,
+   "raison": "« ça » isolé avant les compléments"
+  },
+  {
+   "apres": "s032",
+   "texte": "Laisser de l’argent à ses enfants ?",
+   "silence": 0.5,
+   "minimum": 0.5,
+   "ok": true,
+   "raison": "complément 1"
+  },
+  {
+   "apres": "s033",
+   "texte": "Entrer chez Tuco ?",
+   "silence": 0.5,
+   "minimum": 0.5,
+   "ok": true,
+   "raison": "complément 2"
+  },
+  {
+   "apres": "s034",
+   "texte": "Continuer à bâtir un empire ?",
+   "silence": 0.6,
+   "minimum": 0.6,
+   "ok": true,
+   "raison": "complément 3"
+  },
+  {
+   "apres": "s040",
+   "texte": "C’est faux.",
+   "silence": 0.6,
+   "minimum": 0.6,
+   "ok": true,
+   "raison": "la phrase est barrée"
+  },
+  {
+   "apres": "s053",
+   "texte": "Il se sentait vivant.",
+   "silence": 1.6,
+   "minimum": 1.6,
+   "ok": true,
+   "raison": "laisser la réaction de Skyler à l’image"
+  },
+  {
+   "apres": "s058",
+   "texte": "Il parle de désengagement moral.",
+   "silence": 0.5,
+   "minimum": 0.5,
+   "ok": true,
+   "raison": "entrée de la planche"
+  },
+  {
+   "apres": "s073",
+   "texte": "Pendant quelques secondes, sa question était devenue la mienne.",
+   "silence": 1.0,
+   "minimum": 1.0,
+   "ok": true,
+   "raison": "respiration avant la planche Raney"
+  },
+  {
+   "apres": "s084",
+   "texte": "Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?",
+   "silence": 1.2,
+   "minimum": 1.2,
+   "ok": true,
+   "raison": "l’horizon déjà occupé"
+  },
+  {
+   "apres": "s092",
+   "texte": "Qu’a fait cet enfant pour se retrouver du côté des accusés ?",
+   "silence": 1.6,
+   "minimum": 1.6,
+   "ok": true,
+   "raison": "contrechamp sur Ramzi"
+  },
+  {
+   "apres": "s098",
+   "texte": "Palpatine.",
+   "silence": 0.8,
+   "minimum": 0.8,
+   "ok": true,
+   "raison": "le nom seul"
+  },
+  {
+   "apres": "s112",
+   "texte": "Qui a levé la main ?",
+   "silence": 1.4,
+   "minimum": 1.4,
+   "ok": true,
+   "raison": "une seconde de silence sur la main (au moins 1,0 s)"
+  },
+  {
+   "apres": "s127",
+   "texte": "Qu’est-ce qu’il croit être en train de perdre ?",
+   "silence": 4.2,
+   "minimum": 4.2,
+   "ok": true,
+   "raison": "test : 0,6 s + geste de 3,0 s + 0,6 s"
+  },
+  {
+   "apres": "s130",
+   "texte": "Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?",
+   "silence": 4.2,
+   "minimum": 4.2,
+   "ok": true,
+   "raison": "test : 0,6 s + le même geste de 3,0 s + 0,6 s"
+  },
+  {
+   "apres": "s131",
+   "texte": "Est-ce que tu as regardé la même chose les deux fois ?",
+   "silence": 1.6,
+   "minimum": 1.6,
+   "ok": true,
+   "raison": "la question reste à l’écran"
+  },
+  {
+   "apres": "s137",
+   "texte": "Les autres, essayer de se mettre à sa place.",
+   "silence": 0.9,
+   "minimum": 0.9,
+   "ok": true,
+   "raison": "deuxième temps du protocole"
+  },
+  {
+   "apres": "s141",
+   "texte": "Personne n’avait à rendre de verdict.",
+   "silence": 0.9,
+   "minimum": 0.9,
+   "ok": true,
+   "raison": "le mot « verdict » est barré"
+  },
+  {
+   "apres": "s153",
+   "texte": "Essaie de répondre à ces trois questions sur Walter.",
+   "silence": 0.6,
+   "minimum": 0.6,
+   "ok": true,
+   "raison": "entrée de la première question"
+  },
+  {
+   "apres": "s154",
+   "texte": "Est-ce que tu voulais connaître la suite de son plan chez Tuco ?",
+   "silence": 2.0,
+   "minimum": 2.0,
+   "ok": true,
+   "raison": "temps de réponse"
+  },
+  {
+   "apres": "s155",
+   "texte": "Est-ce que tu voulais qu’il rentre chez lui vivant ?",
+   "silence": 2.0,
+   "minimum": 2.0,
+   "ok": true,
+   "raison": "temps de réponse"
+  },
+  {
+   "apres": "s156",
+   "texte": "Est-ce que tu aurais trouvé sa conduite acceptable si tu avais été assis dans le bureau d’à côté ?",
+   "silence": 2.6,
+   "minimum": 2.6,
+   "ok": true,
+   "raison": "temps de réponse avant « oui, oui, non »"
+  },
+  {
+   "apres": "s157",
+   "texte": "Tu peux répondre oui, oui, non.",
+   "silence": 0.9,
+   "minimum": 0.9,
+   "ok": true,
+   "raison": "les trois réponses s’affichent"
+  },
+  {
+   "apres": "s161",
+   "texte": "Maintenant, tu connais aussi le visage de l’enfant qui a vu les Titans passer la montagne.",
+   "silence": 1.0,
+   "minimum": 1.0,
+   "ok": true,
+   "raison": "Ramzi, puis la dernière question"
+  }
+ ]
+}

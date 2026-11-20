@@ -1,0 +1,151 @@
+{
+  "_doc": "Règles de minutage. Version de calage : débit fixe + ces silences. Avec la voix : ces silences deviennent des minimums imposés au montage de la voix (coupes sur respiration). Les clés « phrase » désignent une phrase du script par son début exact.",
+  "debit_mots_par_minute": 150,
+  "virgule": 0.1,
+  "deux_points": 0.25,
+  "point_virgule": 0.2,
+  "points_de_suspension": 0.45,
+  "entre_phrases": 0.3,
+  "entre_paragraphes": 0.6,
+  "avant_chapitre": 2.4,
+  "intro": 2.4,
+  "silence_final": 1.0,
+  "noir_final": 1.5,
+  "apres": [
+    {
+      "phrase": "Si tu avais rencontré Ramzi en premier",
+      "s": 1.6,
+      "raison": "la question s’installe avant « Garde ta réponse. »"
+    },
+    {
+      "phrase": "Garde ta réponse.",
+      "s": 2.0,
+      "raison": "laisser un temps avant le « 50 » en bacon"
+    },
+    {
+      "phrase": "Du bacon végétal.",
+      "s": 0.6,
+      "raison": "le gag respire"
+    },
+    {
+      "phrase": "Les vitres explosent.",
+      "s": 1.1,
+      "raison": "l’explosion, brève, puis le souffle"
+    },
+    {
+      "phrase": "Mais « ça », c’est quoi ?",
+      "s": 0.6,
+      "raison": "« ça » isolé avant les compléments"
+    },
+    {
+      "phrase": "Laisser de l’argent à ses enfants ?",
+      "s": 0.5,
+      "raison": "complément 1"
+    },
+    {
+      "phrase": "Entrer chez Tuco ?",
+      "s": 0.5,
+      "raison": "complément 2"
+    },
+    {
+      "phrase": "Continuer à bâtir un empire ?",
+      "s": 0.6,
+      "raison": "complément 3"
+    },
+    {
+      "phrase": "C’est faux.",
+      "s": 0.6,
+      "raison": "la phrase est barrée"
+    },
+    {
+      "phrase": "Il se sentait vivant.",
+      "s": 1.6,
+      "raison": "laisser la réaction de Skyler à l’image"
+    },
+    {
+      "phrase": "Il parle de désengagement moral.",
+      "s": 0.5,
+      "raison": "entrée de la planche"
+    },
+    {
+      "phrase": "Pendant quelques secondes, sa question était devenue la mienne.",
+      "s": 1.0,
+      "raison": "respiration avant la planche Raney"
+    },
+    {
+      "phrase": "Si même la montagne n’arrête pas les Titans",
+      "s": 1.2,
+      "raison": "l’horizon déjà occupé"
+    },
+    {
+      "phrase": "Qu’a fait cet enfant pour se retrouver du côté des accusés ?",
+      "s": 1.6,
+      "raison": "contrechamp sur Ramzi"
+    },
+    {
+      "phrase": "Palpatine.",
+      "s": 0.8,
+      "raison": "le nom seul"
+    },
+    {
+      "phrase": "Qui a levé la main ?",
+      "s": 1.4,
+      "raison": "une seconde de silence sur la main (au moins 1,0 s)"
+    },
+    {
+      "phrase": "Qu’est-ce qu’il croit être en train de perdre ?",
+      "s": 4.2,
+      "raison": "test : 0,6 s + geste de 3,0 s + 0,6 s"
+    },
+    {
+      "phrase": "Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?",
+      "s": 4.2,
+      "raison": "test : 0,6 s + le même geste de 3,0 s + 0,6 s"
+    },
+    {
+      "phrase": "Est-ce que tu as regardé la même chose les deux fois ?",
+      "s": 1.6,
+      "raison": "la question reste à l’écran"
+    },
+    {
+      "phrase": "Les autres, essayer de se mettre à sa place.",
+      "s": 0.9,
+      "raison": "deuxième temps du protocole"
+    },
+    {
+      "phrase": "Essaie de répondre à ces trois questions sur Walter.",
+      "s": 0.6,
+      "raison": "entrée de la première question"
+    },
+    {
+      "phrase": "Est-ce que tu voulais connaître la suite de son plan chez Tuco ?",
+      "s": 2.0,
+      "raison": "temps de réponse"
+    },
+    {
+      "phrase": "Est-ce que tu voulais qu’il rentre chez lui vivant ?",
+      "s": 2.0,
+      "raison": "temps de réponse"
+    },
+    {
+      "phrase": "Est-ce que tu aurais trouvé sa conduite acceptable",
+      "s": 2.6,
+      "raison": "temps de réponse avant « oui, oui, non »"
+    },
+    {
+      "phrase": "Tu peux répondre oui, oui, non.",
+      "s": 0.9,
+      "raison": "les trois réponses s’affichent"
+    },
+    {
+      "phrase": "Maintenant, tu connais aussi le visage de l’enfant",
+      "s": 1.0,
+      "raison": "Ramzi, puis la dernière question"
+    },
+    {
+      "phrase": "Personne n’avait à rendre de verdict.",
+      "s": 0.9,
+      "raison": "le mot « verdict » est barré"
+    }
+  ]
+}

@@ -1,0 +1,2537 @@
+[
+ {
+  "start": 2.4,
+  "end": 4.833,
+  "speech_end": 4.6,
+  "text": "Ton meilleur ami ouvre un livre.",
+  "lines": [
+   "Ton meilleur ami ouvre un livre."
+  ],
+  "sids": [
+   "s001"
+  ]
+ },
+ {
+  "start": 4.9,
+  "end": 7.967,
+  "speech_end": 7.731,
+  "text": "Sur une des pages, il y a la mer.",
+  "lines": [
+   "Sur une des pages, il y a la mer."
+  ],
+  "sids": [
+   "s002"
+  ]
+ },
+ {
+  "start": 8.033,
+  "end": 12.867,
+  "speech_end": 12.821,
+  "text": "Tu t’appelles Eren, tu as grandi derrière des murs, et d’un coup,",
+  "lines": [
+   "Tu t’appelles Eren, tu as grandi",
+   "derrière des murs, et d’un coup,"
+  ],
+  "sids": [
+   "s003"
+  ]
+ },
+ {
+  "start": 12.933,
+  "end": 16.2,
+  "speech_end": 15.652,
+  "text": "tu veux voir la mer de tes propres yeux.",
+  "lines": [
+   "tu veux voir la mer de tes propres yeux."
+  ],
+  "sids": [
+   "s003"
+  ]
+ },
+ {
+  "start": 16.267,
+  "end": 21.833,
+  "speech_end": 21.587,
+  "text": "Maintenant, imagine que L’Attaque des Titans commence avec un autre enfant.",
+  "lines": [
+   "Maintenant, imagine que L’Attaque",
+   "des Titans commence avec un autre enfant."
+  ],
+  "sids": [
+   "s004"
+  ]
+ },
+ {
+  "start": 21.9,
+  "end": 23.4,
+  "speech_end": 23.177,
+  "text": "Il s’appelle Ramzi.",
+  "lines": [
+   "Il s’appelle Ramzi."
+  ],
+  "sids": [
+   "s005"
+  ]
+ },
+ {
+  "start": 23.467,
+  "end": 26.533,
+  "speech_end": 26.284,
+  "text": "Des Titans passent la crête de la montagne.",
+  "lines": [
+   "Des Titans passent",
+   "la crête de la montagne."
+  ],
+  "sids": [
+   "s006"
+  ]
+ },
+ {
+  "start": 26.6,
+  "end": 30.233,
+  "speech_end": 29.984,
+  "text": "Autour de lui, les adultes se mettent à courir.",
+  "lines": [
+   "Autour de lui,",
+   "les adultes se mettent à courir."
+  ],
+  "sids": [
+   "s007"
+  ]
+ },
+ {
+  "start": 30.3,
+  "end": 35.0,
+  "speech_end": 34.481,
+  "text": "Et celui qui envoie ces Titans, c’est le garçon du livre.",
+  "lines": [
+   "Et celui qui envoie ces Titans,",
+   "c’est le garçon du livre."
+  ],
+  "sids": [
+   "s008"
+  ]
+ },
+ {
+  "start": 35.067,
+  "end": 38.2,
+  "speech_end": 38.153,
+  "text": "Si tu avais rencontré Ramzi en premier,",
+  "lines": [
+   "Si tu avais rencontré Ramzi en premier,"
+  ],
+  "sids": [
+   "s009"
+  ]
+ },
+ {
+  "start": 38.267,
+  "end": 42.833,
+  "speech_end": 41.629,
+  "text": "est-ce que tu aurais quand même défendu Eren ?",
+  "lines": [
+   "est-ce que tu aurais",
+   "quand même défendu Eren ?"
+  ],
+  "sids": [
+   "s009"
+  ]
+ },
+ {
+  "start": 43.233,
+  "end": 45.533,
+  "speech_end": 44.33,
+  "text": "Garde ta réponse.",
+  "lines": [
+   "Garde ta réponse."
+  ],
+  "sids": [
+   "s010"
+  ]
+ },
+ {
+  "start": 48.733,
+  "end": 50.367,
+  "speech_end": 50.323,
+  "text": "Pour ses cinquante ans,",
+  "lines": [
+   "Pour ses cinquante ans,"
+  ],
+  "sids": [
+   "s011"
+  ]
+ },
+ {
+  "start": 50.433,
+  "end": 55.933,
+  "speech_end": 55.695,
+  "text": "Walter White a droit à un « 50 » dessiné en bacon dans son assiette.",
+  "lines": [
+   "Walter White a droit à un « 50 »",
+   "dessiné en bacon dans son assiette."
+  ],
+  "sids": [
+   "s011"
+  ]
+ },
+ {
+  "start": 56.0,
+  "end": 61.0,
+  "speech_end": 60.958,
+  "text": "Du bacon végétal. Sa femme lui souhaite un bon anniversaire,",
+  "lines": [
+   "Du bacon végétal.",
+   "Sa femme lui souhaite un bon anniversaire,"
+  ],
+  "sids": [
+   "s012",
+   "s013"
+  ]
+ },
+ {
+  "start": 61.067,
+  "end": 64.4,
+  "speech_end": 64.358,
+  "text": "son fils a franchement des réserves sur le menu,",
+  "lines": [
+   "son fils a franchement",
+   "des réserves sur le menu,"
+  ],
+  "sids": [
+   "s013"
+  ]
+ },
+ {
+  "start": 64.467,
+  "end": 69.767,
+  "speech_end": 69.541,
+  "text": "et tout le monde a l’air d’avoir déjà eu cette conversation quinze fois.",
+  "lines": [
+   "et tout le monde a l’air d’avoir",
+   "déjà eu cette conversation quinze fois."
+  ],
+  "sids": [
+   "s013"
+  ]
+ },
+ {
+  "start": 69.833,
+  "end": 73.567,
+  "speech_end": 73.52,
+  "text": "On vient à peine de rencontrer le futur Heisenberg,",
+  "lines": [
+   "On vient à peine de rencontrer",
+   "le futur Heisenberg,"
+  ],
+  "sids": [
+   "s014"
+  ]
+ },
+ {
+  "start": 73.633,
+  "end": 77.033,
+  "speech_end": 76.503,
+  "text": "et on connaît déjà l’ambiance à table.",
+  "lines": [
+   "et on connaît déjà l’ambiance à table."
+  ],
+  "sids": [
+   "s014"
+  ]
+ },
+ {
+  "start": 77.1,
+  "end": 80.833,
+  "speech_end": 80.593,
+  "text": "Puis Walter apprend qu’il a un cancer du poumon.",
+  "lines": [
+   "Puis Walter apprend",
+   "qu’il a un cancer du poumon."
+  ],
+  "sids": [
+   "s015"
+  ]
+ },
+ {
+  "start": 80.9,
+  "end": 87.233,
+  "speech_end": 87.011,
+  "text": "Il a un fils, sa femme est enceinte, et il s’inquiète de ce qu’il va leur laisser.",
+  "lines": [
+   "Il a un fils, sa femme est enceinte, et",
+   "il s’inquiète de ce qu’il va leur laisser."
+  ],
+  "sids": [
+   "s016"
+  ]
+ },
+ {
+  "start": 87.3,
+  "end": 91.5,
+  "speech_end": 91.256,
+  "text": "Pourquoi se lance-t-il dans la fabrication de drogue ?",
+  "lines": [
+   "Pourquoi se lance-t-il",
+   "dans la fabrication de drogue ?"
+  ],
+  "sids": [
+   "s017"
+  ]
+ },
+ {
+  "start": 91.567,
+  "end": 97.267,
+  "speech_end": 96.739,
+  "text": "À ce stade, « pour mettre sa famille à l’abri » paraît une réponse raisonnable.",
+  "lines": [
+   "À ce stade, « pour mettre sa famille",
+   "à l’abri » paraît une réponse raisonnable."
+  ],
+  "sids": [
+   "s018"
+  ]
+ },
+ {
+  "start": 97.333,
+  "end": 102.133,
+  "speech_end": 101.915,
+  "text": "Quelques épisodes plus tard, le voilà dans le bureau de Tuco.",
+  "lines": [
+   "Quelques épisodes plus tard,",
+   "le voilà dans le bureau de Tuco."
+  ],
+  "sids": [
+   "s019"
+  ]
+ },
+ {
+  "start": 102.2,
+  "end": 104.033,
+  "speech_end": 103.808,
+  "text": "Jesse a été frappé.",
+  "lines": [
+   "Jesse a été frappé."
+  ],
+  "sids": [
+   "s020"
+  ]
+ },
+ {
+  "start": 104.1,
+  "end": 107.1,
+  "speech_end": 106.877,
+  "text": "Walter est venu récupérer son argent.",
+  "lines": [
+   "Walter est venu récupérer son argent."
+  ],
+  "sids": [
+   "s021"
+  ]
+ },
+ {
+  "start": 107.167,
+  "end": 111.967,
+  "speech_end": 111.748,
+  "text": "Il a le crâne rasé, il sort un cristal… et le lance.",
+  "lines": [
+   "Il a le crâne rasé,",
+   "il sort un cristal… et le lance."
+  ],
+  "sids": [
+   "s022"
+  ]
+ },
+ {
+  "start": 112.033,
+  "end": 114.167,
+  "speech_end": 113.148,
+  "text": "Les vitres explosent.",
+  "lines": [
+   "Les vitres explosent."
+  ],
+  "sids": [
+   "s023"
+  ]
+ },
+ {
+  "start": 114.233,
+  "end": 118.333,
+  "speech_end": 118.104,
+  "text": "Juste avant l’explosion, quelle question tu te posais ?",
+  "lines": [
+   "Juste avant l’explosion,",
+   "quelle question tu te posais ?"
+  ],
+  "sids": [
+   "s024"
+  ]
+ },
+ {
+  "start": 118.4,
+  "end": 119.967,
+  "speech_end": 119.793,
+  "text": "Moi, c’était surtout :",
+  "lines": [
+   "Moi, c’était surtout :"
+  ],
+  "sids": [
+   "s025"
+  ]
+ },
+ {
+  "start": 120.033,
+  "end": 124.767,
+  "speech_end": 124.519,
+  "text": "comment ce prof de chimie compte-t-il sortir vivant de cette pièce ?",
+  "lines": [
+   "comment ce prof de chimie compte-t-il",
+   "sortir vivant de cette pièce ?"
+  ],
+  "sids": [
+   "s025"
+  ]
+ },
+ {
+  "start": 124.833,
+  "end": 127.833,
+  "speech_end": 127.613,
+  "text": "Et quand son plan fonctionne, je souffle.",
+  "lines": [
+   "Et quand son plan fonctionne, je souffle."
+  ],
+  "sids": [
+   "s026"
+  ]
+ },
+ {
+  "start": 127.9,
+  "end": 129.867,
+  "speech_end": 129.62,
+  "text": "Je voulais qu’il s’en sorte.",
+  "lines": [
+   "Je voulais qu’il s’en sorte."
+  ],
+  "sids": [
+   "s027"
+  ]
+ },
+ {
+  "start": 129.933,
+  "end": 135.133,
+  "speech_end": 134.585,
+  "text": "Est-ce que j’avais pour autant décidé qu’il avait raison de venir ?",
+  "lines": [
+   "Est-ce que j’avais pour autant",
+   "décidé qu’il avait raison de venir ?"
+  ],
+  "sids": [
+   "s028"
+  ]
+ },
+ {
+  "start": 135.2,
+  "end": 138.133,
+  "speech_end": 138.106,
+  "text": "Le glissement peut se faire un peu plus tard,",
+  "lines": [
+   "Le glissement peut",
+   "se faire un peu plus tard,"
+  ],
+  "sids": [
+   "s029"
+  ]
+ },
+ {
+  "start": 138.2,
+  "end": 143.9,
+  "speech_end": 143.653,
+  "text": "quand on ressort cette petite phrase du début : « Il fait ça pour sa famille. »",
+  "lines": [
+   "quand on ressort cette petite phrase",
+   "du début : « Il fait ça pour sa famille. »"
+  ],
+  "sids": [
+   "s029"
+  ]
+ },
+ {
+  "start": 143.967,
+  "end": 149.3,
+  "speech_end": 148.86,
+  "text": "D’accord. Mais « ça », c’est quoi ? Laisser de l’argent à ses enfants ?",
+  "lines": [
+   "D’accord. Mais « ça », c’est quoi ?",
+   "Laisser de l’argent à ses enfants ?"
+  ],
+  "sids": [
+   "s030",
+   "s031",
+   "s032"
+  ]
+ },
+ {
+  "start": 149.367,
+  "end": 151.067,
+  "speech_end": 150.65,
+  "text": "Entrer chez Tuco ?",
+  "lines": [
+   "Entrer chez Tuco ?"
+  ],
+  "sids": [
+   "s033"
+  ]
+ },
+ {
+  "start": 151.133,
+  "end": 153.967,
+  "speech_end": 153.426,
+  "text": "Continuer à bâtir un empire ?",
+  "lines": [
+   "Continuer à bâtir un empire ?"
+  ],
+  "sids": [
+   "s034"
+  ]
+ },
+ {
+  "start": 154.033,
+  "end": 158.667,
+  "speech_end": 158.147,
+  "text": "À chaque fois, le mot « ça » couvre un peu plus de terrain.",
+  "lines": [
+   "À chaque fois, le mot « ça »",
+   "couvre un peu plus de terrain."
+  ],
+  "sids": [
+   "s035"
+  ]
+ },
+ {
+  "start": 158.733,
+  "end": 165.467,
+  "speech_end": 165.244,
+  "text": "Et pourtant, avant même que Walter entre chez Tuco, il y a eu un coup de téléphone.",
+  "lines": [
+   "Et pourtant, avant même que Walter entre",
+   "chez Tuco, il y a eu un coup de téléphone."
+  ],
+  "sids": [
+   "s036"
+  ]
+ },
+ {
+  "start": 165.533,
+  "end": 169.7,
+  "speech_end": 169.473,
+  "text": "Gretchen insiste : Elliott et elle veulent payer son traitement.",
+  "lines": [
+   "Gretchen insiste : Elliott",
+   "et elle veulent payer son traitement."
+  ],
+  "sids": [
+   "s037"
+  ]
+ },
+ {
+  "start": 169.767,
+  "end": 171.5,
+  "speech_end": 171.253,
+  "text": "Walter la remercie.",
+  "lines": [
+   "Walter la remercie."
+  ],
+  "sids": [
+   "s038"
+  ]
+ },
+ {
+  "start": 171.567,
+  "end": 176.467,
+  "speech_end": 176.229,
+  "text": "Il lui explique que, finalement, son assurance le prend en charge.",
+  "lines": [
+   "Il lui explique que, finalement,",
+   "son assurance le prend en charge."
+  ],
+  "sids": [
+   "s039"
+  ]
+ },
+ {
+  "start": 176.533,
+  "end": 178.867,
+  "speech_end": 178.836,
+  "text": "C’est faux. Et juste après,",
+  "lines": [
+   "C’est faux. Et juste après,"
+  ],
+  "sids": [
+   "s040",
+   "s041"
+  ]
+ },
+ {
+  "start": 178.933,
+  "end": 184.5,
+  "speech_end": 183.981,
+  "text": "il va retrouver Jesse pour lui proposer de reprendre la fabrication.",
+  "lines": [
+   "il va retrouver Jesse pour lui proposer",
+   "de reprendre la fabrication."
+  ],
+  "sids": [
+   "s041"
+  ]
+ },
+ {
+  "start": 184.567,
+  "end": 188.633,
+  "speech_end": 188.588,
+  "text": "Bien sûr, payer son traitement et laisser de l’argent aux enfants,",
+  "lines": [
+   "Bien sûr, payer son traitement",
+   "et laisser de l’argent aux enfants,"
+  ],
+  "sids": [
+   "s042"
+  ]
+ },
+ {
+  "start": 188.7,
+  "end": 191.0,
+  "speech_end": 190.774,
+  "text": "ce sont deux problèmes différents.",
+  "lines": [
+   "ce sont deux problèmes différents."
+  ],
+  "sids": [
+   "s042"
+  ]
+ },
+ {
+  "start": 191.067,
+  "end": 192.9,
+  "speech_end": 192.667,
+  "text": "Mais pourquoi lui mentir ?",
+  "lines": [
+   "Mais pourquoi lui mentir ?"
+  ],
+  "sids": [
+   "s043"
+  ]
+ },
+ {
+  "start": 192.967,
+  "end": 198.633,
+  "speech_end": 198.616,
+  "text": "Si ta première réaction, c’est « Oui, mais tu comprends, avec leur histoire,",
+  "lines": [
+   "Si ta première réaction, c’est « Oui,",
+   "mais tu comprends, avec leur histoire,"
+  ],
+  "sids": [
+   "s044"
+  ]
+ },
+ {
+  "start": 198.7,
+  "end": 204.5,
+  "speech_end": 204.273,
+  "text": "il ne pouvait pas accepter cet argent… », écoute ce que tu viens de faire.",
+  "lines": [
+   "il ne pouvait pas accepter cet argent… »,",
+   "écoute ce que tu viens de faire."
+  ],
+  "sids": [
+   "s044"
+  ]
+ },
+ {
+  "start": 204.567,
+  "end": 206.3,
+  "speech_end": 206.052,
+  "text": "Walter a raccroché.",
+  "lines": [
+   "Walter a raccroché."
+  ],
+  "sids": [
+   "s045"
+  ]
+ },
+ {
+  "start": 206.367,
+  "end": 210.767,
+  "speech_end": 210.222,
+  "text": "C’est toi qui continues la conversation à sa place.",
+  "lines": [
+   "C’est toi qui continues",
+   "la conversation à sa place."
+  ],
+  "sids": [
+   "s046"
+  ]
+ },
+ {
+  "start": 210.833,
+  "end": 216.133,
+  "speech_end": 215.891,
+  "text": "Dans le dernier épisode, Skyler connaît l’argument de la famille par cœur.",
+  "lines": [
+   "Dans le dernier épisode, Skyler",
+   "connaît l’argument de la famille par cœur."
+  ],
+  "sids": [
+   "s047"
+  ]
+ },
+ {
+  "start": 216.2,
+  "end": 221.733,
+  "speech_end": 221.488,
+  "text": "Quand Walter semble prêt à le lui servir une fois de plus, elle l’interrompt.",
+  "lines": [
+   "Quand Walter semble prêt à le lui servir",
+   "une fois de plus, elle l’interrompt."
+  ],
+  "sids": [
+   "s048"
+  ]
+ },
+ {
+  "start": 221.8,
+  "end": 224.733,
+  "speech_end": 224.505,
+  "text": "Cette fois, il lui donne une autre réponse.",
+  "lines": [
+   "Cette fois,",
+   "il lui donne une autre réponse."
+  ],
+  "sids": [
+   "s049"
+  ]
+ },
+ {
+  "start": 224.8,
+  "end": 227.533,
+  "speech_end": 227.309,
+  "text": "Il reconnaît qu’il l’a fait pour lui.",
+  "lines": [
+   "Il reconnaît qu’il l’a fait pour lui."
+  ],
+  "sids": [
+   "s050"
+  ]
+ },
+ {
+  "start": 227.6,
+  "end": 233.4,
+  "speech_end": 232.192,
+  "text": "Il aimait ça. Il était doué. Il se sentait vivant.",
+  "lines": [
+   "Il aimait ça. Il était doué.",
+   "Il se sentait vivant."
+  ],
+  "sids": [
+   "s051",
+   "s052",
+   "s053"
+  ]
+ },
+ {
+  "start": 233.8,
+  "end": 237.3,
+  "speech_end": 237.054,
+  "text": "Ça donne envie de revoir le petit-déjeuner.",
+  "lines": [
+   "Ça donne envie de revoir",
+   "le petit-déjeuner."
+  ],
+  "sids": [
+   "s054"
+  ]
+ },
+ {
+  "start": 237.367,
+  "end": 242.1,
+  "speech_end": 241.868,
+  "text": "On peut croire à la tendresse qu’il y avait autour de cette table.",
+  "lines": [
+   "On peut croire à la tendresse",
+   "qu’il y avait autour de cette table."
+  ],
+  "sids": [
+   "s055"
+  ]
+ },
+ {
+  "start": 242.167,
+  "end": 246.167,
+  "speech_end": 246.137,
+  "text": "La question, c’est combien de temps on a continué,",
+  "lines": [
+   "La question,",
+   "c’est combien de temps on a continué,"
+  ],
+  "sids": [
+   "s056"
+  ]
+ },
+ {
+  "start": 246.233,
+  "end": 249.567,
+  "speech_end": 249.03,
+  "text": "nous, à s’en servir pour défendre Walter.",
+  "lines": [
+   "nous, à s’en servir pour défendre Walter."
+  ],
+  "sids": [
+   "s056"
+  ]
+ },
+ {
+  "start": 249.633,
+  "end": 254.333,
+  "speech_end": 254.334,
+  "text": "Le psychologue Albert Bandura a étudié les raisonnements",
+  "lines": [
+   "Le psychologue Albert Bandura",
+   "a étudié les raisonnements"
+  ],
+  "sids": [
+   "s057"
+  ]
+ },
+ {
+  "start": 254.333,
+  "end": 258.467,
+  "speech_end": 258.241,
+  "text": "qui permettent de rendre ses propres actes acceptables à ses yeux.",
+  "lines": [
+   "qui permettent de rendre ses propres",
+   "actes acceptables à ses yeux."
+  ],
+  "sids": [
+   "s057"
+  ]
+ },
+ {
+  "start": 258.533,
+  "end": 261.267,
+  "speech_end": 260.817,
+  "text": "Il parle de désengagement moral.",
+  "lines": [
+   "Il parle de désengagement moral."
+  ],
+  "sids": [
+   "s058"
+  ]
+ },
+ {
+  "start": 261.333,
+  "end": 266.1,
+  "speech_end": 266.097,
+  "text": "L’un de ces raisonnements consiste à invoquer une cause qu’on juge bonne",
+  "lines": [
+   "L’un de ces raisonnements consiste",
+   "à invoquer une cause qu’on juge bonne"
+  ],
+  "sids": [
+   "s059"
+  ]
+ },
+ {
+  "start": 266.1,
+  "end": 268.533,
+  "speech_end": 268.297,
+  "text": "pour justifier le mal qu’on fait.",
+  "lines": [
+   "pour justifier le mal qu’on fait."
+  ],
+  "sids": [
+   "s059"
+  ]
+ },
+ {
+  "start": 268.6,
+  "end": 271.167,
+  "speech_end": 270.949,
+  "text": "C’est la justification morale.",
+  "lines": [
+   "C’est la justification morale."
+  ],
+  "sids": [
+   "s060"
+  ]
+ },
+ {
+  "start": 271.233,
+  "end": 276.667,
+  "speech_end": 276.432,
+  "text": "Et devant une fiction, on peut se poser la question dans l’autre sens.",
+  "lines": [
+   "Et devant une fiction, on peut",
+   "se poser la question dans l’autre sens."
+  ],
+  "sids": [
+   "s061"
+  ]
+ },
+ {
+  "start": 276.733,
+  "end": 280.233,
+  "speech_end": 279.994,
+  "text": "Walter a fini par abandonner cet argument.",
+  "lines": [
+   "Walter a fini par abandonner cet argument."
+  ],
+  "sids": [
+   "s062"
+  ]
+ },
+ {
+  "start": 280.3,
+  "end": 285.0,
+  "speech_end": 283.784,
+  "text": "Qu’est-ce qui nous donnait encore envie de le plaider ?",
+  "lines": [
+   "Qu’est-ce qui nous donnait",
+   "encore envie de le plaider ?"
+  ],
+  "sids": [
+   "s063"
+  ]
+ },
+ {
+  "start": 286.8,
+  "end": 291.467,
+  "speech_end": 291.246,
+  "text": "Avec Eren, on a presque un souvenir d’enfance en commun.",
+  "lines": [
+   "Avec Eren, on a presque",
+   "un souvenir d’enfance en commun."
+  ],
+  "sids": [
+   "s064"
+  ]
+ },
+ {
+  "start": 291.533,
+  "end": 295.267,
+  "speech_end": 295.036,
+  "text": "On était là quand Armin a ouvert le livre.",
+  "lines": [
+   "On était là quand Armin a ouvert le livre."
+  ],
+  "sids": [
+   "s065"
+  ]
+ },
+ {
+  "start": 295.333,
+  "end": 299.367,
+  "speech_end": 299.129,
+  "text": "On était là quand Eren a vu sa mère mourir.",
+  "lines": [
+   "On était là quand Eren",
+   "a vu sa mère mourir."
+  ],
+  "sids": [
+   "s066"
+  ]
+ },
+ {
+  "start": 299.433,
+  "end": 305.133,
+  "speech_end": 305.105,
+  "text": "Et bien plus tard, quand Eren adulte apparaît dans un sous-sol face à Reiner,",
+  "lines": [
+   "Et bien plus tard, quand Eren adulte",
+   "apparaît dans un sous-sol face à Reiner,"
+  ],
+  "sids": [
+   "s067"
+  ]
+ },
+ {
+  "start": 305.2,
+  "end": 311.2,
+  "speech_end": 310.971,
+  "text": "on reconnaît derrière ses cheveux longs le gamin à qui tout ça est arrivé.",
+  "lines": [
+   "on reconnaît derrière ses cheveux",
+   "longs le gamin à qui tout ça est arrivé."
+  ],
+  "sids": [
+   "s067"
+  ]
+ },
+ {
+  "start": 311.267,
+  "end": 316.833,
+  "speech_end": 316.289,
+  "text": "Reiner, lui, vient à peine de comprendre qui est assis en face de lui.",
+  "lines": [
+   "Reiner, lui, vient à peine de comprendre",
+   "qui est assis en face de lui."
+  ],
+  "sids": [
+   "s068"
+  ]
+ },
+ {
+  "start": 316.9,
+  "end": 320.8,
+  "speech_end": 320.796,
+  "text": "Le chercheur Jonathan Cohen décrit l’identification",
+  "lines": [
+   "Le chercheur Jonathan",
+   "Cohen décrit l’identification"
+  ],
+  "sids": [
+   "s069"
+  ]
+ },
+ {
+  "start": 320.8,
+  "end": 325.033,
+  "speech_end": 325.006,
+  "text": "comme un moment où l’on adopte le point de vue d’un personnage,",
+  "lines": [
+   "comme un moment où l’on adopte",
+   "le point de vue d’un personnage,"
+  ],
+  "sids": [
+   "s069"
+  ]
+ },
+ {
+  "start": 325.1,
+  "end": 329.933,
+  "speech_end": 329.696,
+  "text": "où l’on partage quelque chose de ses émotions ou de ses buts.",
+  "lines": [
+   "où l’on partage quelque chose",
+   "de ses émotions ou de ses buts."
+  ],
+  "sids": [
+   "s069"
+  ]
+ },
+ {
+  "start": 330.0,
+  "end": 331.833,
+  "speech_end": 331.589,
+  "text": "Reprends le livre d’Armin.",
+  "lines": [
+   "Reprends le livre d’Armin."
+  ],
+  "sids": [
+   "s070"
+  ]
+ },
+ {
+  "start": 331.9,
+  "end": 337.967,
+  "speech_end": 337.741,
+  "text": "Est-ce que tu t’es seulement demandé, à cet instant, si Eren t’était sympathique ?",
+  "lines": [
+   "Est-ce que tu t’es seulement demandé, à",
+   "cet instant, si Eren t’était sympathique ?"
+  ],
+  "sids": [
+   "s071"
+  ]
+ },
+ {
+  "start": 338.033,
+  "end": 344.267,
+  "speech_end": 344.045,
+  "text": "Moi, ce que je voulais savoir, c’était ce qu’il y avait de l’autre côté du mur.",
+  "lines": [
+   "Moi, ce que je voulais savoir, c’était",
+   "ce qu’il y avait de l’autre côté du mur."
+  ],
+  "sids": [
+   "s072"
+  ]
+ },
+ {
+  "start": 344.333,
+  "end": 349.633,
+  "speech_end": 348.694,
+  "text": "Pendant quelques secondes, sa question était devenue la mienne.",
+  "lines": [
+   "Pendant quelques secondes,",
+   "sa question était devenue la mienne."
+  ],
+  "sids": [
+   "s073"
+  ]
+ },
+ {
+  "start": 349.7,
+  "end": 353.733,
+  "speech_end": 353.487,
+  "text": "Et puis il y a l’affection qu’on lui porte déjà.",
+  "lines": [
+   "Et puis il y a l’affection",
+   "qu’on lui porte déjà."
+  ],
+  "sids": [
+   "s074"
+  ]
+ },
+ {
+  "start": 353.8,
+  "end": 357.267,
+  "speech_end": 357.239,
+  "text": "Dans ses travaux sur la disposition affective,",
+  "lines": [
+   "Dans ses travaux",
+   "sur la disposition affective,"
+  ],
+  "sids": [
+   "s075"
+  ]
+ },
+ {
+  "start": 357.333,
+  "end": 362.7,
+  "speech_end": 362.687,
+  "text": "Arthur Raney propose que les sentiments qu’on a formés envers un personnage",
+  "lines": [
+   "Arthur Raney propose que les sentiments",
+   "qu’on a formés envers un personnage"
+  ],
+  "sids": [
+   "s075"
+  ]
+ },
+ {
+  "start": 362.7,
+  "end": 367.433,
+  "speech_end": 367.202,
+  "text": "puissent peser sur la manière dont on juge ses actes par la suite.",
+  "lines": [
+   "puissent peser sur la manière",
+   "dont on juge ses actes par la suite."
+  ],
+  "sids": [
+   "s075"
+  ]
+ },
+ {
+  "start": 367.5,
+  "end": 372.733,
+  "speech_end": 372.698,
+  "text": "Quand un inconnu entre dans une pièce en faisant peur à tout le monde,",
+  "lines": [
+   "Quand un inconnu entre dans une pièce",
+   "en faisant peur à tout le monde,"
+  ],
+  "sids": [
+   "s076"
+  ]
+ },
+ {
+  "start": 372.8,
+  "end": 376.4,
+  "speech_end": 376.174,
+  "text": "tu peux très vite souhaiter que quelqu’un l’arrête.",
+  "lines": [
+   "tu peux très vite souhaiter",
+   "que quelqu’un l’arrête."
+  ],
+  "sids": [
+   "s076"
+  ]
+ },
+ {
+  "start": 376.467,
+  "end": 381.9,
+  "speech_end": 381.657,
+  "text": "Quand c’est Eren, tu voudras peut-être d’abord entendre ce qu’il a à dire.",
+  "lines": [
+   "Quand c’est Eren, tu voudras peut-être",
+   "d’abord entendre ce qu’il a à dire."
+  ],
+  "sids": [
+   "s077"
+  ]
+ },
+ {
+  "start": 381.967,
+  "end": 385.2,
+  "speech_end": 384.651,
+  "text": "Tu lui accordes le temps de s’expliquer.",
+  "lines": [
+   "Tu lui accordes le temps de s’expliquer."
+  ],
+  "sids": [
+   "s078"
+  ]
+ },
+ {
+  "start": 385.267,
+  "end": 387.467,
+  "speech_end": 387.223,
+  "text": "Reviens maintenant à Ramzi.",
+  "lines": [
+   "Reviens maintenant à Ramzi."
+  ],
+  "sids": [
+   "s079"
+  ]
+ },
+ {
+  "start": 387.533,
+  "end": 390.533,
+  "speech_end": 390.292,
+  "text": "Lui aussi a quelqu’un à protéger.",
+  "lines": [
+   "Lui aussi a quelqu’un à protéger."
+  ],
+  "sids": [
+   "s080"
+  ]
+ },
+ {
+  "start": 390.6,
+  "end": 393.033,
+  "speech_end": 392.792,
+  "text": "Halil court à côté de lui.",
+  "lines": [
+   "Halil court à côté de lui."
+  ],
+  "sids": [
+   "s081"
+  ]
+ },
+ {
+  "start": 393.1,
+  "end": 397.433,
+  "speech_end": 397.213,
+  "text": "Sauf que nous, ça fait à peine quelques instants qu’on les suit.",
+  "lines": [
+   "Sauf que nous, ça fait à peine",
+   "quelques instants qu’on les suit."
+  ],
+  "sids": [
+   "s082"
+  ]
+ },
+ {
+  "start": 397.5,
+  "end": 401.567,
+  "speech_end": 401.331,
+  "text": "Et pour eux, la question qui se pose est toute simple.",
+  "lines": [
+   "Et pour eux,",
+   "la question qui se pose est toute simple."
+  ],
+  "sids": [
+   "s083"
+  ]
+ },
+ {
+  "start": 401.633,
+  "end": 408.067,
+  "speech_end": 406.928,
+  "text": "Si même la montagne n’arrête pas les Titans, où est-ce qu’on est censé courir ?",
+  "lines": [
+   "Si même la montagne n’arrête pas les",
+   "Titans, où est-ce qu’on est censé courir ?"
+  ],
+  "sids": [
+   "s084"
+  ]
+ },
+ {
+  "start": 408.133,
+  "end": 411.667,
+  "speech_end": 411.428,
+  "text": "C’est là qu’une autre défense mérite qu’on s’y arrête.",
+  "lines": [
+   "C’est là qu’une autre",
+   "défense mérite qu’on s’y arrête."
+  ],
+  "sids": [
+   "s085"
+  ]
+ },
+ {
+  "start": 411.733,
+  "end": 415.767,
+  "speech_end": 415.545,
+  "text": "« Oui, mais regarde ce que l’autre camp a fait aux siens. »",
+  "lines": [
+   "« Oui, mais regarde ce que l’autre",
+   "camp a fait aux siens. »"
+  ],
+  "sids": [
+   "s086"
+  ]
+ },
+ {
+  "start": 415.833,
+  "end": 418.867,
+  "speech_end": 418.88,
+  "text": "Bandura parle de comparaison avantageuse",
+  "lines": [
+   "Bandura parle de comparaison avantageuse"
+  ],
+  "sids": [
+   "s087"
+  ]
+ },
+ {
+  "start": 418.867,
+  "end": 424.6,
+  "speech_end": 424.38,
+  "text": "quand on rend un acte plus acceptable en le rapprochant d’un autre qu’on juge pire.",
+  "lines": [
+   "quand on rend un acte plus acceptable en",
+   "le rapprochant d’un autre qu’on juge pire."
+  ],
+  "sids": [
+   "s087"
+  ]
+ },
+ {
+  "start": 424.667,
+  "end": 430.033,
+  "speech_end": 429.801,
+  "text": "Comparer les responsabilités peut être indispensable pour comprendre une guerre.",
+  "lines": [
+   "Comparer les responsabilités peut être",
+   "indispensable pour comprendre une guerre."
+  ],
+  "sids": [
+   "s088"
+  ]
+ },
+ {
+  "start": 430.1,
+  "end": 435.2,
+  "speech_end": 434.957,
+  "text": "Mais écoute ce qui vient d’arriver à Ramzi dans notre conversation.",
+  "lines": [
+   "Mais écoute ce qui vient d’arriver",
+   "à Ramzi dans notre conversation."
+  ],
+  "sids": [
+   "s089"
+  ]
+ },
+ {
+  "start": 435.267,
+  "end": 438.5,
+  "speech_end": 438.253,
+  "text": "Il était devant nous une seconde plus tôt.",
+  "lines": [
+   "Il était devant nous une seconde plus tôt."
+  ],
+  "sids": [
+   "s090"
+  ]
+ },
+ {
+  "start": 438.567,
+  "end": 443.6,
+  "speech_end": 443.357,
+  "text": "Maintenant, on est en train de dresser la liste des crimes d’autres personnes.",
+  "lines": [
+   "Maintenant, on est en train de dresser",
+   "la liste des crimes d’autres personnes."
+  ],
+  "sids": [
+   "s091"
+  ]
+ },
+ {
+  "start": 443.667,
+  "end": 449.333,
+  "speech_end": 448.133,
+  "text": "Qu’a fait cet enfant pour se retrouver du côté des accusés ?",
+  "lines": [
+   "Qu’a fait cet enfant",
+   "pour se retrouver du côté des accusés ?"
+  ],
+  "sids": [
+   "s092"
+  ]
+ },
+ {
+  "start": 449.733,
+  "end": 454.533,
+  "speech_end": 454.309,
+  "text": "La série nous montre aussi leur rencontre, avant le Grand Terrassement.",
+  "lines": [
+   "La série nous montre aussi leur rencontre,",
+   "avant le Grand Terrassement."
+  ],
+  "sids": [
+   "s093"
+  ]
+ },
+ {
+  "start": 454.6,
+  "end": 457.233,
+  "speech_end": 456.999,
+  "text": "Eren est en larmes devant Ramzi.",
+  "lines": [
+   "Eren est en larmes devant Ramzi."
+  ],
+  "sids": [
+   "s094"
+  ]
+ },
+ {
+  "start": 457.3,
+  "end": 460.633,
+  "speech_end": 460.396,
+  "text": "À qui va ta compassion, sur ce plan ?",
+  "lines": [
+   "À qui va ta compassion, sur ce plan ?"
+  ],
+  "sids": [
+   "s095"
+  ]
+ },
+ {
+  "start": 460.7,
+  "end": 465.3,
+  "speech_end": 465.272,
+  "text": "Tu peux être touché de voir Eren pleurer, espérer qu’il renonce,",
+  "lines": [
+   "Tu peux être touché de voir Eren pleurer,",
+   "espérer qu’il renonce,"
+  ],
+  "sids": [
+   "s096"
+  ]
+ },
+ {
+  "start": 465.367,
+  "end": 470.267,
+  "speech_end": 469.051,
+  "text": "et savoir exactement qui tu voudrais mettre à l’abri.",
+  "lines": [
+   "et savoir exactement",
+   "qui tu voudrais mettre à l’abri."
+  ],
+  "sids": [
+   "s096"
+  ]
+ },
+ {
+  "start": 472.067,
+  "end": 476.733,
+  "speech_end": 476.514,
+  "text": "Pour défendre Anakin, il suffit parfois de prononcer un nom.",
+  "lines": [
+   "Pour défendre Anakin,",
+   "il suffit parfois de prononcer un nom."
+  ],
+  "sids": [
+   "s097"
+  ]
+ },
+ {
+  "start": 476.8,
+  "end": 478.233,
+  "speech_end": 477.496,
+  "text": "Palpatine.",
+  "lines": [
+   "Palpatine."
+  ],
+  "sids": [
+   "s098"
+  ]
+ },
+ {
+  "start": 478.3,
+  "end": 481.4,
+  "speech_end": 481.179,
+  "text": "Regarde comment ils sont assis à l’opéra.",
+  "lines": [
+   "Regarde comment ils sont assis à l’opéra."
+  ],
+  "sids": [
+   "s099"
+  ]
+ },
+ {
+  "start": 481.467,
+  "end": 483.9,
+  "speech_end": 483.666,
+  "text": "Côte à côte, presque immobiles.",
+  "lines": [
+   "Côte à côte, presque immobiles."
+  ],
+  "sids": [
+   "s100"
+  ]
+ },
+ {
+  "start": 483.967,
+  "end": 486.6,
+  "speech_end": 486.355,
+  "text": "Anakin a peur de perdre Padmé.",
+  "lines": [
+   "Anakin a peur de perdre Padmé."
+  ],
+  "sids": [
+   "s101"
+  ]
+ },
+ {
+  "start": 486.667,
+  "end": 490.833,
+  "speech_end": 490.828,
+  "text": "Et voilà que Palpatine lui raconte l’histoire d’un seigneur Sith",
+  "lines": [
+   "Et voilà que Palpatine lui raconte",
+   "l’histoire d’un seigneur Sith"
+  ],
+  "sids": [
+   "s102"
+  ]
+ },
+ {
+  "start": 490.833,
+  "end": 494.367,
+  "speech_end": 494.128,
+  "text": "qui aurait su garder en vie ceux qu’il aimait.",
+  "lines": [
+   "qui aurait su garder",
+   "en vie ceux qu’il aimait."
+  ],
+  "sids": [
+   "s102"
+  ]
+ },
+ {
+  "start": 494.433,
+  "end": 499.5,
+  "speech_end": 499.497,
+  "text": "À la place d’Anakin, on comprend très bien pourquoi on resterait assis",
+  "lines": [
+   "À la place d’Anakin, on comprend",
+   "très bien pourquoi on resterait assis"
+  ],
+  "sids": [
+   "s103"
+  ]
+ },
+ {
+  "start": 499.5,
+  "end": 502.533,
+  "speech_end": 502.001,
+  "text": "pour entendre la fin de cette histoire.",
+  "lines": [
+   "pour entendre la fin de cette histoire."
+  ],
+  "sids": [
+   "s103"
+  ]
+ },
+ {
+  "start": 502.6,
+  "end": 505.033,
+  "speech_end": 504.787,
+  "text": "Sur Mustafar, regarde leurs mains.",
+  "lines": [
+   "Sur Mustafar, regarde leurs mains."
+  ],
+  "sids": [
+   "s104"
+  ]
+ },
+ {
+  "start": 505.1,
+  "end": 506.9,
+  "speech_end": 506.68,
+  "text": "Anakin lève la sienne.",
+  "lines": [
+   "Anakin lève la sienne."
+  ],
+  "sids": [
+   "s105"
+  ]
+ },
+ {
+  "start": 506.967,
+  "end": 509.533,
+  "speech_end": 509.294,
+  "text": "Padmé porte les siennes à sa gorge.",
+  "lines": [
+   "Padmé porte les siennes à sa gorge."
+  ],
+  "sids": [
+   "s106"
+  ]
+ },
+ {
+  "start": 509.6,
+  "end": 514.633,
+  "speech_end": 514.602,
+  "text": "Si je fige l’image ici et que je te demande qui agit sur qui,",
+  "lines": [
+   "Si je fige l’image ici",
+   "et que je te demande qui agit sur qui,"
+  ],
+  "sids": [
+   "s107"
+  ]
+ },
+ {
+  "start": 514.7,
+  "end": 517.433,
+  "speech_end": 516.902,
+  "text": "ta réponse tient en quelques mots.",
+  "lines": [
+   "ta réponse tient en quelques mots."
+  ],
+  "sids": [
+   "s107"
+  ]
+ },
+ {
+  "start": 517.5,
+  "end": 523.1,
+  "speech_end": 522.874,
+  "text": "Si je remets la scène de l’opéra, ta réponse devient peut-être plus longue.",
+  "lines": [
+   "Si je remets la scène de l’opéra,",
+   "ta réponse devient peut-être plus longue."
+  ],
+  "sids": [
+   "s108"
+  ]
+ },
+ {
+  "start": 523.167,
+  "end": 525.9,
+  "speech_end": 525.868,
+  "text": "Tu vas parler de la peur d’Anakin,",
+  "lines": [
+   "Tu vas parler de la peur d’Anakin,"
+  ],
+  "sids": [
+   "s109"
+  ]
+ },
+ {
+  "start": 525.967,
+  "end": 530.467,
+  "speech_end": 530.24,
+  "text": "de l’influence de Palpatine, de cette promesse de sauver Padmé.",
+  "lines": [
+   "de l’influence de Palpatine,",
+   "de cette promesse de sauver Padmé."
+  ],
+  "sids": [
+   "s109"
+  ]
+ },
+ {
+  "start": 530.533,
+  "end": 534.967,
+  "speech_end": 534.447,
+  "text": "Tout ça compte pour comprendre comment il en est arrivé là.",
+  "lines": [
+   "Tout ça compte pour comprendre",
+   "comment il en est arrivé là."
+  ],
+  "sids": [
+   "s110"
+  ]
+ },
+ {
+  "start": 535.033,
+  "end": 537.367,
+  "speech_end": 537.12,
+  "text": "Maintenant, reviens à l’image.",
+  "lines": [
+   "Maintenant, reviens à l’image."
+  ],
+  "sids": [
+   "s111"
+  ]
+ },
+ {
+  "start": 537.433,
+  "end": 540.333,
+  "speech_end": 539.127,
+  "text": "Qui a levé la main ?",
+  "lines": [
+   "Qui a levé la main ?"
+  ],
+  "sids": [
+   "s112"
+  ]
+ },
+ {
+  "start": 540.533,
+  "end": 545.667,
+  "speech_end": 545.444,
+  "text": "« Palpatine l’a manipulé », c’est une explication de sa trajectoire.",
+  "lines": [
+   "« Palpatine l’a manipulé »,",
+   "c’est une explication de sa trajectoire."
+  ],
+  "sids": [
+   "s113"
+  ]
+ },
+ {
+  "start": 545.733,
+  "end": 550.267,
+  "speech_end": 550.017,
+  "text": "« Donc Anakin n’y est pour rien », ça ajoute une conclusion.",
+  "lines": [
+   "« Donc Anakin n’y est pour rien »,",
+   "ça ajoute une conclusion."
+  ],
+  "sids": [
+   "s114"
+  ]
+ },
+ {
+  "start": 550.333,
+  "end": 553.433,
+  "speech_end": 553.427,
+  "text": "Ce passage de l’une à l’autre ressemble à ce",
+  "lines": [
+   "Ce passage de l’une",
+   "à l’autre ressemble à ce"
+  ],
+  "sids": [
+   "s115"
+  ]
+ },
+ {
+  "start": 553.433,
+  "end": 557.667,
+  "speech_end": 557.448,
+  "text": "que Bandura appelle le déplacement de responsabilité.",
+  "lines": [
+   "que Bandura appelle",
+   "le déplacement de responsabilité."
+  ],
+  "sids": [
+   "s115"
+  ]
+ },
+ {
+  "start": 557.733,
+  "end": 560.667,
+  "speech_end": 560.442,
+  "text": "Écoute simplement le sujet de nos phrases.",
+  "lines": [
+   "Écoute simplement le sujet de nos phrases."
+  ],
+  "sids": [
+   "s116"
+  ]
+ },
+ {
+  "start": 560.733,
+  "end": 564.267,
+  "speech_end": 564.028,
+  "text": "À l’image, Anakin vient de lever la main.",
+  "lines": [
+   "À l’image, Anakin vient de lever la main."
+  ],
+  "sids": [
+   "s117"
+  ]
+ },
+ {
+  "start": 564.333,
+  "end": 569.133,
+  "speech_end": 568.601,
+  "text": "Dans notre plaidoyer, toutes les phrases commencent désormais par « Palpatine ».",
+  "lines": [
+   "Dans notre plaidoyer, toutes les phrases",
+   "commencent désormais par « Palpatine »."
+  ],
+  "sids": [
+   "s118"
+  ]
+ },
+ {
+  "start": 569.2,
+  "end": 571.633,
+  "speech_end": 571.401,
+  "text": "Et puis il y a Obi-Wan.",
+  "lines": [
+   "Et puis il y a Obi-Wan."
+  ],
+  "sids": [
+   "s119"
+  ]
+ },
+ {
+  "start": 571.7,
+  "end": 577.367,
+  "speech_end": 577.325,
+  "text": "À la fin du duel, quand il parle à Anakin au bord de la lave, moi,",
+  "lines": [
+   "À la fin du duel, quand il parle",
+   "à Anakin au bord de la lave, moi,"
+  ],
+  "sids": [
+   "s120"
+  ]
+ },
+ {
+  "start": 577.433,
+  "end": 580.533,
+  "speech_end": 580.308,
+  "text": "j’en reviens toujours à la même question.",
+  "lines": [
+   "j’en reviens toujours à la même question."
+  ],
+  "sids": [
+   "s120"
+  ]
+ },
+ {
+  "start": 580.6,
+  "end": 584.6,
+  "speech_end": 584.363,
+  "text": "À quel moment Anakin aurait-il encore pu s’arrêter ?",
+  "lines": [
+   "À quel moment Anakin",
+   "aurait-il encore pu s’arrêter ?"
+  ],
+  "sids": [
+   "s121"
+  ]
+ },
+ {
+  "start": 584.667,
+  "end": 586.3,
+  "speech_end": 586.067,
+  "text": "On connaît ses choix.",
+  "lines": [
+   "On connaît ses choix."
+  ],
+  "sids": [
+   "s122"
+  ]
+ },
+ {
+  "start": 586.367,
+  "end": 589.233,
+  "speech_end": 588.984,
+  "text": "On connaît même la suite de sa vie.",
+  "lines": [
+   "On connaît même la suite de sa vie."
+  ],
+  "sids": [
+   "s123"
+  ]
+ },
+ {
+  "start": 589.3,
+  "end": 592.0,
+  "speech_end": 591.964,
+  "text": "Et pourtant, pendant qu’Obi-Wan lui parle,",
+  "lines": [
+   "Et pourtant, pendant qu’Obi-Wan lui parle,"
+  ],
+  "sids": [
+   "s124"
+  ]
+ },
+ {
+  "start": 592.067,
+  "end": 597.367,
+  "speech_end": 596.161,
+  "text": "on cherche encore une issue pour le garçon qu’il a formé.",
+  "lines": [
+   "on cherche encore une issue",
+   "pour le garçon qu’il a formé."
+  ],
+  "sids": [
+   "s124"
+  ]
+ },
+ {
+  "start": 599.167,
+  "end": 601.667,
+  "speech_end": 601.437,
+  "text": "Reprenons le geste sur Mustafar.",
+  "lines": [
+   "Reprenons le geste sur Mustafar."
+  ],
+  "sids": [
+   "s125"
+  ]
+ },
+ {
+  "start": 601.733,
+  "end": 604.533,
+  "speech_end": 604.302,
+  "text": "La première fois, regarde Anakin.",
+  "lines": [
+   "La première fois, regarde Anakin."
+  ],
+  "sids": [
+   "s126"
+  ]
+ },
+ {
+  "start": 604.6,
+  "end": 608.233,
+  "speech_end": 607.03,
+  "text": "Qu’est-ce qu’il croit être en train de perdre ?",
+  "lines": [
+   "Qu’est-ce qu’il croit",
+   "être en train de perdre ?"
+  ],
+  "sids": [
+   "s127"
+  ]
+ },
+ {
+  "start": 611.233,
+  "end": 613.033,
+  "speech_end": 612.809,
+  "text": "Maintenant, même image.",
+  "lines": [
+   "Maintenant, même image."
+  ],
+  "sids": [
+   "s128"
+  ]
+ },
+ {
+  "start": 613.1,
+  "end": 618.833,
+  "speech_end": 617.62,
+  "text": "Regarde Padmé. Qu’est-ce qu’elle vient de comprendre sur l’homme en face d’elle ?",
+  "lines": [
+   "Regarde Padmé. Qu’est-ce qu’elle vient",
+   "de comprendre sur l’homme en face d’elle ?"
+  ],
+  "sids": [
+   "s129",
+   "s130"
+  ]
+ },
+ {
+  "start": 621.833,
+  "end": 626.733,
+  "speech_end": 625.537,
+  "text": "Est-ce que tu as regardé la même chose les deux fois ?",
+  "lines": [
+   "Est-ce que tu as regardé",
+   "la même chose les deux fois ?"
+  ],
+  "sids": [
+   "s131"
+  ]
+ },
+ {
+  "start": 627.133,
+  "end": 633.167,
+  "speech_end": 632.927,
+  "text": "En 1975, Regan et Totten ont étudié une question voisine.",
+  "lines": [
+   "En 1975, Regan et Totten ont",
+   "étudié une question voisine."
+  ],
+  "sids": [
+   "s132"
+  ]
+ },
+ {
+  "start": 633.233,
+  "end": 635.8,
+  "speech_end": 635.793,
+  "text": "Dans leur expérience, des participants",
+  "lines": [
+   "Dans leur expérience, des participants"
+  ],
+  "sids": [
+   "s133"
+  ]
+ },
+ {
+  "start": 635.8,
+  "end": 640.567,
+  "speech_end": 640.345,
+  "text": "regardaient l’enregistrement de deux personnes en train de faire connaissance.",
+  "lines": [
+   "regardaient l’enregistrement de deux",
+   "personnes en train de faire connaissance."
+  ],
+  "sids": [
+   "s133"
+  ]
+ },
+ {
+  "start": 640.633,
+  "end": 646.833,
+  "speech_end": 646.6,
+  "text": "Tout le monde voyait la même conversation et devait s’intéresser à la même personne.",
+  "lines": [
+   "Tout le monde voyait la même conversation",
+   "et devait s’intéresser à la même personne."
+  ],
+  "sids": [
+   "s134"
+  ]
+ },
+ {
+  "start": 646.9,
+  "end": 650.833,
+  "speech_end": 650.604,
+  "text": "Ce qui changeait d’un groupe à l’autre, c’était la consigne.",
+  "lines": [
+   "Ce qui changeait d’un groupe à l’autre,",
+   "c’était la consigne."
+  ],
+  "sids": [
+   "s135"
+  ]
+ },
+ {
+  "start": 650.9,
+  "end": 652.933,
+  "speech_end": 652.687,
+  "text": "Les uns devaient l’observer.",
+  "lines": [
+   "Les uns devaient l’observer."
+  ],
+  "sids": [
+   "s136"
+  ]
+ },
+ {
+  "start": 653.0,
+  "end": 656.833,
+  "speech_end": 656.008,
+  "text": "Les autres, essayer de se mettre à sa place.",
+  "lines": [
+   "Les autres,",
+   "essayer de se mettre à sa place."
+  ],
+  "sids": [
+   "s137"
+  ]
+ },
+ {
+  "start": 656.9,
+  "end": 660.7,
+  "speech_end": 660.46,
+  "text": "Ensuite, on leur demandait d’expliquer son comportement.",
+  "lines": [
+   "Ensuite, on leur demandait",
+   "d’expliquer son comportement."
+  ],
+  "sids": [
+   "s138"
+  ]
+ },
+ {
+  "start": 660.767,
+  "end": 662.367,
+  "speech_end": 662.353,
+  "text": "Ceux qui avaient essayé",
+  "lines": [
+   "Ceux qui avaient essayé"
+  ],
+  "sids": [
+   "s139"
+  ]
+ },
+ {
+  "start": 662.367,
+  "end": 667.833,
+  "speech_end": 667.815,
+  "text": "de se mettre à sa place accordaient davantage de poids à la situation,",
+  "lines": [
+   "de se mettre à sa place accordaient",
+   "davantage de poids à la situation,"
+  ],
+  "sids": [
+   "s139"
+  ]
+ },
+ {
+  "start": 667.9,
+  "end": 673.4,
+  "speech_end": 672.871,
+  "text": "et moins à sa personnalité, que ceux qui l’avaient simplement observée.",
+  "lines": [
+   "et moins à sa personnalité, que ceux",
+   "qui l’avaient simplement observée."
+  ],
+  "sids": [
+   "s139"
+  ]
+ },
+ {
+  "start": 673.467,
+  "end": 678.167,
+  "speech_end": 677.933,
+  "text": "Ce que les chercheurs ont recueilli, ce sont des explications.",
+  "lines": [
+   "Ce que les chercheurs ont recueilli,",
+   "ce sont des explications."
+  ],
+  "sids": [
+   "s140"
+  ]
+ },
+ {
+  "start": 678.233,
+  "end": 681.467,
+  "speech_end": 680.623,
+  "text": "Personne n’avait à rendre de verdict.",
+  "lines": [
+   "Personne n’avait à rendre de verdict."
+  ],
+  "sids": [
+   "s141"
+  ]
+ },
+ {
+  "start": 681.533,
+  "end": 684.533,
+  "speech_end": 684.292,
+  "text": "Alors reviens un instant à l’opéra.",
+  "lines": [
+   "Alors reviens un instant à l’opéra."
+  ],
+  "sids": [
+   "s142"
+  ]
+ },
+ {
+  "start": 684.6,
+  "end": 688.433,
+  "speech_end": 688.385,
+  "text": "Si cette scène t’a aidé à comprendre la peur d’Anakin,",
+  "lines": [
+   "Si cette scène t’a aidé",
+   "à comprendre la peur d’Anakin,"
+  ],
+  "sids": [
+   "s143"
+  ]
+ },
+ {
+  "start": 688.5,
+  "end": 692.767,
+  "speech_end": 692.544,
+  "text": "est-ce qu’elle a changé ton avis sur sa responsabilité ?",
+  "lines": [
+   "est-ce qu’elle a changé",
+   "ton avis sur sa responsabilité ?"
+  ],
+  "sids": [
+   "s143"
+  ]
+ },
+ {
+  "start": 692.833,
+  "end": 699.233,
+  "speech_end": 698.041,
+  "text": "Ou est-ce que tu sais simplement mieux raconter comment il en est arrivé là ?",
+  "lines": [
+   "Ou est-ce que tu sais simplement mieux",
+   "raconter comment il en est arrivé là ?"
+  ],
+  "sids": [
+   "s144"
+  ]
+ },
+ {
+  "start": 701.033,
+  "end": 703.933,
+  "speech_end": 703.696,
+  "text": "Il reste une dernière possibilité.",
+  "lines": [
+   "Il reste une dernière possibilité."
+  ],
+  "sids": [
+   "s145"
+  ]
+ },
+ {
+  "start": 704.0,
+  "end": 707.4,
+  "speech_end": 707.372,
+  "text": "Peut-être qu’on t’accuse de défendre Walter alors que,",
+  "lines": [
+   "Peut-être qu’on t’accuse",
+   "de défendre Walter alors que,"
+  ],
+  "sids": [
+   "s146"
+  ]
+ },
+ {
+  "start": 707.467,
+  "end": 711.7,
+  "speech_end": 711.176,
+  "text": "toi, tu as juste dit que tu adorais Breaking Bad.",
+  "lines": [
+   "toi, tu as juste dit",
+   "que tu adorais Breaking Bad."
+  ],
+  "sids": [
+   "s146"
+  ]
+ },
+ {
+  "start": 711.767,
+  "end": 714.967,
+  "speech_end": 714.924,
+  "text": "Dans une expérience publiée en 2023,",
+  "lines": [
+   "Dans une expérience publiée en 2023,"
+  ],
+  "sids": [
+   "s147"
+  ]
+ },
+ {
+  "start": 715.033,
+  "end": 719.8,
+  "speech_end": 719.576,
+  "text": "Jordan Wylie et Ana Gantman donnaient un choix aux participants.",
+  "lines": [
+   "Jordan Wylie et Ana Gantman",
+   "donnaient un choix aux participants."
+  ],
+  "sids": [
+   "s147"
+  ]
+ },
+ {
+  "start": 719.867,
+  "end": 723.467,
+  "speech_end": 723.442,
+  "text": "Ils pouvaient découvrir à quoi ressemblait une personne,",
+  "lines": [
+   "Ils pouvaient découvrir",
+   "à quoi ressemblait une personne,"
+  ],
+  "sids": [
+   "s148"
+  ]
+ },
+ {
+  "start": 723.533,
+  "end": 728.067,
+  "speech_end": 727.828,
+  "text": "ou en apprendre davantage sur ce qu’elle avait vécu et fait.",
+  "lines": [
+   "ou en apprendre davantage",
+   "sur ce qu’elle avait vécu et fait."
+  ],
+  "sids": [
+   "s148"
+  ]
+ },
+ {
+  "start": 728.133,
+  "end": 731.933,
+  "speech_end": 731.884,
+  "text": "Quand la personne leur était présentée comme immorale,",
+  "lines": [
+   "Quand la personne leur était",
+   "présentée comme immorale,"
+  ],
+  "sids": [
+   "s149"
+  ]
+ },
+ {
+  "start": 732.0,
+  "end": 735.367,
+  "speech_end": 735.36,
+  "text": "ils choisissaient plus souvent de découvrir son histoire",
+  "lines": [
+   "ils choisissaient plus souvent",
+   "de découvrir son histoire"
+  ],
+  "sids": [
+   "s149"
+  ]
+ },
+ {
+  "start": 735.367,
+  "end": 739.967,
+  "speech_end": 739.419,
+  "text": "que lorsqu’elle leur était présentée comme quelqu’un de bien.",
+  "lines": [
+   "que lorsqu’elle leur était",
+   "présentée comme quelqu’un de bien."
+  ],
+  "sids": [
+   "s149"
+  ]
+ },
+ {
+  "start": 740.033,
+  "end": 741.533,
+  "speech_end": 741.536,
+  "text": "Et je trouve que ça",
+  "lines": [
+   "Et je trouve que ça"
+  ],
+  "sids": [
+   "s150"
+  ]
+ },
+ {
+  "start": 741.533,
+  "end": 746.067,
+  "speech_end": 745.822,
+  "text": "décrit assez bien un plaisir qu’on peut prendre devant Breaking Bad.",
+  "lines": [
+   "décrit assez bien un plaisir qu’on",
+   "peut prendre devant Breaking Bad."
+  ],
+  "sids": [
+   "s150"
+  ]
+ },
+ {
+  "start": 746.133,
+  "end": 747.633,
+  "speech_end": 747.64,
+  "text": "Comment on passe du type",
+  "lines": [
+   "Comment on passe du type"
+  ],
+  "sids": [
+   "s151"
+  ]
+ },
+ {
+  "start": 747.633,
+  "end": 754.067,
+  "speech_end": 753.823,
+  "text": "qui mange du bacon végétal en famille au type qui fait sauter le bureau de Tuco ?",
+  "lines": [
+   "qui mange du bacon végétal en famille au",
+   "type qui fait sauter le bureau de Tuco ?"
+  ],
+  "sids": [
+   "s151"
+  ]
+ },
+ {
+  "start": 754.133,
+  "end": 759.733,
+  "speech_end": 759.192,
+  "text": "Rien que pour comprendre le trajet, j’ai envie de lancer l’épisode suivant.",
+  "lines": [
+   "Rien que pour comprendre le trajet,",
+   "j’ai envie de lancer l’épisode suivant."
+  ],
+  "sids": [
+   "s152"
+  ]
+ },
+ {
+  "start": 759.8,
+  "end": 764.0,
+  "speech_end": 763.471,
+  "text": "Essaie de répondre à ces trois questions sur Walter.",
+  "lines": [
+   "Essaie de répondre",
+   "à ces trois questions sur Walter."
+  ],
+  "sids": [
+   "s153"
+  ]
+ },
+ {
+  "start": 764.067,
+  "end": 769.467,
+  "speech_end": 768.282,
+  "text": "Est-ce que tu voulais connaître la suite de son plan chez Tuco ?",
+  "lines": [
+   "Est-ce que tu voulais connaître",
+   "la suite de son plan chez Tuco ?"
+  ],
+  "sids": [
+   "s154"
+  ]
+ },
+ {
+  "start": 770.267,
+  "end": 774.6,
+  "speech_end": 773.393,
+  "text": "Est-ce que tu voulais qu’il rentre chez lui vivant ?",
+  "lines": [
+   "Est-ce que tu voulais",
+   "qu’il rentre chez lui vivant ?"
+  ],
+  "sids": [
+   "s155"
+  ]
+ },
+ {
+  "start": 775.4,
+  "end": 778.767,
+  "speech_end": 778.769,
+  "text": "Est-ce que tu aurais trouvé sa conduite acceptable",
+  "lines": [
+   "Est-ce que tu aurais",
+   "trouvé sa conduite acceptable"
+  ],
+  "sids": [
+   "s156"
+  ]
+ },
+ {
+  "start": 778.767,
+  "end": 783.967,
+  "speech_end": 782.752,
+  "text": "si tu avais été assis dans le bureau d’à côté ?",
+  "lines": [
+   "si tu avais été assis",
+   "dans le bureau d’à côté ?"
+  ],
+  "sids": [
+   "s156"
+  ]
+ },
+ {
+  "start": 785.367,
+  "end": 788.767,
+  "speech_end": 787.941,
+  "text": "Tu peux répondre oui, oui, non.",
+  "lines": [
+   "Tu peux répondre oui, oui, non."
+  ],
+  "sids": [
+   "s157"
+  ]
+ },
+ {
+  "start": 788.833,
+  "end": 791.0,
+  "speech_end": 790.99,
+  "text": "La curiosité, l’attachement",
+  "lines": [
+   "La curiosité, l’attachement"
+  ],
+  "sids": [
+   "s158"
+  ]
+ },
+ {
+  "start": 791.0,
+  "end": 796.6,
+  "speech_end": 795.39,
+  "text": "et le jugement moral n’ont pas besoin d’aller dans le même sens.",
+  "lines": [
+   "et le jugement moral n’ont pas",
+   "besoin d’aller dans le même sens."
+  ],
+  "sids": [
+   "s158"
+  ]
+ },
+ {
+  "start": 798.4,
+  "end": 801.133,
+  "speech_end": 800.894,
+  "text": "Je te laisse avec le livre d’Armin.",
+  "lines": [
+   "Je te laisse avec le livre d’Armin."
+  ],
+  "sids": [
+   "s159"
+  ]
+ },
+ {
+  "start": 801.2,
+  "end": 805.833,
+  "speech_end": 805.594,
+  "text": "Tu peux toujours souhaiter à ces deux gamins de voir la mer.",
+  "lines": [
+   "Tu peux toujours souhaiter",
+   "à ces deux gamins de voir la mer."
+  ],
+  "sids": [
+   "s160"
+  ]
+ },
+ {
+  "start": 805.9,
+  "end": 809.567,
+  "speech_end": 809.56,
+  "text": "Maintenant, tu connais aussi le visage de l’enfant",
+  "lines": [
+   "Maintenant,",
+   "tu connais aussi le visage de l’enfant"
+  ],
+  "sids": [
+   "s161"
+  ]
+ },
+ {
+  "start": 809.567,
+  "end": 813.5,
+  "speech_end": 812.556,
+  "text": "qui a vu les Titans passer la montagne.",
+  "lines": [
+   "qui a vu les Titans passer la montagne."
+  ],
+  "sids": [
+   "s161"
+  ]
+ },
+ {
+  "start": 813.567,
+  "end": 817.833,
+  "speech_end": 817.805,
+  "text": "Si L’Attaque des Titans t’avait présenté Ramzi en premier,",
+  "lines": [
+   "Si L’Attaque des Titans",
+   "t’avait présenté Ramzi en premier,"
+  ],
+  "sids": [
+   "s162"
+  ]
+ },
+ {
+  "start": 817.9,
+  "end": 822.967,
+  "speech_end": 822.57,
+  "text": "et qu’Eren était entré dans ton histoire seulement à ce moment-là…",
+  "lines": [
+   "et qu’Eren était entré dans ton histoire",
+   "seulement à ce moment-là…"
+  ],
+  "sids": [
+   "s162"
+  ]
+ },
+ {
+  "start": 823.033,
+  "end": 827.9,
+  "speech_end": 826.7,
+  "text": "est-ce que tu l’aurais défendu de la même manière ?",
+  "lines": [
+   "est-ce que tu l’aurais",
+   "défendu de la même manière ?"
+  ],
+  "sids": [
+   "s162"
+  ]
+ }
+]
